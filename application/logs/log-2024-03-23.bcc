@@ -1,0 +1,34 @@
+ERROR - 2024-03-23 01:54:05 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-03-23 03:13:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-23 03:13:40 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-03-23 03:13:40 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-03-23 03:13:40 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-03-23 03:13:40 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-03-23 03:13:40 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-03-23 03:13:40 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-03-23 03:24:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-23 03:24:11 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-03-23 05:16:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-23 05:16:52 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-03-23 05:16:52 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-03-23 05:16:52 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-03-23 05:16:52 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-03-23 05:16:52 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-03-23 05:16:52 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-03-23 07:57:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-23 11:19:53 --> 404 Page Not Found: Student/UserProfile
+ERROR - 2024-03-23 11:21:07 --> 404 Page Not Found: Webview/dist
+ERROR - 2024-03-23 13:06:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-23 13:54:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-23 13:54:54 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-03-23 13:54:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-23 13:54:56 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-03-23 15:54:56 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-03-23 15:55:01 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-03-23 16:48:18 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-03-23 22:01:29 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php:212) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-03-23 22:01:29 --> Severity: Error --> Maximum execution time of 300 seconds exceeded /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php 212
+ERROR - 2024-03-23 22:01:29 --> Severity: Warning --> Unknown: Cannot call session save handler in a recursive manner Unknown 0
+ERROR - 2024-03-23 22:01:29 --> Severity: Warning --> Unknown: Failed to write session data using user defined save handler. (session.save_path: /var/cpanel/php/sessions/ea-php73) Unknown 0
+ERROR - 2024-03-23 23:08:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-23 23:57:41 --> 404 Page Not Found: Robotstxt/index

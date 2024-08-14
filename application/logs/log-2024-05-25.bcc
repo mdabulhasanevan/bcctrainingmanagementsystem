@@ -1,0 +1,372 @@
+ERROR - 2024-05-25 02:15:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-25 02:15:58 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-05-25 02:15:58 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-05-25 02:15:58 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-05-25 02:15:58 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-05-25 02:15:58 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-05-25 02:15:58 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-05-25 05:08:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-25 05:58:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-25 05:58:35 --> Severity: Notice --> Trying to get property 'Headline' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 9
+ERROR - 2024-05-25 05:58:35 --> Severity: Notice --> Trying to get property 'Date' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 10
+ERROR - 2024-05-25 05:58:35 --> Severity: Notice --> Trying to get property 'Detail' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 12
+ERROR - 2024-05-25 06:23:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-25 09:05:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-25 09:19:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-25 11:02:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-25 11:05:07 --> Severity: Notice --> Trying to get property 'Headline' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/WebView/NoticeOpen.php 25
+ERROR - 2024-05-25 11:05:07 --> Severity: Notice --> Trying to get property 'Date' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/WebView/NoticeOpen.php 26
+ERROR - 2024-05-25 11:05:07 --> Severity: Notice --> Trying to get property 'Detail' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/WebView/NoticeOpen.php 28
+ERROR - 2024-05-25 11:07:29 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 11:07:33 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 11:07:33 --> Severity: Notice --> Undefined variable: SharedID /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 30
+ERROR - 2024-05-25 11:07:33 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') order by FID DESC' at line 1 - Invalid query: SELECT * FROM FileSharing Where UserID IN () order by FID DESC
+ERROR - 2024-05-25 11:07:33 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 31
+ERROR - 2024-05-25 11:07:33 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-05-25 11:09:51 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 11:09:51 --> Severity: Notice --> Undefined variable: SharedID /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 30
+ERROR - 2024-05-25 11:09:51 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') order by FID DESC' at line 1 - Invalid query: SELECT * FROM FileSharing Where UserID IN () order by FID DESC
+ERROR - 2024-05-25 11:09:51 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 31
+ERROR - 2024-05-25 11:09:51 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-05-25 11:13:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-25 11:15:50 --> Severity: Notice --> Undefined variable: array /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/FileSharing/index.php 61
+ERROR - 2024-05-25 11:15:50 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/FileSharing/index.php 61
+ERROR - 2024-05-25 11:15:50 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 11:15:50 --> Severity: Notice --> Undefined variable: SharedID /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 30
+ERROR - 2024-05-25 11:15:50 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') order by FID DESC' at line 1 - Invalid query: SELECT * FROM FileSharing Where UserID IN () order by FID DESC
+ERROR - 2024-05-25 11:15:50 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 31
+ERROR - 2024-05-25 11:15:50 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-05-25 11:16:06 --> Severity: Notice --> Undefined variable: array /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/FileSharing/index.php 61
+ERROR - 2024-05-25 11:16:06 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/FileSharing/index.php 61
+ERROR - 2024-05-25 11:16:06 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 11:16:07 --> Severity: Notice --> Undefined variable: SharedID /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 30
+ERROR - 2024-05-25 11:16:07 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') order by FID DESC' at line 1 - Invalid query: SELECT * FROM FileSharing Where UserID IN () order by FID DESC
+ERROR - 2024-05-25 11:16:07 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 31
+ERROR - 2024-05-25 11:16:07 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-05-25 11:16:21 --> Severity: Notice --> Undefined variable: array /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/FileSharing/index.php 61
+ERROR - 2024-05-25 11:16:21 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/FileSharing/index.php 61
+ERROR - 2024-05-25 11:16:22 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 11:16:22 --> Severity: Notice --> Undefined variable: SharedID /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 30
+ERROR - 2024-05-25 11:16:22 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') order by FID DESC' at line 1 - Invalid query: SELECT * FROM FileSharing Where UserID IN () order by FID DESC
+ERROR - 2024-05-25 11:16:22 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 31
+ERROR - 2024-05-25 11:16:22 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-05-25 11:16:56 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 11:16:56 --> Severity: Notice --> Undefined variable: SharedID /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 30
+ERROR - 2024-05-25 11:16:56 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') order by FID DESC' at line 1 - Invalid query: SELECT * FROM FileSharing Where UserID IN () order by FID DESC
+ERROR - 2024-05-25 11:16:56 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 31
+ERROR - 2024-05-25 11:16:56 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-05-25 11:17:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-25 11:17:37 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 11:17:37 --> Severity: Notice --> Undefined variable: SharedID /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 30
+ERROR - 2024-05-25 11:17:37 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') order by FID DESC' at line 1 - Invalid query: SELECT * FROM FileSharing Where UserID IN () order by FID DESC
+ERROR - 2024-05-25 11:17:37 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 31
+ERROR - 2024-05-25 11:17:37 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-05-25 11:18:31 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 11:18:31 --> Severity: Notice --> Undefined variable: SharedID /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 30
+ERROR - 2024-05-25 11:18:31 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') order by FID DESC' at line 1 - Invalid query: SELECT * FROM FileSharing Where UserID IN () order by FID DESC
+ERROR - 2024-05-25 11:18:31 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 31
+ERROR - 2024-05-25 11:18:31 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-05-25 11:18:46 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 11:18:46 --> Severity: Notice --> Undefined variable: SharedID /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 30
+ERROR - 2024-05-25 11:18:46 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') order by FID DESC' at line 1 - Invalid query: SELECT * FROM FileSharing Where UserID IN () order by FID DESC
+ERROR - 2024-05-25 11:18:46 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 31
+ERROR - 2024-05-25 11:18:46 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-05-25 11:21:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-25 11:35:34 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 11:35:34 --> Severity: Notice --> Undefined variable: SharedID /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 30
+ERROR - 2024-05-25 11:35:34 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') order by FID DESC' at line 1 - Invalid query: SELECT * FROM FileSharing Where UserID IN () order by FID DESC
+ERROR - 2024-05-25 11:35:34 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 31
+ERROR - 2024-05-25 11:35:34 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-05-25 11:40:10 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 11:40:10 --> Severity: Notice --> Undefined variable: SharedID /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 30
+ERROR - 2024-05-25 11:40:10 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') order by FID DESC' at line 1 - Invalid query: SELECT * FROM FileSharing Where UserID IN () order by FID DESC
+ERROR - 2024-05-25 11:40:10 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 31
+ERROR - 2024-05-25 11:40:10 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-05-25 11:44:16 --> Severity: Notice --> Trying to get property 'FileName' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/FileSharing/index.php 56
+ERROR - 2024-05-25 11:44:17 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 11:44:17 --> Severity: Notice --> Undefined variable: SharedID /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 30
+ERROR - 2024-05-25 11:44:17 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') order by FID DESC' at line 1 - Invalid query: SELECT * FROM FileSharing Where UserID IN () order by FID DESC
+ERROR - 2024-05-25 11:44:17 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 31
+ERROR - 2024-05-25 11:44:17 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-05-25 11:51:36 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 11:51:37 --> Severity: Notice --> Undefined variable: SharedID /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 30
+ERROR - 2024-05-25 11:51:37 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') order by FID DESC' at line 1 - Invalid query: SELECT * FROM FileSharing Where UserID IN () order by FID DESC
+ERROR - 2024-05-25 11:51:37 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 31
+ERROR - 2024-05-25 11:51:37 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-05-25 11:57:55 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 11:57:56 --> Severity: Notice --> Undefined variable: SharedID /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 30
+ERROR - 2024-05-25 11:57:56 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') order by FID DESC' at line 1 - Invalid query: SELECT * FROM FileSharing Where UserID IN () order by FID DESC
+ERROR - 2024-05-25 11:57:56 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 31
+ERROR - 2024-05-25 11:57:56 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-05-25 11:59:59 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 12:00:00 --> Severity: Notice --> Undefined variable: SharedID /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 30
+ERROR - 2024-05-25 12:00:00 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') order by FID DESC' at line 1 - Invalid query: SELECT * FROM FileSharing Where UserID IN () order by FID DESC
+ERROR - 2024-05-25 12:00:00 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 31
+ERROR - 2024-05-25 12:00:00 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-05-25 12:00:33 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 12:00:34 --> Severity: Notice --> Undefined variable: SharedID /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 30
+ERROR - 2024-05-25 12:00:34 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') order by FID DESC' at line 1 - Invalid query: SELECT * FROM FileSharing Where UserID IN () order by FID DESC
+ERROR - 2024-05-25 12:00:34 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 31
+ERROR - 2024-05-25 12:00:34 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-05-25 12:01:00 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 12:01:00 --> Severity: Notice --> Undefined variable: SharedID /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 30
+ERROR - 2024-05-25 12:01:00 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') order by FID DESC' at line 1 - Invalid query: SELECT * FROM FileSharing Where UserID IN () order by FID DESC
+ERROR - 2024-05-25 12:01:00 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 31
+ERROR - 2024-05-25 12:01:00 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-05-25 12:01:57 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 12:01:58 --> Severity: Notice --> Undefined variable: SharedID /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 30
+ERROR - 2024-05-25 12:01:58 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') order by FID DESC' at line 1 - Invalid query: SELECT * FROM FileSharing Where UserID IN () order by FID DESC
+ERROR - 2024-05-25 12:01:58 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 31
+ERROR - 2024-05-25 12:01:58 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-05-25 12:03:17 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 12:03:17 --> Severity: Notice --> Undefined variable: SharedID /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 30
+ERROR - 2024-05-25 12:03:17 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') order by FID DESC' at line 1 - Invalid query: SELECT * FROM FileSharing Where UserID IN () order by FID DESC
+ERROR - 2024-05-25 12:03:17 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 31
+ERROR - 2024-05-25 12:03:17 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-05-25 12:04:57 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 12:04:57 --> Severity: Notice --> Undefined variable: SharedID /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 30
+ERROR - 2024-05-25 12:04:57 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') order by FID DESC' at line 1 - Invalid query: SELECT * FROM FileSharing Where UserID IN () order by FID DESC
+ERROR - 2024-05-25 12:04:57 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 31
+ERROR - 2024-05-25 12:04:57 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-05-25 12:05:37 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 12:05:37 --> Severity: Notice --> Undefined variable: SharedID /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 30
+ERROR - 2024-05-25 12:05:37 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') order by FID DESC' at line 1 - Invalid query: SELECT * FROM FileSharing Where UserID IN () order by FID DESC
+ERROR - 2024-05-25 12:05:37 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 31
+ERROR - 2024-05-25 12:05:37 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-05-25 12:07:06 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 12:07:06 --> Severity: Notice --> Undefined variable: SharedID /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 30
+ERROR - 2024-05-25 12:07:06 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') order by FID DESC' at line 1 - Invalid query: SELECT * FROM FileSharing Where UserID IN () order by FID DESC
+ERROR - 2024-05-25 12:07:06 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 31
+ERROR - 2024-05-25 12:07:06 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-05-25 12:07:51 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 12:07:51 --> Severity: Notice --> Undefined variable: SharedID /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 30
+ERROR - 2024-05-25 12:07:51 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') order by FID DESC' at line 1 - Invalid query: SELECT * FROM FileSharing Where UserID IN () order by FID DESC
+ERROR - 2024-05-25 12:07:51 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 31
+ERROR - 2024-05-25 12:07:51 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-05-25 12:08:11 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 12:08:11 --> Severity: Notice --> Undefined variable: SharedID /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 30
+ERROR - 2024-05-25 12:08:11 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') order by FID DESC' at line 1 - Invalid query: SELECT * FROM FileSharing Where UserID IN () order by FID DESC
+ERROR - 2024-05-25 12:08:11 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 31
+ERROR - 2024-05-25 12:08:11 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-05-25 12:08:13 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 12:08:13 --> Severity: Notice --> Undefined variable: SharedID /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 30
+ERROR - 2024-05-25 12:08:13 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') order by FID DESC' at line 1 - Invalid query: SELECT * FROM FileSharing Where UserID IN () order by FID DESC
+ERROR - 2024-05-25 12:08:13 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 31
+ERROR - 2024-05-25 12:08:13 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-05-25 12:08:55 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 12:08:55 --> Severity: Notice --> Undefined variable: SharedID /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 30
+ERROR - 2024-05-25 12:08:55 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') order by FID DESC' at line 1 - Invalid query: SELECT * FROM FileSharing Where UserID IN () order by FID DESC
+ERROR - 2024-05-25 12:08:55 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 31
+ERROR - 2024-05-25 12:08:55 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-05-25 12:10:09 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 12:10:09 --> Severity: Notice --> Undefined variable: SharedID /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 30
+ERROR - 2024-05-25 12:10:09 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') order by FID DESC' at line 1 - Invalid query: SELECT * FROM FileSharing Where UserID IN () order by FID DESC
+ERROR - 2024-05-25 12:10:09 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 31
+ERROR - 2024-05-25 12:10:09 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-05-25 12:20:16 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 12:20:16 --> Severity: Notice --> Undefined variable: SharedID /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 30
+ERROR - 2024-05-25 12:20:16 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') order by FID DESC' at line 1 - Invalid query: SELECT * FROM FileSharing Where UserID IN () order by FID DESC
+ERROR - 2024-05-25 12:20:16 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 31
+ERROR - 2024-05-25 12:20:16 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-05-25 12:21:00 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 12:21:00 --> Severity: Notice --> Undefined variable: SharedID /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 30
+ERROR - 2024-05-25 12:21:00 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') order by FID DESC' at line 1 - Invalid query: SELECT * FROM FileSharing Where UserID IN () order by FID DESC
+ERROR - 2024-05-25 12:21:00 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 31
+ERROR - 2024-05-25 12:21:00 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-05-25 12:21:16 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 12:21:16 --> Severity: Notice --> Undefined variable: SharedID /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 30
+ERROR - 2024-05-25 12:21:16 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') order by FID DESC' at line 1 - Invalid query: SELECT * FROM FileSharing Where UserID IN () order by FID DESC
+ERROR - 2024-05-25 12:21:16 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 31
+ERROR - 2024-05-25 12:21:16 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-05-25 12:21:33 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 12:21:33 --> Severity: Notice --> Undefined variable: SharedID /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 30
+ERROR - 2024-05-25 12:21:33 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') order by FID DESC' at line 1 - Invalid query: SELECT * FROM FileSharing Where UserID IN () order by FID DESC
+ERROR - 2024-05-25 12:21:33 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 31
+ERROR - 2024-05-25 12:21:33 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-05-25 12:24:59 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 12:24:59 --> Severity: Notice --> Undefined variable: SharedID /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 30
+ERROR - 2024-05-25 12:24:59 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') order by FID DESC' at line 1 - Invalid query: SELECT * FROM FileSharing Where UserID IN () order by FID DESC
+ERROR - 2024-05-25 12:24:59 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 31
+ERROR - 2024-05-25 12:24:59 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-05-25 12:25:50 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 12:25:51 --> Severity: Notice --> Undefined variable: SharedID /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 30
+ERROR - 2024-05-25 12:25:51 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') order by FID DESC' at line 1 - Invalid query: SELECT * FROM FileSharing Where UserID IN () order by FID DESC
+ERROR - 2024-05-25 12:25:51 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 31
+ERROR - 2024-05-25 12:25:51 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-05-25 14:10:42 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 14:10:47 --> Severity: Notice --> Undefined variable: SharedID /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 30
+ERROR - 2024-05-25 14:10:47 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') order by FID DESC' at line 1 - Invalid query: SELECT * FROM FileSharing Where UserID IN () order by FID DESC
+ERROR - 2024-05-25 14:10:47 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 31
+ERROR - 2024-05-25 14:10:47 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-05-25 14:14:28 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 14:14:28 --> Severity: Notice --> Undefined variable: SharedID /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 30
+ERROR - 2024-05-25 14:14:28 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') order by FID DESC' at line 1 - Invalid query: SELECT * FROM FileSharing Where UserID IN () order by FID DESC
+ERROR - 2024-05-25 14:14:28 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 31
+ERROR - 2024-05-25 14:14:28 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-05-25 14:15:00 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 14:15:00 --> Severity: Notice --> Undefined variable: SharedID /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 30
+ERROR - 2024-05-25 14:15:00 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') order by FID DESC' at line 1 - Invalid query: SELECT * FROM FileSharing Where UserID IN () order by FID DESC
+ERROR - 2024-05-25 14:15:00 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 31
+ERROR - 2024-05-25 14:15:00 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-05-25 14:16:41 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 14:16:41 --> Severity: Notice --> Undefined variable: SharedID /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 30
+ERROR - 2024-05-25 14:16:41 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') order by FID DESC' at line 1 - Invalid query: SELECT * FROM FileSharing Where UserID IN () order by FID DESC
+ERROR - 2024-05-25 14:16:41 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 31
+ERROR - 2024-05-25 14:16:41 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-05-25 14:18:14 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 14:18:14 --> Severity: Notice --> Undefined variable: SharedID /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 30
+ERROR - 2024-05-25 14:18:14 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') order by FID DESC' at line 1 - Invalid query: SELECT * FROM FileSharing Where UserID IN () order by FID DESC
+ERROR - 2024-05-25 14:18:14 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 31
+ERROR - 2024-05-25 14:18:14 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-05-25 14:18:28 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 14:18:28 --> Severity: Notice --> Undefined variable: SharedID /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 30
+ERROR - 2024-05-25 14:18:28 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') order by FID DESC' at line 1 - Invalid query: SELECT * FROM FileSharing Where UserID IN () order by FID DESC
+ERROR - 2024-05-25 14:18:28 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 31
+ERROR - 2024-05-25 14:18:28 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-05-25 14:29:06 --> 404 Page Not Found: Dist/js
+ERROR - 2024-05-25 14:29:07 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 14:29:07 --> 404 Page Not Found: Dist/js
+ERROR - 2024-05-25 14:29:08 --> Severity: Notice --> Undefined variable: SharedID /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 30
+ERROR - 2024-05-25 14:29:08 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') order by FID DESC' at line 1 - Invalid query: SELECT * FROM FileSharing Where UserID IN () order by FID DESC
+ERROR - 2024-05-25 14:29:08 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 31
+ERROR - 2024-05-25 14:29:08 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-05-25 14:30:02 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 14:30:03 --> 404 Page Not Found: Dist/js
+ERROR - 2024-05-25 14:30:03 --> Severity: Notice --> Undefined variable: SharedID /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 30
+ERROR - 2024-05-25 14:30:03 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') order by FID DESC' at line 1 - Invalid query: SELECT * FROM FileSharing Where UserID IN () order by FID DESC
+ERROR - 2024-05-25 14:30:03 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 31
+ERROR - 2024-05-25 14:30:03 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-05-25 14:31:19 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 14:31:20 --> Severity: Notice --> Undefined variable: SharedID /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 30
+ERROR - 2024-05-25 14:31:20 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') order by FID DESC' at line 1 - Invalid query: SELECT * FROM FileSharing Where UserID IN () order by FID DESC
+ERROR - 2024-05-25 14:31:20 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 31
+ERROR - 2024-05-25 14:31:20 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-05-25 14:31:20 --> 404 Page Not Found: Dist/js
+ERROR - 2024-05-25 14:31:27 --> 404 Page Not Found: Uploads/SharedFiles
+ERROR - 2024-05-25 14:31:37 --> 404 Page Not Found: Uploads/SharedFiles
+ERROR - 2024-05-25 14:32:16 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 14:32:16 --> Severity: Notice --> Undefined variable: SharedID /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 30
+ERROR - 2024-05-25 14:32:16 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') order by FID DESC' at line 1 - Invalid query: SELECT * FROM FileSharing Where UserID IN () order by FID DESC
+ERROR - 2024-05-25 14:32:16 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 31
+ERROR - 2024-05-25 14:32:16 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-05-25 14:33:21 --> 404 Page Not Found: Uploads/SharedFiles
+ERROR - 2024-05-25 14:33:26 --> Severity: Warning --> unlink(./uploads/SharedFiles/file_66517f243f4226_11834322.png, file_66517f24400f95_23040351.jpg): No such file or directory /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 72
+ERROR - 2024-05-25 14:33:26 --> Severity: Warning --> Use of undefined constant m - assumed 'm' (this will throw an Error in a future version of PHP) /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 76
+ERROR - 2024-05-25 14:41:12 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 14:41:22 --> Severity: Notice --> Undefined variable: SharedID /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 30
+ERROR - 2024-05-25 14:41:22 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') order by FID DESC' at line 1 - Invalid query: SELECT * FROM FileSharing Where UserID IN () order by FID DESC
+ERROR - 2024-05-25 14:41:22 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 31
+ERROR - 2024-05-25 14:41:22 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-05-25 14:41:32 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 14:42:08 --> Severity: error --> Exception: syntax error, unexpected end of file /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/user/dashboard.php 514
+ERROR - 2024-05-25 14:42:54 --> Severity: Warning --> Use of undefined constant uploads - assumed 'uploads' (this will throw an Error in a future version of PHP) /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/user/dashboard.php 244
+ERROR - 2024-05-25 14:42:54 --> Severity: Warning --> Use of undefined constant SharedFiles - assumed 'SharedFiles' (this will throw an Error in a future version of PHP) /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/user/dashboard.php 244
+ERROR - 2024-05-25 14:42:54 --> Severity: Warning --> A non-numeric value encountered /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/user/dashboard.php 244
+ERROR - 2024-05-25 14:42:54 --> Severity: Warning --> A non-numeric value encountered /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/user/dashboard.php 244
+ERROR - 2024-05-25 14:42:54 --> Severity: Warning --> Division by zero /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/user/dashboard.php 244
+ERROR - 2024-05-25 14:42:54 --> Severity: Warning --> A non-numeric value encountered /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/user/dashboard.php 244
+ERROR - 2024-05-25 14:42:54 --> Severity: Warning --> Division by zero /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/user/dashboard.php 244
+ERROR - 2024-05-25 14:42:54 --> Severity: Warning --> Use of undefined constant uploads - assumed 'uploads' (this will throw an Error in a future version of PHP) /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/user/dashboard.php 244
+ERROR - 2024-05-25 14:42:54 --> Severity: Warning --> Use of undefined constant SharedFiles - assumed 'SharedFiles' (this will throw an Error in a future version of PHP) /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/user/dashboard.php 244
+ERROR - 2024-05-25 14:42:54 --> Severity: Warning --> A non-numeric value encountered /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/user/dashboard.php 244
+ERROR - 2024-05-25 14:42:54 --> Severity: Warning --> A non-numeric value encountered /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/user/dashboard.php 244
+ERROR - 2024-05-25 14:42:54 --> Severity: Warning --> Division by zero /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/user/dashboard.php 244
+ERROR - 2024-05-25 14:42:54 --> Severity: Warning --> A non-numeric value encountered /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/user/dashboard.php 244
+ERROR - 2024-05-25 14:42:54 --> Severity: Warning --> Division by zero /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/user/dashboard.php 244
+ERROR - 2024-05-25 14:42:54 --> Severity: Warning --> Use of undefined constant uploads - assumed 'uploads' (this will throw an Error in a future version of PHP) /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/user/dashboard.php 244
+ERROR - 2024-05-25 14:42:54 --> Severity: Warning --> Use of undefined constant SharedFiles - assumed 'SharedFiles' (this will throw an Error in a future version of PHP) /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/user/dashboard.php 244
+ERROR - 2024-05-25 14:42:54 --> Severity: Warning --> A non-numeric value encountered /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/user/dashboard.php 244
+ERROR - 2024-05-25 14:42:54 --> Severity: Warning --> A non-numeric value encountered /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/user/dashboard.php 244
+ERROR - 2024-05-25 14:42:54 --> Severity: Warning --> Division by zero /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/user/dashboard.php 244
+ERROR - 2024-05-25 14:42:54 --> Severity: Warning --> A non-numeric value encountered /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/user/dashboard.php 244
+ERROR - 2024-05-25 14:42:54 --> Severity: Warning --> Division by zero /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/user/dashboard.php 244
+ERROR - 2024-05-25 14:42:54 --> Severity: Warning --> Use of undefined constant uploads - assumed 'uploads' (this will throw an Error in a future version of PHP) /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/user/dashboard.php 244
+ERROR - 2024-05-25 14:42:54 --> Severity: Warning --> Use of undefined constant SharedFiles - assumed 'SharedFiles' (this will throw an Error in a future version of PHP) /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/user/dashboard.php 244
+ERROR - 2024-05-25 14:42:54 --> Severity: Warning --> A non-numeric value encountered /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/user/dashboard.php 244
+ERROR - 2024-05-25 14:42:54 --> Severity: Warning --> A non-numeric value encountered /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/user/dashboard.php 244
+ERROR - 2024-05-25 14:42:54 --> Severity: Warning --> Division by zero /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/user/dashboard.php 244
+ERROR - 2024-05-25 14:42:54 --> Severity: Warning --> A non-numeric value encountered /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/user/dashboard.php 244
+ERROR - 2024-05-25 14:42:54 --> Severity: Warning --> Division by zero /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/user/dashboard.php 244
+ERROR - 2024-05-25 14:42:55 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 14:43:29 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 14:43:33 --> 404 Page Not Found: Uploads/SharedFiles
+ERROR - 2024-05-25 15:53:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-25 15:53:59 --> 404 Page Not Found: Enhance/index
+ERROR - 2024-05-25 16:03:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-25 16:03:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-25 16:03:39 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-05-25 16:03:40 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-05-25 17:18:34 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 17:19:00 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 17:19:01 --> Severity: Notice --> Undefined variable: SharedID /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 30
+ERROR - 2024-05-25 17:19:01 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') order by FID DESC' at line 1 - Invalid query: SELECT * FROM FileSharing Where UserID IN () order by FID DESC
+ERROR - 2024-05-25 17:19:01 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 31
+ERROR - 2024-05-25 17:19:01 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-05-25 17:19:18 --> Severity: Warning --> unlink(./uploads/SharedFiles/Name 1, Name 2): No such file or directory /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 72
+ERROR - 2024-05-25 17:19:18 --> Severity: Warning --> Use of undefined constant m - assumed 'm' (this will throw an Error in a future version of PHP) /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 76
+ERROR - 2024-05-25 18:11:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-25 18:28:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-25 18:28:22 --> Severity: Notice --> Undefined variable: SharedID /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 30
+ERROR - 2024-05-25 18:28:22 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') order by FID DESC' at line 1 - Invalid query: SELECT * FROM FileSharing Where UserID IN () order by FID DESC
+ERROR - 2024-05-25 18:28:22 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 31
+ERROR - 2024-05-25 18:28:22 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-05-25 20:12:31 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 20:12:42 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 20:14:02 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 20:14:03 --> Severity: Notice --> Undefined variable: SharedID /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 30
+ERROR - 2024-05-25 20:14:03 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') order by FID DESC' at line 1 - Invalid query: SELECT * FROM FileSharing Where UserID IN () order by FID DESC
+ERROR - 2024-05-25 20:14:03 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 31
+ERROR - 2024-05-25 20:14:03 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-05-25 20:16:19 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 20:16:19 --> Severity: Notice --> Undefined variable: SharedID /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 30
+ERROR - 2024-05-25 20:16:19 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') order by FID DESC' at line 1 - Invalid query: SELECT * FROM FileSharing Where UserID IN () order by FID DESC
+ERROR - 2024-05-25 20:16:19 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 31
+ERROR - 2024-05-25 20:16:19 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-05-25 20:19:14 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 20:19:14 --> Severity: Notice --> Undefined variable: SharedID /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 30
+ERROR - 2024-05-25 20:19:14 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') order by FID DESC' at line 1 - Invalid query: SELECT * FROM FileSharing Where UserID IN () order by FID DESC
+ERROR - 2024-05-25 20:19:14 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 31
+ERROR - 2024-05-25 20:19:14 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-05-25 20:19:54 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 20:19:55 --> Severity: Notice --> Undefined variable: SharedID /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 30
+ERROR - 2024-05-25 20:19:55 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') order by FID DESC' at line 1 - Invalid query: SELECT * FROM FileSharing Where UserID IN () order by FID DESC
+ERROR - 2024-05-25 20:19:55 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 31
+ERROR - 2024-05-25 20:19:55 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-05-25 20:29:03 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 20:29:04 --> Severity: Notice --> Undefined variable: SharedID /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 30
+ERROR - 2024-05-25 20:29:04 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') order by FID DESC' at line 1 - Invalid query: SELECT * FROM FileSharing Where UserID IN () order by FID DESC
+ERROR - 2024-05-25 20:29:04 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 31
+ERROR - 2024-05-25 20:29:04 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-05-25 20:29:21 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 20:29:22 --> Severity: Notice --> Undefined variable: SharedID /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 30
+ERROR - 2024-05-25 20:29:22 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') order by FID DESC' at line 1 - Invalid query: SELECT * FROM FileSharing Where UserID IN () order by FID DESC
+ERROR - 2024-05-25 20:29:22 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 31
+ERROR - 2024-05-25 20:29:22 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-05-25 20:32:14 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 20:32:14 --> Severity: Notice --> Undefined variable: SharedID /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 30
+ERROR - 2024-05-25 20:32:14 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') order by FID DESC' at line 1 - Invalid query: SELECT * FROM FileSharing Where UserID IN () order by FID DESC
+ERROR - 2024-05-25 20:32:14 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 31
+ERROR - 2024-05-25 20:32:14 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-05-25 20:32:33 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 20:32:34 --> Severity: Notice --> Undefined variable: SharedID /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 30
+ERROR - 2024-05-25 20:32:34 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') order by FID DESC' at line 1 - Invalid query: SELECT * FROM FileSharing Where UserID IN () order by FID DESC
+ERROR - 2024-05-25 20:32:34 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 31
+ERROR - 2024-05-25 20:32:34 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-05-25 20:41:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-25 20:49:35 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-25 20:49:36 --> Severity: Notice --> Undefined variable: SharedID /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 30
+ERROR - 2024-05-25 20:49:36 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') order by FID DESC' at line 1 - Invalid query: SELECT * FROM FileSharing Where UserID IN () order by FID DESC
+ERROR - 2024-05-25 20:49:36 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 31
+ERROR - 2024-05-25 20:49:36 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-05-25 20:50:39 --> Severity: Warning --> unlink(./uploads/SharedFiles/ file_6651f68118d9a3_81686302.docx): No such file or directory /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 76
+ERROR - 2024-05-25 20:50:39 --> Severity: Warning --> unlink(./uploads/SharedFiles/ file_6651f68118f089_67747388.docx): No such file or directory /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 76
+ERROR - 2024-05-25 20:50:39 --> Severity: Warning --> unlink(./uploads/SharedFiles/ file_6651f68118fce3_65227563.docx): No such file or directory /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 76
+ERROR - 2024-05-25 20:50:39 --> Severity: Warning --> unlink(./uploads/SharedFiles/ file_6651f681190818_85685281.docx): No such file or directory /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 76
+ERROR - 2024-05-25 20:50:39 --> Severity: Warning --> unlink(./uploads/SharedFiles/ ): No such file or directory /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 76
+ERROR - 2024-05-25 20:50:39 --> Severity: Warning --> Use of undefined constant m - assumed 'm' (this will throw an Error in a future version of PHP) /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/FileSharing_Model.php 81
+ERROR - 2024-05-25 21:55:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-25 23:01:20 --> Query error: Unknown column 'link' in 'where clause' - Invalid query: SELECT * FROM breakingnews WHERE BrId=link order by BrId DESC limit 10
+ERROR - 2024-05-25 23:01:20 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/News_model.php 52
+ERROR - 2024-05-25 23:03:33 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-05-25 23:03:34 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-05-25 23:22:56 --> 404 Page Not Found: Robotstxt/index

@@ -1,0 +1,25 @@
+ERROR - 2024-02-19 04:04:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-19 04:04:45 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-02-19 04:20:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-19 04:20:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-19 05:04:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-19 05:04:44 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-02-19 05:20:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-19 07:47:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-19 12:35:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-19 12:35:56 --> Severity: Notice --> Trying to get property 'Headline' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 9
+ERROR - 2024-02-19 12:35:56 --> Severity: Notice --> Trying to get property 'Date' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 10
+ERROR - 2024-02-19 12:35:56 --> Severity: Notice --> Trying to get property 'Detail' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 12
+ERROR - 2024-02-19 14:17:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-19 14:57:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-19 14:57:41 --> 404 Page Not Found: Sitemaptxt/index
+ERROR - 2024-02-19 15:34:49 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-02-19 16:03:38 --> 404 Page Not Found: Sitemaptxt/index
+ERROR - 2024-02-19 16:19:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-19 16:19:56 --> 404 Page Not Found: Uploads/anual_plan_ap_2022_23_pirojpur_sadar_2_for_merge.pdf
+ERROR - 2024-02-19 18:20:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-19 18:20:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-19 18:58:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-19 19:04:52 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-02-19 22:05:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-19 23:37:11 --> 404 Page Not Found: Robotstxt/index

@@ -1,0 +1,34 @@
+ERROR - 2024-03-05 01:02:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-05 01:34:07 --> Severity: error --> Exception: Too few arguments to function Home::CategoryPageInfo(), 0 passed in /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/CodeIgniter.php on line 532 and exactly 1 expected /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/controllers/Home.php 89
+ERROR - 2024-03-05 08:35:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-05 09:10:24 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-03-05 11:40:19 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-03-05 12:59:09 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-03-05 12:59:24 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-03-05 12:59:24 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-03-05 12:59:24 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-03-05 12:59:24 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-03-05 12:59:32 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-03-05 13:00:14 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-03-05 13:02:54 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-03-05 13:07:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-05 13:15:32 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-03-05 13:15:40 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-03-05 13:18:30 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-03-05 13:19:15 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-03-05 13:24:49 --> 404 Page Not Found: Webview/dist
+ERROR - 2024-03-05 13:25:11 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-03-05 13:25:11 --> Severity: error --> Exception: Class 'SoapClient' not found /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/controllers/SMS.php 152
+ERROR - 2024-03-05 13:25:34 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-03-05 13:26:07 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-03-05 13:27:03 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-03-05 13:29:40 --> Severity: Notice --> Trying to get property 'BatchID' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/controllers/SMS.php 91
+ERROR - 2024-03-05 13:29:40 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 - Invalid query: SELECT GROUP_CONCAT(Mobile) as Mobile FROM student WHERE BatchID=
+ERROR - 2024-03-05 13:29:40 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Setting_Model.php 549
+ERROR - 2024-03-05 13:29:40 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-03-05 13:31:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-05 21:10:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-05 21:10:24 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-03-05 21:40:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-05 21:40:22 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-03-05 23:37:54 --> 404 Page Not Found: Robotstxt/index

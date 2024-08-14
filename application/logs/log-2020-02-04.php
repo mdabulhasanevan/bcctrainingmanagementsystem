@@ -1,0 +1,26 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-02-04 11:40:45 --> 404 Page Not Found: Wp_loginphp/index
+ERROR - 2020-02-04 11:57:46 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-02-04 12:01:31 --> Query error: Unknown column 'images' in 'where clause' - Invalid query: SELECT csc.CSCID, csc.Category, csc.Detail, csc.Others, cc.category as CategoryName FROM content_sub_category csc left join content_category cc on cc.CID=csc.CID where csc.CSCID=images
+ERROR - 2020-02-04 12:01:31 --> Severity: error --> Exception: Call to a member function row() on boolean /home/expresstechbd/public_html/bcc/application/models/PhotoSlideGallery_Model.php 112
+ERROR - 2020-02-04 12:01:31 --> Query error: Unknown column 'img' in 'where clause' - Invalid query: SELECT csc.CSCID, csc.Category, csc.Detail, csc.Others, cc.category as CategoryName FROM content_sub_category csc left join content_category cc on cc.CID=csc.CID where csc.CSCID=img
+ERROR - 2020-02-04 12:01:31 --> Severity: error --> Exception: Call to a member function row() on boolean /home/expresstechbd/public_html/bcc/application/models/PhotoSlideGallery_Model.php 112
+ERROR - 2020-02-04 12:01:31 --> Query error: Unknown column 'img' in 'where clause' - Invalid query: SELECT csc.CSCID, csc.Category, csc.Detail, csc.Others, cc.category as CategoryName FROM content_sub_category csc left join content_category cc on cc.CID=csc.CID where csc.CSCID=img
+ERROR - 2020-02-04 12:01:31 --> Severity: error --> Exception: Call to a member function row() on boolean /home/expresstechbd/public_html/bcc/application/models/PhotoSlideGallery_Model.php 112
+ERROR - 2020-02-04 12:02:17 --> Query error: Unknown column 'images' in 'where clause' - Invalid query: SELECT csc.CSCID, csc.Category, csc.Detail, csc.Others, cc.category as CategoryName FROM content_sub_category csc left join content_category cc on cc.CID=csc.CID where csc.CSCID=images
+ERROR - 2020-02-04 12:02:17 --> Severity: error --> Exception: Call to a member function row() on boolean /home/expresstechbd/public_html/bcc/application/models/PhotoSlideGallery_Model.php 112
+ERROR - 2020-02-04 12:02:17 --> Query error: Unknown column 'img' in 'where clause' - Invalid query: SELECT csc.CSCID, csc.Category, csc.Detail, csc.Others, cc.category as CategoryName FROM content_sub_category csc left join content_category cc on cc.CID=csc.CID where csc.CSCID=img
+ERROR - 2020-02-04 12:02:17 --> Severity: error --> Exception: Call to a member function row() on boolean /home/expresstechbd/public_html/bcc/application/models/PhotoSlideGallery_Model.php 112
+ERROR - 2020-02-04 12:02:17 --> Query error: Unknown column 'img' in 'where clause' - Invalid query: SELECT csc.CSCID, csc.Category, csc.Detail, csc.Others, cc.category as CategoryName FROM content_sub_category csc left join content_category cc on cc.CID=csc.CID where csc.CSCID=img
+ERROR - 2020-02-04 12:02:17 --> Severity: error --> Exception: Call to a member function row() on boolean /home/expresstechbd/public_html/bcc/application/models/PhotoSlideGallery_Model.php 112
+ERROR - 2020-02-04 12:02:37 --> Query error: Unknown column 'images' in 'where clause' - Invalid query: SELECT csc.CSCID, csc.Category, csc.Detail, csc.Others, cc.category as CategoryName FROM content_sub_category csc left join content_category cc on cc.CID=csc.CID where csc.CSCID=images
+ERROR - 2020-02-04 12:02:37 --> Severity: error --> Exception: Call to a member function row() on boolean /home/expresstechbd/public_html/bcc/application/models/PhotoSlideGallery_Model.php 112
+ERROR - 2020-02-04 12:02:37 --> Query error: Unknown column 'img' in 'where clause' - Invalid query: SELECT csc.CSCID, csc.Category, csc.Detail, csc.Others, cc.category as CategoryName FROM content_sub_category csc left join content_category cc on cc.CID=csc.CID where csc.CSCID=img
+ERROR - 2020-02-04 12:02:37 --> Severity: error --> Exception: Call to a member function row() on boolean /home/expresstechbd/public_html/bcc/application/models/PhotoSlideGallery_Model.php 112
+ERROR - 2020-02-04 12:02:37 --> Query error: Unknown column 'img' in 'where clause' - Invalid query: SELECT csc.CSCID, csc.Category, csc.Detail, csc.Others, cc.category as CategoryName FROM content_sub_category csc left join content_category cc on cc.CID=csc.CID where csc.CSCID=img
+ERROR - 2020-02-04 12:02:37 --> Severity: error --> Exception: Call to a member function row() on boolean /home/expresstechbd/public_html/bcc/application/models/PhotoSlideGallery_Model.php 112
+ERROR - 2020-02-04 15:08:10 --> Severity: Notice --> Trying to get property of non-object /home/expresstechbd/public_html/bcc/application/views/Home/CategoryPageInfo.php 7
+ERROR - 2020-02-04 15:08:10 --> Severity: Notice --> Trying to get property of non-object /home/expresstechbd/public_html/bcc/application/views/Home/CategoryPageInfo.php 9
+ERROR - 2020-02-04 15:08:10 --> Severity: Notice --> Trying to get property of non-object /home/expresstechbd/public_html/bcc/application/views/Home/CategoryPageInfo.php 14
+ERROR - 2020-02-04 15:08:10 --> Severity: Notice --> Trying to get property of non-object /home/expresstechbd/public_html/bcc/application/views/Home/CategoryPageInfo.php 22

@@ -1,0 +1,262 @@
+ERROR - 2024-02-16 03:45:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-16 04:34:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-16 04:34:12 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-02-16 05:34:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-16 05:34:27 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-02-16 07:16:30 --> 404 Page Not Found: AdmissionReg/index
+ERROR - 2024-02-16 07:16:31 --> 404 Page Not Found: Dist/jquery.js
+ERROR - 2024-02-16 07:16:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-16 07:16:31 --> 404 Page Not Found: Assets/js
+ERROR - 2024-02-16 07:16:32 --> 404 Page Not Found: Assets/js
+ERROR - 2024-02-16 07:16:32 --> 404 Page Not Found: Assets/js
+ERROR - 2024-02-16 07:16:32 --> 404 Page Not Found: Assets/js
+ERROR - 2024-02-16 07:16:33 --> 404 Page Not Found: Assets/plugins
+ERROR - 2024-02-16 07:16:34 --> 404 Page Not Found: Assets/plugins
+ERROR - 2024-02-16 07:16:35 --> 404 Page Not Found: Dist/angular
+ERROR - 2024-02-16 07:16:37 --> 404 Page Not Found: Dist/js
+ERROR - 2024-02-16 07:16:42 --> Query error: Unknown column 'link' in 'where clause' - Invalid query: SELECT * FROM breakingnews WHERE BrId=link order by BrId DESC limit 10
+ERROR - 2024-02-16 07:16:42 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/News_model.php 52
+ERROR - 2024-02-16 07:16:43 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-02-16 07:16:43 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-02-16 07:16:43 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-02-16 07:16:43 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-02-16 07:16:43 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-02-16 07:16:43 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-02-16 07:16:44 --> 404 Page Not Found: Dist/css
+ERROR - 2024-02-16 07:16:46 --> 404 Page Not Found: Y/m
+ERROR - 2024-02-16 07:16:46 --> 404 Page Not Found: Dist/Y
+ERROR - 2024-02-16 07:16:46 --> 404 Page Not Found: Dd/mm
+ERROR - 2024-02-16 07:16:46 --> 404 Page Not Found: Dist/dd
+ERROR - 2024-02-16 07:16:46 --> 404 Page Not Found: 2009/12
+ERROR - 2024-02-16 07:16:46 --> 404 Page Not Found: Assets/data
+ERROR - 2024-02-16 07:16:47 --> 404 Page Not Found: Assets/data
+ERROR - 2024-02-16 07:16:47 --> 404 Page Not Found: 2011/04
+ERROR - 2024-02-16 07:16:47 --> 404 Page Not Found: 2012/03
+ERROR - 2024-02-16 07:16:47 --> 404 Page Not Found: 2009/01
+ERROR - 2024-02-16 07:16:47 --> 404 Page Not Found: Assets/data
+ERROR - 2024-02-16 07:16:47 --> 404 Page Not Found: 2011/07
+ERROR - 2024-02-16 07:16:47 --> 404 Page Not Found: Assets/data
+ERROR - 2024-02-16 07:16:48 --> 404 Page Not Found: 2010/10
+ERROR - 2024-02-16 07:16:48 --> 404 Page Not Found: Assets/data
+ERROR - 2024-02-16 07:16:48 --> 404 Page Not Found: Assets/data
+ERROR - 2024-02-16 07:16:48 --> 404 Page Not Found: 2012/08
+ERROR - 2024-02-16 07:16:48 --> 404 Page Not Found: Assets/data
+ERROR - 2024-02-16 07:16:48 --> 404 Page Not Found: 2012/12
+ERROR - 2024-02-16 07:16:48 --> 404 Page Not Found: Assets/data
+ERROR - 2024-02-16 07:16:48 --> 404 Page Not Found: 2008/11
+ERROR - 2024-02-16 07:16:48 --> 404 Page Not Found: Assets/data
+ERROR - 2024-02-16 07:16:48 --> 404 Page Not Found: 2008/12
+ERROR - 2024-02-16 07:16:48 --> 404 Page Not Found: 2009/09
+ERROR - 2024-02-16 07:16:48 --> 404 Page Not Found: Assets/data
+ERROR - 2024-02-16 07:16:48 --> 404 Page Not Found: Assets/data
+ERROR - 2024-02-16 07:16:48 --> 404 Page Not Found: 2008/12
+ERROR - 2024-02-16 07:16:48 --> 404 Page Not Found: Assets/data
+ERROR - 2024-02-16 07:16:49 --> 404 Page Not Found: 2013/03
+ERROR - 2024-02-16 07:16:49 --> 404 Page Not Found: Assets/data
+ERROR - 2024-02-16 07:16:49 --> 404 Page Not Found: 2012/12
+ERROR - 2024-02-16 07:16:49 --> 404 Page Not Found: Assets/data
+ERROR - 2024-02-16 07:16:49 --> 404 Page Not Found: Assets/data
+ERROR - 2024-02-16 07:16:49 --> 404 Page Not Found: 2010/03
+ERROR - 2024-02-16 07:16:49 --> 404 Page Not Found: Assets/data
+ERROR - 2024-02-16 07:16:49 --> 404 Page Not Found: Assets/data
+ERROR - 2024-02-16 07:16:49 --> 404 Page Not Found: 2012/11
+ERROR - 2024-02-16 07:16:50 --> 404 Page Not Found: 2009/04
+ERROR - 2024-02-16 07:16:50 --> 404 Page Not Found: 2010/06
+ERROR - 2024-02-16 07:16:50 --> 404 Page Not Found: Assets/data
+ERROR - 2024-02-16 07:16:50 --> 404 Page Not Found: 2008/10
+ERROR - 2024-02-16 07:16:50 --> 404 Page Not Found: Assets/data
+ERROR - 2024-02-16 07:16:50 --> 404 Page Not Found: 2012/10
+ERROR - 2024-02-16 07:16:50 --> 404 Page Not Found: 2011/09
+ERROR - 2024-02-16 07:16:50 --> 404 Page Not Found: 2009/06
+ERROR - 2024-02-16 07:16:50 --> 404 Page Not Found: Assets/data
+ERROR - 2024-02-16 07:16:50 --> 404 Page Not Found: 2012/09
+ERROR - 2024-02-16 07:16:50 --> 404 Page Not Found: Assets/data
+ERROR - 2024-02-16 07:16:50 --> 404 Page Not Found: Assets/data
+ERROR - 2024-02-16 07:16:50 --> 404 Page Not Found: Assets/data
+ERROR - 2024-02-16 07:16:50 --> 404 Page Not Found: Assets/data
+ERROR - 2024-02-16 07:16:50 --> 404 Page Not Found: 2011/12
+ERROR - 2024-02-16 07:16:50 --> 404 Page Not Found: Assets/data
+ERROR - 2024-02-16 07:16:50 --> 404 Page Not Found: 2009/10
+ERROR - 2024-02-16 07:16:50 --> 404 Page Not Found: 2010/09
+ERROR - 2024-02-16 07:16:51 --> 404 Page Not Found: Assets/data
+ERROR - 2024-02-16 07:16:51 --> 404 Page Not Found: 2010/12
+ERROR - 2024-02-16 07:16:51 --> 404 Page Not Found: Assets/data
+ERROR - 2024-02-16 07:16:51 --> 404 Page Not Found: 2011/06
+ERROR - 2024-02-16 07:16:51 --> 404 Page Not Found: Assets/data
+ERROR - 2024-02-16 07:16:51 --> 404 Page Not Found: 2010/03
+ERROR - 2024-02-16 07:16:51 --> 404 Page Not Found: 2011/08
+ERROR - 2024-02-16 07:16:51 --> 404 Page Not Found: Assets/data
+ERROR - 2024-02-16 07:16:51 --> 404 Page Not Found: 2010/11
+ERROR - 2024-02-16 07:16:51 --> 404 Page Not Found: Assets/data
+ERROR - 2024-02-16 07:16:52 --> 404 Page Not Found: 2011/06
+ERROR - 2024-02-16 07:16:52 --> 404 Page Not Found: Assets/data
+ERROR - 2024-02-16 07:16:52 --> 404 Page Not Found: 2009/10
+ERROR - 2024-02-16 07:16:52 --> 404 Page Not Found: Assets/data
+ERROR - 2024-02-16 07:16:52 --> 404 Page Not Found: 2008/10
+ERROR - 2024-02-16 07:16:52 --> 404 Page Not Found: Assets/data
+ERROR - 2024-02-16 07:16:52 --> 404 Page Not Found: 2011/05
+ERROR - 2024-02-16 07:16:52 --> 404 Page Not Found: Assets/data
+ERROR - 2024-02-16 07:16:52 --> 404 Page Not Found: 2011/03
+ERROR - 2024-02-16 07:16:52 --> 404 Page Not Found: Assets/js
+ERROR - 2024-02-16 07:16:52 --> 404 Page Not Found: Text/xml
+ERROR - 2024-02-16 07:16:52 --> 404 Page Not Found: MM/DD
+ERROR - 2024-02-16 07:16:52 --> 404 Page Not Found: Assets/data
+ERROR - 2024-02-16 07:16:52 --> 404 Page Not Found: Assets/data
+ERROR - 2024-02-16 07:16:52 --> 404 Page Not Found: Assets/js
+ERROR - 2024-02-16 07:16:52 --> 404 Page Not Found: Locale/index
+ERROR - 2024-02-16 07:16:52 --> 404 Page Not Found: Text/plain
+ERROR - 2024-02-16 07:16:52 --> 404 Page Not Found: Assets/js
+ERROR - 2024-02-16 07:16:52 --> 404 Page Not Found: Assets/js
+ERROR - 2024-02-16 07:16:52 --> 404 Page Not Found: Assets/js
+ERROR - 2024-02-16 07:16:52 --> 404 Page Not Found: Text/html
+ERROR - 2024-02-16 07:16:52 --> 404 Page Not Found: Assets/js
+ERROR - 2024-02-16 07:16:53 --> 404 Page Not Found: Indexhtml/index
+ERROR - 2024-02-16 07:16:53 --> 404 Page Not Found: Dist/angular
+ERROR - 2024-02-16 07:16:53 --> 404 Page Not Found: Book/Moby
+ERROR - 2024-02-16 07:16:53 --> 404 Page Not Found: Dist/angular
+ERROR - 2024-02-16 07:16:53 --> 404 Page Not Found: Dist/angular
+ERROR - 2024-02-16 07:16:53 --> 404 Page Not Found: Angular_routejs/index
+ERROR - 2024-02-16 07:16:54 --> 404 Page Not Found: Book/Moby
+ERROR - 2024-02-16 07:16:54 --> 404 Page Not Found: Dist/angular
+ERROR - 2024-02-16 07:16:54 --> 404 Page Not Found: Protractorjs/index
+ERROR - 2024-02-16 07:16:54 --> 404 Page Not Found: Book/Gatsby
+ERROR - 2024-02-16 07:16:54 --> 404 Page Not Found: Dist/angular
+ERROR - 2024-02-16 07:16:54 --> 404 Page Not Found: Dist/angular
+ERROR - 2024-02-16 07:16:54 --> 404 Page Not Found: Dist/angular
+ERROR - 2024-02-16 07:16:54 --> 404 Page Not Found: Book/Scarlet
+ERROR - 2024-02-16 07:16:54 --> 404 Page Not Found: Dist/angular
+ERROR - 2024-02-16 07:16:54 --> 404 Page Not Found: Bookhtml/index
+ERROR - 2024-02-16 07:16:54 --> 404 Page Not Found: Chapterhtml/index
+ERROR - 2024-02-16 07:16:54 --> 404 Page Not Found: Scriptjs/index
+ERROR - 2024-02-16 07:16:54 --> 404 Page Not Found: Dist/angular
+ERROR - 2024-02-16 07:16:54 --> 404 Page Not Found: Book/:bookId
+ERROR - 2024-02-16 07:16:54 --> 404 Page Not Found: Book/:bookId
+ERROR - 2024-02-16 07:16:54 --> 404 Page Not Found: Book/Gatsby
+ERROR - 2024-02-16 07:16:55 --> 404 Page Not Found: Dist/angular
+ERROR - 2024-02-16 07:16:55 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-02-16 07:16:55 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-02-16 07:16:55 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-02-16 07:16:55 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-02-16 07:16:55 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-02-16 07:16:55 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-02-16 07:16:55 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-02-16 07:16:55 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-02-16 07:16:55 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-02-16 07:16:55 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-02-16 07:16:55 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-02-16 07:16:55 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-02-16 07:16:55 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-02-16 07:16:55 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-02-16 07:16:55 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-02-16 07:16:55 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-02-16 07:16:55 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-02-16 07:16:55 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-02-16 07:16:55 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-02-16 07:16:55 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-02-16 07:16:55 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-02-16 07:16:55 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-02-16 07:16:55 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-02-16 07:16:55 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-02-16 07:16:55 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-02-16 07:16:55 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-02-16 07:16:55 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-02-16 07:16:55 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-02-16 07:16:55 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-02-16 07:16:55 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-02-16 07:16:55 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-02-16 07:16:55 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-02-16 07:16:55 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-02-16 07:16:55 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-02-16 07:16:55 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-02-16 07:16:55 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-02-16 07:16:55 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-02-16 07:16:55 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-02-16 07:16:55 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-02-16 07:16:55 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-02-16 07:16:55 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-02-16 07:16:55 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-02-16 07:16:55 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-02-16 07:16:55 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-02-16 07:16:55 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-02-16 07:16:55 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-02-16 07:16:55 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-02-16 07:16:55 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-02-16 07:16:55 --> 404 Page Not Found: Home/link
+ERROR - 2024-02-16 07:16:55 --> 404 Page Not Found: Popperjs/index
+ERROR - 2024-02-16 07:16:55 --> 404 Page Not Found: Dist/application
+ERROR - 2024-02-16 07:16:55 --> 404 Page Not Found: Dist/css
+ERROR - 2024-02-16 07:16:55 --> 404 Page Not Found: Dist/text
+ERROR - 2024-02-16 07:16:55 --> 404 Page Not Found: Dist/css
+ERROR - 2024-02-16 07:16:55 --> 404 Page Not Found: Dist/text
+ERROR - 2024-02-16 07:16:55 --> 404 Page Not Found: Dist/css
+ERROR - 2024-02-16 07:16:55 --> 404 Page Not Found: Dist/text
+ERROR - 2024-02-16 07:16:56 --> 404 Page Not Found: Dist/css
+ERROR - 2024-02-16 07:16:58 --> 404 Page Not Found: Text/css
+ERROR - 2024-02-16 07:16:58 --> 404 Page Not Found: Assets/plugins
+ERROR - 2024-02-16 07:17:08 --> 404 Page Not Found: Gdonqhy/bnl
+ERROR - 2024-02-16 07:17:09 --> 404 Page Not Found: Dist/js
+ERROR - 2024-02-16 07:17:09 --> 404 Page Not Found: Assets/plugins
+ERROR - 2024-02-16 07:17:09 --> 404 Page Not Found: Message/index
+ERROR - 2024-02-16 07:17:09 --> 404 Page Not Found: Datajson/index
+ERROR - 2024-02-16 07:17:10 --> 404 Page Not Found: Assets/plugins
+ERROR - 2024-02-16 07:17:10 --> 404 Page Not Found: Sources/arrays.txt
+ERROR - 2024-02-16 07:17:10 --> 404 Page Not Found: Assets/plugins
+ERROR - 2024-02-16 07:17:10 --> 404 Page Not Found: Xhrphp/index
+ERROR - 2024-02-16 07:17:10 --> 404 Page Not Found: State_load/index
+ERROR - 2024-02-16 07:17:10 --> 404 Page Not Found: State_save/index
+ERROR - 2024-02-16 07:17:10 --> 404 Page Not Found: Assets/plugins
+ERROR - 2024-02-16 07:17:10 --> 404 Page Not Found: Assets/plugins
+ERROR - 2024-02-16 07:17:10 --> 404 Page Not Found: Assets/plugins
+ERROR - 2024-02-16 07:17:10 --> 404 Page Not Found: Sources/objects.txt
+ERROR - 2024-02-16 07:17:10 --> 404 Page Not Found: Scripts/server_processing.php
+ERROR - 2024-02-16 07:17:11 --> 404 Page Not Found: Sources/deep.txt
+ERROR - 2024-02-16 07:17:20 --> 404 Page Not Found: Track/index
+ERROR - 2024-02-16 07:17:20 --> 404 Page Not Found: Angularjs/index
+ERROR - 2024-02-16 07:17:21 --> 404 Page Not Found: Ping/index
+ERROR - 2024-02-16 07:17:21 --> 404 Page Not Found: Custom_track/index
+ERROR - 2024-02-16 07:17:21 --> 404 Page Not Found: Foo/index
+ERROR - 2024-02-16 07:17:21 --> 404 Page Not Found: Dist/angular
+ERROR - 2024-02-16 07:17:21 --> 404 Page Not Found: Tplhtml/index
+ERROR - 2024-02-16 07:17:21 --> 404 Page Not Found: Text/ng_template
+ERROR - 2024-02-16 07:17:21 --> 404 Page Not Found: Dist/angular
+ERROR - 2024-02-16 07:17:21 --> 404 Page Not Found: Dist/angular
+ERROR - 2024-02-16 07:17:21 --> 404 Page Not Found: Dist/angular
+ERROR - 2024-02-16 07:17:21 --> 404 Page Not Found: TemplateIdhtml/index
+ERROR - 2024-02-16 07:17:21 --> 404 Page Not Found: Dist/angular
+ERROR - 2024-02-16 07:17:21 --> 404 Page Not Found: SomeUrl/index
+ERROR - 2024-02-16 07:17:21 --> 404 Page Not Found: Dist/angular
+ERROR - 2024-02-16 07:17:21 --> 404 Page Not Found: Directivehtml/index
+ERROR - 2024-02-16 07:17:21 --> 404 Page Not Found: C:/path
+ERROR - 2024-02-16 07:17:21 --> 404 Page Not Found: Dist/angular
+ERROR - 2024-02-16 07:17:21 --> 404 Page Not Found: Text/javascript
+ERROR - 2024-02-16 07:17:21 --> 404 Page Not Found: Some/path
+ERROR - 2024-02-16 07:17:21 --> 404 Page Not Found: Http_hellohtml/index
+ERROR - 2024-02-16 07:17:21 --> 404 Page Not Found: C:/foo
+ERROR - 2024-02-16 07:17:21 --> 404 Page Not Found: Some/path
+ERROR - 2024-02-16 07:17:21 --> 404 Page Not Found: Angular_sanitizejs/index
+ERROR - 2024-02-16 07:17:21 --> 404 Page Not Found: Dist/angular
+ERROR - 2024-02-16 07:17:21 --> 404 Page Not Found: Dist/angular
+ERROR - 2024-02-16 07:17:21 --> 404 Page Not Found: Dist/angular
+ERROR - 2024-02-16 07:17:21 --> 404 Page Not Found: Test_datajson/index
+ERROR - 2024-02-16 07:17:21 --> 404 Page Not Found: M/d
+ERROR - 2024-02-16 07:17:21 --> 404 Page Not Found: Dist/angular
+ERROR - 2024-02-16 07:17:21 --> 404 Page Not Found: Dist/angular
+ERROR - 2024-02-16 07:17:21 --> 404 Page Not Found: %7B%7B/index
+ERROR - 2024-02-16 07:17:21 --> 404 Page Not Found: Angular_animatejs/index
+ERROR - 2024-02-16 07:17:21 --> 404 Page Not Found: Dist/angular
+ERROR - 2024-02-16 07:17:21 --> 404 Page Not Found: Dist/angular
+ERROR - 2024-02-16 07:17:21 --> 404 Page Not Found: Appjs/index
+ERROR - 2024-02-16 07:17:21 --> 404 Page Not Found: MyPartialTemplatehtml/index
+ERROR - 2024-02-16 07:17:21 --> 404 Page Not Found: Protractor/node_modules
+ERROR - 2024-02-16 07:17:21 --> 404 Page Not Found: Template1html/index
+ERROR - 2024-02-16 07:17:21 --> 404 Page Not Found: Dist/angular
+ERROR - 2024-02-16 07:17:21 --> 404 Page Not Found: Dist/angular
+ERROR - 2024-02-16 07:17:21 --> 404 Page Not Found: Dist/angular
+ERROR - 2024-02-16 08:15:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-16 08:15:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-16 10:40:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-16 16:34:10 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-02-16 19:23:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-16 20:04:20 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-02-16 21:26:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-16 21:26:58 --> 404 Page Not Found: Robotstxt/index

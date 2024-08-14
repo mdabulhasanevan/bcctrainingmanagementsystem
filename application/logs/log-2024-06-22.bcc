@@ -1,0 +1,18 @@
+ERROR - 2024-06-22 04:01:08 --> Severity: Notice --> Trying to get property 'Headline' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/WebView/NoticeOpen.php 25
+ERROR - 2024-06-22 04:01:08 --> Severity: Notice --> Trying to get property 'Date' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/WebView/NoticeOpen.php 26
+ERROR - 2024-06-22 04:01:08 --> Severity: Notice --> Trying to get property 'Detail' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/WebView/NoticeOpen.php 28
+ERROR - 2024-06-22 04:09:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-06-22 04:13:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-06-22 04:17:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-06-22 11:10:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-06-22 12:07:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-06-22 12:07:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-06-22 12:07:22 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-06-22 12:07:22 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-06-22 12:20:50 --> 404 Page Not Found: Well_known/traffic_advice
+ERROR - 2024-06-22 13:43:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-06-22 13:43:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-06-22 15:03:36 --> 404 Page Not Found: Well_known/traffic_advice
+ERROR - 2024-06-22 15:08:08 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-06-22 15:08:09 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-06-22 22:43:21 --> 404 Page Not Found: Well_known/traffic_advice

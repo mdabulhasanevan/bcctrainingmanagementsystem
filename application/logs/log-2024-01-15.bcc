@@ -1,0 +1,103 @@
+ERROR - 2024-01-15 04:51:13 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-01-15 04:58:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-15 06:51:14 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-01-15 09:16:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-15 09:17:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-15 10:21:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-15 10:21:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-15 11:58:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-15 12:24:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-15 12:51:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-15 12:51:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-15 12:51:23 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-01-15 12:51:26 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-01-15 13:21:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-15 13:38:54 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2024-01-15 13:38:57 --> 404 Page Not Found: Wp_cronphp/index
+ERROR - 2024-01-15 13:47:25 --> 404 Page Not Found: AdmissionReg/index
+ERROR - 2024-01-15 13:47:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-15 13:48:10 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-01-15 13:48:10 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-01-15 13:48:10 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-01-15 13:48:10 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-01-15 13:48:10 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-01-15 13:48:10 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-01-15 14:05:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-15 14:23:31 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php:212) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-01-15 14:23:31 --> Severity: Error --> Maximum execution time of 300 seconds exceeded /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php 212
+ERROR - 2024-01-15 14:23:31 --> Severity: Warning --> Unknown: Cannot call session save handler in a recursive manner Unknown 0
+ERROR - 2024-01-15 14:23:31 --> Severity: Warning --> Unknown: Failed to write session data using user defined save handler. (session.save_path: /var/cpanel/php/sessions/ea-php73) Unknown 0
+ERROR - 2024-01-15 14:26:46 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php:212) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-01-15 14:26:46 --> Severity: Error --> Maximum execution time of 300 seconds exceeded /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php 212
+ERROR - 2024-01-15 14:26:46 --> Severity: Warning --> Unknown: Cannot call session save handler in a recursive manner Unknown 0
+ERROR - 2024-01-15 14:26:46 --> Severity: Warning --> Unknown: Failed to write session data using user defined save handler. (session.save_path: /var/cpanel/php/sessions/ea-php73) Unknown 0
+ERROR - 2024-01-15 15:27:32 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-01-15 15:27:32 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-01-15 15:27:32 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-01-15 15:27:32 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-01-15 15:27:32 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-01-15 15:27:32 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-01-15 15:54:03 --> 404 Page Not Found: Well_known/traffic_advice
+ERROR - 2024-01-15 15:57:55 --> 404 Page Not Found: StudentOpen/%7B%7BContent.Tutorials%20%7C%20trustAsResourceUrl%7D%7D
+ERROR - 2024-01-15 15:57:59 --> 404 Page Not Found: StudentOpen/index.html
+ERROR - 2024-01-15 15:59:39 --> Query error: Unknown column 'undefined' in 'where clause' - Invalid query: SELECT sxa.*, s.Name, b.Batch, s.RegNO,s.Photo, ex.ExamName, ISNULL(er.ERId) as Status2, if(ISNULL(er.ERId)>0,'Running','Completed') as Status, er.Selected,er.Correct , sxa.PauseStatus, sxa.StopStatus FROM StudentExamAttendHistory as sxa LEFT JOIN student s on s.SID=sxa.SID left join setexam sx on sx.SetID=sxa.ExamID LEFT JOIN ExamName ex on ex.ExNId=sx.ExamNameID LEFT JOIN batch b on b.Id=s.BatchID LEFT JOIN examresult er on er.UserID=s.SID and er.ExamCollectionID=sx.ExamCollectionID WHERE sxa.ExamID=undefined ORDER BY ISNULL(er.ERId) DESC, s.RegNO ASC
+ERROR - 2024-01-15 15:59:39 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 524
+ERROR - 2024-01-15 16:00:35 --> Query error: Unknown column 'undefined' in 'where clause' - Invalid query: SELECT sxa.*, s.Name, b.Batch, s.RegNO,s.Photo, ex.ExamName, ISNULL(er.ERId) as Status2, if(ISNULL(er.ERId)>0,'Running','Completed') as Status, er.Selected,er.Correct , sxa.PauseStatus, sxa.StopStatus FROM StudentExamAttendHistory as sxa LEFT JOIN student s on s.SID=sxa.SID left join setexam sx on sx.SetID=sxa.ExamID LEFT JOIN ExamName ex on ex.ExNId=sx.ExamNameID LEFT JOIN batch b on b.Id=s.BatchID LEFT JOIN examresult er on er.UserID=s.SID and er.ExamCollectionID=sx.ExamCollectionID WHERE sxa.ExamID=undefined ORDER BY ISNULL(er.ERId) DESC, s.RegNO ASC
+ERROR - 2024-01-15 16:00:35 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 524
+ERROR - 2024-01-15 16:09:32 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php:420) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-01-15 16:09:32 --> Severity: Error --> Maximum execution time of 300 seconds exceeded /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php 420
+ERROR - 2024-01-15 16:09:32 --> Severity: Warning --> Unknown: Cannot call session save handler in a recursive manner Unknown 0
+ERROR - 2024-01-15 16:09:32 --> Severity: Warning --> Unknown: Failed to write session data using user defined save handler. (session.save_path: /var/cpanel/php/sessions/ea-php73) Unknown 0
+ERROR - 2024-01-15 16:19:36 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php:212) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-01-15 16:19:36 --> Severity: Error --> Maximum execution time of 300 seconds exceeded /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php 212
+ERROR - 2024-01-15 16:19:36 --> Severity: Warning --> Unknown: Cannot call session save handler in a recursive manner Unknown 0
+ERROR - 2024-01-15 16:19:36 --> Severity: Warning --> Unknown: Failed to write session data using user defined save handler. (session.save_path: /var/cpanel/php/sessions/ea-php73) Unknown 0
+ERROR - 2024-01-15 16:31:24 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php:212) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-01-15 16:31:24 --> Severity: Error --> Maximum execution time of 300 seconds exceeded /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php 212
+ERROR - 2024-01-15 16:31:24 --> Severity: Warning --> Unknown: Cannot call session save handler in a recursive manner Unknown 0
+ERROR - 2024-01-15 16:31:24 --> Severity: Warning --> Unknown: Failed to write session data using user defined save handler. (session.save_path: /var/cpanel/php/sessions/ea-php73) Unknown 0
+ERROR - 2024-01-15 16:35:43 --> 404 Page Not Found: Webview/dist
+ERROR - 2024-01-15 16:45:11 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php:212) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-01-15 16:45:11 --> Severity: Error --> Maximum execution time of 300 seconds exceeded /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php 212
+ERROR - 2024-01-15 16:45:11 --> Severity: Warning --> Unknown: Cannot call session save handler in a recursive manner Unknown 0
+ERROR - 2024-01-15 16:45:11 --> Severity: Warning --> Unknown: Failed to write session data using user defined save handler. (session.save_path: /var/cpanel/php/sessions/ea-php73) Unknown 0
+ERROR - 2024-01-15 16:48:09 --> 404 Page Not Found: Webview/dist
+ERROR - 2024-01-15 16:49:27 --> 404 Page Not Found: StudentOpen/index.html
+ERROR - 2024-01-15 16:49:47 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php:212) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-01-15 16:49:47 --> Severity: Error --> Maximum execution time of 300 seconds exceeded /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php 212
+ERROR - 2024-01-15 16:49:47 --> Severity: Warning --> Unknown: Cannot call session save handler in a recursive manner Unknown 0
+ERROR - 2024-01-15 16:49:47 --> Severity: Warning --> Unknown: Failed to write session data using user defined save handler. (session.save_path: /var/cpanel/php/sessions/ea-php73) Unknown 0
+ERROR - 2024-01-15 16:56:00 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php:212) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-01-15 16:56:00 --> Severity: Error --> Maximum execution time of 300 seconds exceeded /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php 212
+ERROR - 2024-01-15 16:56:00 --> Severity: Warning --> Unknown: Cannot call session save handler in a recursive manner Unknown 0
+ERROR - 2024-01-15 16:56:00 --> Severity: Warning --> Unknown: Failed to write session data using user defined save handler. (session.save_path: /var/cpanel/php/sessions/ea-php73) Unknown 0
+ERROR - 2024-01-15 16:57:18 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php:212) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-01-15 16:57:18 --> Severity: Error --> Maximum execution time of 300 seconds exceeded /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php 212
+ERROR - 2024-01-15 16:57:18 --> Severity: Warning --> Unknown: Cannot call session save handler in a recursive manner Unknown 0
+ERROR - 2024-01-15 16:57:18 --> Severity: Warning --> Unknown: Failed to write session data using user defined save handler. (session.save_path: /var/cpanel/php/sessions/ea-php73) Unknown 0
+ERROR - 2024-01-15 17:58:29 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-01-15 17:58:29 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-01-15 17:58:29 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-01-15 17:58:29 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-01-15 17:58:29 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-01-15 17:58:29 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-01-15 19:33:57 --> 404 Page Not Found: Wp_loginphp/index
+ERROR - 2024-01-15 20:47:57 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-01-15 20:47:57 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-01-15 20:47:57 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-01-15 20:47:57 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-01-15 20:47:57 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-01-15 20:47:57 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-01-15 22:11:57 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-01-15 22:11:57 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-01-15 22:11:57 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-01-15 22:11:57 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-01-15 22:11:57 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-01-15 22:11:57 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-01-15 23:32:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-15 23:56:16 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-01-15 23:56:16 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-01-15 23:56:16 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-01-15 23:56:16 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-01-15 23:56:16 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-01-15 23:56:16 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34

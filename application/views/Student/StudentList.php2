@@ -1,0 +1,309 @@
+
+<div ng-controller="DefaultCtrl" class="col-md-10" style="background-color: #ffffff;">
+
+    <div class="col-md-12">
+        <h2>Student Info</h2>
+
+        <?php
+        if (isset($_SESSION['success'])) {
+            echo "<div class='alert alert-success'>" . $_SESSION['success'] . "</div>";
+        }
+        ?>
+
+        <?php echo validation_errors('<div class="alert alert-danger">', '</div>'); ?>
+
+        <button type="button"  class="btn btn-info pull-left" data-toggle="modal" data-target="#myModal">Add Student</button> 
+        <button type="button"  class="btn btn-warning pull-left" ng-click="GetAllStudent(0)">Show All Students</button> 
+
+    </div>
+    <!--List of Student-->
+    <br>
+    <div class="col-md-12">
+        <div class="row">
+            <div class="form-group col-md-3">
+                <label for="Exam" >Batch Name</label>
+                <select class="form-control"  ng-model="BatchID" ng-change="GetAllStudent(BatchID)"   name="BatchID" ng-options="Question.Id as Question.Batch for Question in BatchabdExamCollection.batch">
+                    <option value="">Choose Option</option>
+                </select>
+            </div>
+            <div class="form-group col-md-3">
+                <label for="Exam" >Session</label>
+                <select class="form-control" ng-model="Session" required  name="Session">
+                    <option value="">Select </option>
+                    $year=date("Y");
+                    <?php
+                    for ($i = date("Y") - 5; $i <= date("Y") + 5; $i++) {
+                        echo "<option value='" . $i . "/" . ($i + 1) . "'>" . $i . "/" . ($i + 1) . " </option>";
+                    }
+                    ?>
+
+                </select>
+            </div>
+            <div class="form-group col-md-3">
+                <label for="Exam" >Calendar Year</label>
+                <select class="form-control" ng-model="CalendarYear" required  name="CalendarYear">
+                    <option value="">Select </option>
+                    $year=date("Y");
+                    <?php
+                    for ($i = date("Y") - 5; $i <= date("Y") + 5; $i++) {
+                        echo "<option value='" . $i . "'>" . $i . " </option>";
+                    }
+                    ?>                            
+                </select>
+            </div>
+            <div class="form-group col-md-3">
+                <label for="Exam" >Gender</label>
+                <select class="form-control" ng-model="Gender" required  name="Gender">
+                    <option value="">Select </option>
+                    <option value="Male">Male </option>
+                    <option value="Female">Female </option>
+                    <option value="Other">Other </option>
+                </select>
+            </div>
+        </div>
+        <!--Total:{{AllStudent.length }}-->
+
+        <table class="table table-striped">
+            <tr>
+                <th>SN</th>
+                <th> Name </th>
+                <th> RegNo </th>
+                <th> Session </th>
+                <th> Year </th>
+                <th> Gender </th>
+                <th> Mobile </th>
+                <th> Batch </th>
+                <th> Email </th>
+                <th>Action </th>
+            </tr>
+            <tr ng-repeat="Student3 in AllStudent | filter:{Session:Session} | filter:{CalendarYear:CalendarYear} | filter:{Gender:Gender}:true">
+                <td>{{$index + 1}} </td>
+                <td>{{Student3.Name}} </td>
+                <td>{{Student3.RegNO}} </td>
+                <td>{{Student3.Session}} </td>
+                <td>{{Student3.CalendarYear}} </td>
+                <td>{{Student3.Gender}} </td>
+                <td>{{Student3.Mobile}} </td>
+                <td>{{Student3.Batch}} </td>
+                <td>{{Student3.Email}} </td>
+                <td>
+                    <button class="btn btn-small btn-warning" data-toggle="modal" data-target="#myModal" ng-click="Edit(Student3)" >Edit</button>
+                    <button class="btn btn-small btn-danger" ng-click="DeleteStudent(Student3.SID)" >Delete</button></td>
+            </tr>
+        </table>
+
+    </div>
+
+    <!-- Add Modal -->
+    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" >
+        <div class="modal-dialog" role="document" style="width:950px;">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" ng-click="reset()" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="myModalLabel">Add Student</h4>
+                </div>
+                <div class="modal-body">
+                    <form name="SOSForm" ng-submit="AddStudent()" />                   
+                    <div class="form-group">
+                        <label for="Exam" >Student Name</label>
+                        <input class="form-control" ng-model="Student.Name" required  name="Name"/>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="Exam" >Student RegNO</label>
+                        <input class="form-control" ng-model="Student.RegNO" required  name="RegNO"/>
+                    </div>
+                    <div class="form-group">
+                        <label for="Exam" >Session</label>
+                        <select class="form-control" ng-model="Student.Session" required  name="Session">
+                            <option value="">Select </option>
+                            $year=date("Y");
+                            <?php
+                            for ($i = date("Y") - 5; $i <= date("Y") + 5; $i++) {
+                                echo "<option value='" . $i . "/" . ($i + 1) . "'>" . $i . "/" . ($i + 1) . " </option>";
+                            }
+                            ?>
+
+                        </select>
+
+                    </div>
+
+                    <div class="form-group">
+                        <label for="Exam" >Calendar Year</label>
+                        <select class="form-control" ng-model="Student.CalendarYear" required  name="CalendarYear">
+                            <option value="">Select </option>
+                            $year=date("Y");
+                            <?php
+                            for ($i = date("Y") - 5; $i <= date("Y") + 5; $i++) {
+                                echo "<option value='" . $i . "'>" . $i . " </option>";
+                            }
+                            ?>                            
+                        </select>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="Exam" >Gender</label>
+                        <select class="form-control" ng-model="Student.Gender" required  name="Gender">
+                            <option value="">Select </option>
+                            <option value="Male">Male </option>
+                            <option value="Female">Female </option>
+                            <option value="Other">Other </option>
+                        </select>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="Exam" >Batch Name</label>
+                        <select class="form-control"  ng-model="Student.BatchID" required   name="BatchID" ng-options="Question.Id as Question.Batch for Question in BatchabdExamCollection.batch">
+                            <option value="">Choose Option</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="Exam" >Mobile</label>
+                        <input class="form-control" ng-model="Student.Mobile"  name="Mobile"/>
+                    </div>
+                    <div class="form-group">
+                        <label for="Exam" >Email</label>
+                        <input class="form-control" type="email" ng-model="Student.Email"  name="Email"/>
+                    </div>
+
+
+                    <div class="form-group">
+                        <button type="Submit" class="btn btn-info" name="Create" id="Create">Add</button>
+                    </div>
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" ng-click="reset()" class="btn btn-default" data-dismiss="modal">Close</button>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--modal end-->
+
+</div>
+</body>
+</html>
+
+<script type="text/javascript">
+
+    app.controller("DefaultCtrl", ["$scope", "$http",
+        function ($scope, $http) {
+            init();
+            function init() {
+                initialize();
+                // GetAllStudent();
+                GetAllBatchandExamCollectionField()
+
+            }
+            function initialize() {
+                $scope.AllStudent = [];
+                $scope.DeleteStudent = DeleteStudent;
+                $scope.AddStudent = AddStudent;
+                $scope.Student = {};
+                $scope.Edit = Edit;
+                $scope.reset = reset;
+                $scope.GetAllStudent = GetAllStudent;
+                $scope.BatchID = 0;
+
+            }
+
+            function GetAllBatchandExamCollectionField()
+            {
+
+                $http({
+                    method: 'GET',
+                    url: baseUrl + 'Exam/GetAllExamTypeField/'
+                }).then(function successCallback(response) {
+                    $scope.BatchabdExamCollection = response.data;
+
+
+                }, function errorCallback(response) {
+                });
+            }
+
+            function GetAllStudent(x)
+            {
+                $scope.AllStudent = [];
+                var BID = x;
+                $scope.AllStudent = [];
+                $http({
+                    method: 'GET',
+                    url: baseUrl + 'Student/GetAllStudent/' + BID
+                }).then(function successCallback(response) {
+                    $scope.AllStudent = response.data;
+                    console.log($scope.AllStudent);
+                }, function errorCallback(response) {
+                });
+            }
+
+            function DeleteStudent(id)
+            {
+                var SId = id;
+
+                var r = confirm("Do you want to Delete!");
+                if (r == true) {
+                    $http({
+                        method: 'GET',
+                        url: baseUrl + 'Student/DeleteStudent/' + SId
+                    }).then(function successCallback(response) {
+                        swal("Student!!", "Deleted Successfully!!");
+                        GetAllStudent($scope.BatchID);
+                    }, function errorCallback(response) {
+                        swal("Student!", "Not Deleted!!!!");
+                    });
+
+                }
+            }
+
+            function AddStudent()
+            {
+                console.log($scope.Student);
+                //update
+                if ($scope.Student.SID > 0)
+                {
+                    $http({
+                        method: 'POST',
+                        url: baseUrl + 'Student/UpdateStudent/',
+                        headers: {'Content-Type': 'application/json'},
+                        data: JSON.stringify($scope.Student)
+                    }).success(function (data) {
+                        console.log(data);
+
+                        $scope.Student = {};
+                        GetAllStudent($scope.BatchID);
+                        $('#myModal').modal('toggle');
+                        swal(data, "Student");
+
+                    });
+                }
+                else {
+                    //add
+                    $http({
+                        method: 'POST',
+                        url: baseUrl + 'Student/AddStudent/',
+                        headers: {'Content-Type': 'application/json'},
+                        data: JSON.stringify($scope.Student)
+                    }).success(function (data) {
+                        console.log(data);
+                        GetAllStudent($scope.BatchID);
+                        $('#myModal').modal('toggle');
+                        swal(data, "Student");
+                        $scope.Student = {};
+                    });
+                }
+            }
+
+            function Edit(Student)
+            {
+                $scope.Student = {};
+                $scope.Student = Student;
+            }
+
+            function reset()
+            {
+                $scope.Student = {};
+            }
+
+        }]);
+</script>

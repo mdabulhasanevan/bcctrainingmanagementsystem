@@ -1,0 +1,14 @@
+ERROR - 2023-04-28 00:37:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-28 00:37:32 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-04-28 03:07:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-28 03:07:56 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-04-28 03:07:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-28 03:07:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-28 03:07:57 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-04-28 03:07:58 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-04-28 11:45:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-28 14:10:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-28 20:02:22 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-04-28 20:02:29 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-04-28 20:02:54 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-04-28 20:03:01 --> Severity: Notice --> Undefined variable: smallGender2 /home/expresstechbd/public_html/bcc/application/views/Student/CertificatePdfIndividual.php 94

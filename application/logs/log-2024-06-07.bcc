@@ -1,0 +1,22 @@
+ERROR - 2024-06-07 00:04:23 --> 404 Page Not Found: AdmissionReg/index
+ERROR - 2024-06-07 00:17:53 --> 404 Page Not Found: Home/link
+ERROR - 2024-06-07 01:26:09 --> Query error: Unknown column 'link' in 'where clause' - Invalid query: SELECT * FROM breakingnews WHERE BrId=link order by BrId DESC limit 10
+ERROR - 2024-06-07 01:26:09 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/News_model.php 52
+ERROR - 2024-06-07 04:41:58 --> Severity: Notice --> Trying to get property 'Headline' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 9
+ERROR - 2024-06-07 04:41:58 --> Severity: Notice --> Trying to get property 'Date' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 10
+ERROR - 2024-06-07 04:41:58 --> Severity: Notice --> Trying to get property 'Detail' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 12
+ERROR - 2024-06-07 11:25:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-06-07 11:25:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-06-07 11:39:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-06-07 16:05:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-06-07 16:05:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-06-07 16:05:15 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-06-07 16:05:16 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-06-07 18:51:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-06-07 18:51:50 --> Query error: Unknown column 'link' in 'where clause' - Invalid query: SELECT * FROM breakingnews WHERE BrId=link order by BrId DESC limit 10
+ERROR - 2024-06-07 18:51:50 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/News_model.php 52
+ERROR - 2024-06-07 19:34:40 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-06-07 20:04:47 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-06-07 21:29:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-06-07 21:33:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-06-07 21:37:13 --> 404 Page Not Found: Robotstxt/index

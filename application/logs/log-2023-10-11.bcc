@@ -1,0 +1,49 @@
+ERROR - 2023-10-11 00:15:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-11 01:42:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-11 05:41:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-11 14:18:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-11 14:44:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-11 14:46:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-11 16:43:03 --> 404 Page Not Found: Webview/dist
+ERROR - 2023-10-11 16:43:18 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/bcc/system/libraries/Session/drivers/Session_files_driver.php:212) /home/expresstechbd/public_html/bcc/system/core/Common.php 570
+ERROR - 2023-10-11 16:43:18 --> Severity: Error --> Maximum execution time of 300 seconds exceeded /home/expresstechbd/public_html/bcc/system/libraries/Session/drivers/Session_files_driver.php 212
+ERROR - 2023-10-11 16:43:18 --> Severity: Warning --> Unknown: Cannot call session save handler in a recursive manner Unknown 0
+ERROR - 2023-10-11 16:43:18 --> Severity: Warning --> Unknown: Failed to write session data using user defined save handler. (session.save_path: /var/cpanel/php/sessions/ea-php73) Unknown 0
+ERROR - 2023-10-11 16:47:51 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/bcc/system/libraries/Session/drivers/Session_files_driver.php:212) /home/expresstechbd/public_html/bcc/system/core/Common.php 570
+ERROR - 2023-10-11 16:47:51 --> Severity: Error --> Maximum execution time of 300 seconds exceeded /home/expresstechbd/public_html/bcc/system/libraries/Session/drivers/Session_files_driver.php 212
+ERROR - 2023-10-11 16:47:51 --> Severity: Warning --> Unknown: Cannot call session save handler in a recursive manner Unknown 0
+ERROR - 2023-10-11 16:47:51 --> Severity: Warning --> Unknown: Failed to write session data using user defined save handler. (session.save_path: /var/cpanel/php/sessions/ea-php73) Unknown 0
+ERROR - 2023-10-11 16:55:52 --> 404 Page Not Found: Webview/dist
+ERROR - 2023-10-11 17:02:31 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/bcc/system/libraries/Session/drivers/Session_files_driver.php:212) /home/expresstechbd/public_html/bcc/system/core/Common.php 570
+ERROR - 2023-10-11 17:02:31 --> Severity: Error --> Maximum execution time of 300 seconds exceeded /home/expresstechbd/public_html/bcc/system/libraries/Session/drivers/Session_files_driver.php 212
+ERROR - 2023-10-11 17:02:31 --> Severity: Warning --> Unknown: Cannot call session save handler in a recursive manner Unknown 0
+ERROR - 2023-10-11 17:02:31 --> Severity: Warning --> Unknown: Failed to write session data using user defined save handler. (session.save_path: /var/cpanel/php/sessions/ea-php73) Unknown 0
+ERROR - 2023-10-11 17:02:37 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/bcc/system/libraries/Session/drivers/Session_files_driver.php:212) /home/expresstechbd/public_html/bcc/system/core/Common.php 570
+ERROR - 2023-10-11 17:02:37 --> Severity: Error --> Maximum execution time of 300 seconds exceeded /home/expresstechbd/public_html/bcc/system/libraries/Session/drivers/Session_files_driver.php 212
+ERROR - 2023-10-11 17:02:37 --> Severity: Warning --> Unknown: Cannot call session save handler in a recursive manner Unknown 0
+ERROR - 2023-10-11 17:02:37 --> Severity: Warning --> Unknown: Failed to write session data using user defined save handler. (session.save_path: /var/cpanel/php/sessions/ea-php73) Unknown 0
+ERROR - 2023-10-11 17:05:12 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/bcc/system/libraries/Session/drivers/Session_files_driver.php:212) /home/expresstechbd/public_html/bcc/system/core/Common.php 570
+ERROR - 2023-10-11 17:05:12 --> Severity: Error --> Maximum execution time of 300 seconds exceeded /home/expresstechbd/public_html/bcc/system/libraries/Session/drivers/Session_files_driver.php 212
+ERROR - 2023-10-11 17:05:12 --> Severity: Warning --> Unknown: Cannot call session save handler in a recursive manner Unknown 0
+ERROR - 2023-10-11 17:05:12 --> Severity: Warning --> Unknown: Failed to write session data using user defined save handler. (session.save_path: /var/cpanel/php/sessions/ea-php73) Unknown 0
+ERROR - 2023-10-11 17:06:30 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/bcc/system/libraries/Session/drivers/Session_files_driver.php:212) /home/expresstechbd/public_html/bcc/system/core/Common.php 570
+ERROR - 2023-10-11 17:06:30 --> Severity: Error --> Maximum execution time of 300 seconds exceeded /home/expresstechbd/public_html/bcc/system/libraries/Session/drivers/Session_files_driver.php 212
+ERROR - 2023-10-11 17:06:30 --> Severity: Warning --> Unknown: Cannot call session save handler in a recursive manner Unknown 0
+ERROR - 2023-10-11 17:06:30 --> Severity: Warning --> Unknown: Failed to write session data using user defined save handler. (session.save_path: /var/cpanel/php/sessions/ea-php73) Unknown 0
+ERROR - 2023-10-11 17:07:50 --> 404 Page Not Found: Webview/dist
+ERROR - 2023-10-11 19:02:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-11 19:53:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-11 19:54:41 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-10-11 19:54:42 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-10-11 20:50:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-11 20:50:54 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-10-11 20:50:54 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-10-11 20:50:54 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-10-11 20:50:54 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-10-11 20:50:54 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-10-11 20:50:54 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-10-11 22:23:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-11 22:23:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-11 22:23:33 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-10-11 22:23:34 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-10-11 23:32:26 --> 404 Page Not Found: Robotstxt/index

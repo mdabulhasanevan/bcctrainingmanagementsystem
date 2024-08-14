@@ -1,0 +1,30 @@
+ERROR - 2023-05-05 00:09:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-05 00:09:12 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-05-05 01:38:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-05 01:38:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-05 01:38:29 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-05-05 01:38:29 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-05-05 01:43:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-05 01:43:09 --> Query error: Unknown column 'link' in 'where clause' - Invalid query: SELECT * FROM breakingnews WHERE BrId=link order by BrId DESC limit 10
+ERROR - 2023-05-05 01:43:09 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/bcc/application/models/News_model.php 52
+ERROR - 2023-05-05 02:38:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-05 02:38:17 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-05-05 06:06:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-05 06:06:24 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2023-05-05 07:11:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-05 07:55:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-05 09:49:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-05 13:43:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-05 15:08:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-05 15:24:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-05 15:38:58 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-05-05 15:39:06 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-05-05 15:39:26 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-05-05 17:59:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-05 17:59:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-05 18:31:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-05 20:25:19 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-05-05 20:33:10 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-05-05 20:33:19 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-05-05 20:33:22 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-05-05 21:49:03 --> 404 Page Not Found: Robotstxt/index

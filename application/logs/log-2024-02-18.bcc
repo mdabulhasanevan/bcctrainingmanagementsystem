@@ -1,0 +1,76 @@
+ERROR - 2024-02-18 00:56:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-18 00:56:37 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-02-18 00:56:37 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-02-18 00:56:37 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-02-18 00:56:37 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-02-18 00:56:37 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-02-18 00:56:37 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-02-18 01:05:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-18 01:05:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-18 02:36:59 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-02-18 02:36:59 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-02-18 02:36:59 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-02-18 02:36:59 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-02-18 02:36:59 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-02-18 02:36:59 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-02-18 02:36:59 --> 404 Page Not Found: Home/images
+ERROR - 2024-02-18 04:12:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-18 04:34:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-18 04:34:28 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-02-18 05:34:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-18 05:34:31 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-02-18 10:18:17 --> 404 Page Not Found: AdmissionReg/index
+ERROR - 2024-02-18 10:18:28 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-02-18 10:18:35 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-02-18 10:34:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-18 10:55:16 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-02-18 10:55:23 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-02-18 10:55:27 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-02-18 12:24:49 --> 404 Page Not Found: AdmissionReg/index
+ERROR - 2024-02-18 12:26:05 --> 404 Page Not Found: AdmissionReg/index
+ERROR - 2024-02-18 12:26:10 --> 404 Page Not Found: Webview/dist
+ERROR - 2024-02-18 12:26:24 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-02-18 12:26:34 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-02-18 12:27:11 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-02-18 12:29:17 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-02-18 12:29:17 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-02-18 12:29:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-18 12:29:51 --> 404 Page Not Found: AdmissionReg/index
+ERROR - 2024-02-18 12:30:18 --> 404 Page Not Found: AdmissionReg/index
+ERROR - 2024-02-18 12:30:37 --> Severity: Notice --> Undefined variable: smallGender2 /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Student/CertificatePdfIndividual.php 94
+ERROR - 2024-02-18 12:30:49 --> Severity: Notice --> Undefined variable: smallGender2 /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Student/CertificatePdfIndividual.php 94
+ERROR - 2024-02-18 12:39:38 --> 404 Page Not Found: Webview/dist
+ERROR - 2024-02-18 12:40:17 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-02-18 12:40:21 --> Severity: error --> Exception: Too few arguments to function Service::DeleteNews(), 1 passed in /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/CodeIgniter.php on line 532 and exactly 2 expected /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/controllers/Service.php 95
+ERROR - 2024-02-18 12:40:26 --> Severity: Warning --> Use of undefined constant m - assumed 'm' (this will throw an Error in a future version of PHP) /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/News_model.php 59
+ERROR - 2024-02-18 12:40:30 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-02-18 12:40:33 --> Severity: error --> Exception: Too few arguments to function Service::DeleteNews(), 1 passed in /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/CodeIgniter.php on line 532 and exactly 2 expected /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/controllers/Service.php 95
+ERROR - 2024-02-18 12:40:36 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-02-18 12:40:38 --> Severity: error --> Exception: Too few arguments to function Service::DeleteNews(), 1 passed in /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/CodeIgniter.php on line 532 and exactly 2 expected /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/controllers/Service.php 95
+ERROR - 2024-02-18 12:40:42 --> 404 Page Not Found: Webview/dist
+ERROR - 2024-02-18 12:48:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-18 12:54:12 --> 404 Page Not Found: Webview/dist
+ERROR - 2024-02-18 12:54:47 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-02-18 12:54:51 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-02-18 12:55:18 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-02-18 12:56:20 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-02-18 13:08:17 --> 404 Page Not Found: Webview/dist
+ERROR - 2024-02-18 13:10:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-18 13:47:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-18 15:12:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-18 15:12:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-18 15:13:23 --> Query error: Unknown column 'img' in 'where clause' - Invalid query: SELECT * FROM breakingnews WHERE BrId=img order by BrId DESC limit 10
+ERROR - 2024-02-18 15:13:23 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/News_model.php 52
+ERROR - 2024-02-18 15:13:24 --> Query error: Unknown column 'img' in 'where clause' - Invalid query: SELECT * FROM breakingnews WHERE BrId=img order by BrId DESC limit 10
+ERROR - 2024-02-18 15:13:24 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/News_model.php 52
+ERROR - 2024-02-18 15:13:25 --> Query error: Unknown column 'img' in 'where clause' - Invalid query: SELECT * FROM breakingnews WHERE BrId=img order by BrId DESC limit 10
+ERROR - 2024-02-18 15:13:25 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/News_model.php 52
+ERROR - 2024-02-18 15:13:26 --> Query error: Unknown column 'img' in 'where clause' - Invalid query: SELECT * FROM breakingnews WHERE BrId=img order by BrId DESC limit 10
+ERROR - 2024-02-18 15:13:26 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/News_model.php 52
+ERROR - 2024-02-18 15:13:27 --> Query error: Unknown column 'images' in 'where clause' - Invalid query: SELECT * FROM breakingnews WHERE BrId=images order by BrId DESC limit 10
+ERROR - 2024-02-18 15:13:27 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/News_model.php 52
+ERROR - 2024-02-18 15:13:28 --> Query error: Unknown column 'images' in 'where clause' - Invalid query: SELECT * FROM breakingnews WHERE BrId=images order by BrId DESC limit 10
+ERROR - 2024-02-18 15:13:28 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/News_model.php 52
+ERROR - 2024-02-18 16:04:38 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-02-18 19:34:37 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-02-18 22:05:25 --> 404 Page Not Found: Well_known/traffic_advice

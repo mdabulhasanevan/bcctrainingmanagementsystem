@@ -1,0 +1,36 @@
+ERROR - 2023-04-17 00:35:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-17 00:35:54 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-04-17 03:05:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-17 03:05:55 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-04-17 03:35:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-17 03:35:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-17 03:36:59 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-04-17 03:37:00 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-04-17 05:43:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-17 08:25:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-17 10:38:08 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-04-17 10:44:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-17 11:03:28 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-04-17 11:03:35 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-04-17 16:45:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-17 16:45:32 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-04-17 16:45:32 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-04-17 16:45:32 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-04-17 16:45:32 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-04-17 16:45:32 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-04-17 16:45:32 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-04-17 16:45:34 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2023-04-17 17:32:54 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-04-17 17:32:54 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-04-17 17:32:54 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-04-17 17:32:54 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-04-17 17:32:54 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-04-17 17:32:54 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-04-17 18:43:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-17 18:43:34 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-04-17 18:43:34 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-04-17 18:43:34 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-04-17 18:43:34 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-04-17 18:43:34 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-04-17 18:43:34 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-04-17 21:31:11 --> 404 Page Not Found: Robotstxt/index

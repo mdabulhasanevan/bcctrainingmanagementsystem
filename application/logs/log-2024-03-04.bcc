@@ -1,0 +1,76 @@
+ERROR - 2024-03-04 03:26:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-04 06:55:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-04 07:32:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-04 09:40:11 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-03-04 10:03:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-04 10:05:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-04 10:07:59 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-03-04 10:08:04 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2024-03-04 10:08:05 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-03-04 10:08:06 --> 404 Page Not Found: Wp_cronphp/index
+ERROR - 2024-03-04 10:08:12 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-03-04 10:10:25 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2024-03-04 10:10:28 --> 404 Page Not Found: Wp_cronphp/index
+ERROR - 2024-03-04 10:15:55 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-03-04 10:18:52 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-03-04 10:18:52 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-03-04 10:18:52 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-03-04 10:18:52 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-03-04 10:18:52 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-03-04 10:18:52 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-03-04 10:19:00 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-03-04 10:19:00 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-03-04 10:19:00 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-03-04 10:19:00 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-03-04 10:19:00 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-03-04 10:19:00 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-03-04 11:17:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-04 12:10:06 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-03-04 13:50:51 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-03-04 13:50:57 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-03-04 14:35:52 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php:212) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-03-04 14:35:52 --> Severity: Error --> Maximum execution time of 300 seconds exceeded /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php 212
+ERROR - 2024-03-04 14:35:52 --> Severity: Warning --> Unknown: Cannot call session save handler in a recursive manner Unknown 0
+ERROR - 2024-03-04 14:35:52 --> Severity: Warning --> Unknown: Failed to write session data using user defined save handler. (session.save_path: /var/cpanel/php/sessions/ea-php73) Unknown 0
+ERROR - 2024-03-04 14:36:09 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php:212) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-03-04 14:36:09 --> Severity: Error --> Maximum execution time of 300 seconds exceeded /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php 212
+ERROR - 2024-03-04 14:36:09 --> Severity: Warning --> Unknown: Cannot call session save handler in a recursive manner Unknown 0
+ERROR - 2024-03-04 14:36:09 --> Severity: Warning --> Unknown: Failed to write session data using user defined save handler. (session.save_path: /var/cpanel/php/sessions/ea-php73) Unknown 0
+ERROR - 2024-03-04 15:31:00 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php:212) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-03-04 15:31:00 --> Severity: Error --> Maximum execution time of 300 seconds exceeded /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php 212
+ERROR - 2024-03-04 15:31:00 --> Severity: Warning --> Unknown: Cannot call session save handler in a recursive manner Unknown 0
+ERROR - 2024-03-04 15:31:00 --> Severity: Warning --> Unknown: Failed to write session data using user defined save handler. (session.save_path: /var/cpanel/php/sessions/ea-php73) Unknown 0
+ERROR - 2024-03-04 15:39:47 --> 404 Page Not Found: Webview/dist
+ERROR - 2024-03-04 15:51:21 --> 404 Page Not Found: Webview/dist
+ERROR - 2024-03-04 15:55:58 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php:212) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-03-04 15:55:58 --> Severity: Error --> Maximum execution time of 300 seconds exceeded /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php 212
+ERROR - 2024-03-04 15:55:58 --> Severity: Warning --> Unknown: Cannot call session save handler in a recursive manner Unknown 0
+ERROR - 2024-03-04 15:55:58 --> Severity: Warning --> Unknown: Failed to write session data using user defined save handler. (session.save_path: /var/cpanel/php/sessions/ea-php73) Unknown 0
+ERROR - 2024-03-04 16:39:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-04 17:58:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-04 18:00:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-04 19:24:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-04 19:25:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-04 19:48:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-04 20:02:37 --> Severity: Notice --> Trying to get property 'Headline' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 9
+ERROR - 2024-03-04 20:02:37 --> Severity: Notice --> Trying to get property 'Date' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 10
+ERROR - 2024-03-04 20:02:37 --> Severity: Notice --> Trying to get property 'Detail' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 12
+ERROR - 2024-03-04 20:03:54 --> 404 Page Not Found: Home/link
+ERROR - 2024-03-04 20:40:51 --> Severity: Notice --> Trying to get property 'Headline' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/WebView/NoticeOpen.php 25
+ERROR - 2024-03-04 20:40:51 --> Severity: Notice --> Trying to get property 'Date' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/WebView/NoticeOpen.php 26
+ERROR - 2024-03-04 20:40:51 --> Severity: Notice --> Trying to get property 'Detail' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/WebView/NoticeOpen.php 28
+ERROR - 2024-03-04 20:41:12 --> Severity: error --> Exception: Too few arguments to function Home::CategoryPageInfo(), 0 passed in /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/CodeIgniter.php on line 532 and exactly 1 expected /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/controllers/Home.php 89
+ERROR - 2024-03-04 21:10:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-04 21:10:20 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-03-04 21:17:48 --> Severity: error --> Exception: Too few arguments to function Home::NoticeOpen(), 0 passed in /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/CodeIgniter.php on line 532 and exactly 1 expected /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/controllers/Home.php 78
+ERROR - 2024-03-04 21:18:00 --> Severity: error --> Exception: Too few arguments to function Home::NoticeOpen(), 0 passed in /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/CodeIgniter.php on line 532 and exactly 1 expected /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/controllers/Home.php 78
+ERROR - 2024-03-04 21:18:11 --> Query error: Unknown column 'link' in 'where clause' - Invalid query: SELECT * FROM breakingnews WHERE BrId=link order by BrId DESC limit 10
+ERROR - 2024-03-04 21:18:11 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/News_model.php 52
+ERROR - 2024-03-04 21:18:32 --> Severity: error --> Exception: Too few arguments to function Home::CategoryPageInfo(), 0 passed in /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/CodeIgniter.php on line 532 and exactly 1 expected /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/controllers/Home.php 89
+ERROR - 2024-03-04 21:18:42 --> Severity: error --> Exception: Too few arguments to function Home::CategoryPageInfo(), 0 passed in /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/CodeIgniter.php on line 532 and exactly 1 expected /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/controllers/Home.php 89
+ERROR - 2024-03-04 21:18:54 --> Query error: Unknown column 'link' in 'where clause' - Invalid query: SELECT csc.CSCID, csc.Category, csc.Detail, csc.Others, cc.category as CategoryName FROM content_sub_category csc left join content_category cc on cc.CID=csc.CID where csc.CSCID=link
+ERROR - 2024-03-04 21:18:54 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/PhotoSlideGallery_Model.php 112
+ERROR - 2024-03-04 21:40:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-04 21:40:21 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-03-04 23:07:55 --> Severity: error --> Exception: Too few arguments to function Home::NoticeOpen(), 0 passed in /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/CodeIgniter.php on line 532 and exactly 1 expected /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/controllers/Home.php 78
+ERROR - 2024-03-04 23:44:31 --> Severity: error --> Exception: Too few arguments to function Home::CategoryPageInfo(), 0 passed in /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/CodeIgniter.php on line 532 and exactly 1 expected /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/controllers/Home.php 89

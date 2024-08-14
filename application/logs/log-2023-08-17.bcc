@@ -1,0 +1,23 @@
+ERROR - 2023-08-17 00:29:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-17 00:37:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-17 00:37:40 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-08-17 00:37:40 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-08-17 00:37:40 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-08-17 00:37:40 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-08-17 00:37:40 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-08-17 00:37:40 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-08-17 01:48:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-17 02:03:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-17 03:33:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-17 05:12:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-17 09:17:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-17 11:32:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-17 13:00:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-17 20:27:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-17 20:27:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-17 20:27:19 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-08-17 20:27:20 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-08-17 22:57:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-17 22:58:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-17 23:00:44 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-08-17 23:06:28 --> 404 Page Not Found: Adstxt/index

@@ -1,0 +1,35 @@
+ERROR - 2024-03-20 02:51:33 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-03-20 03:26:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-20 04:24:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-20 04:51:35 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-03-20 05:53:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-20 07:41:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-20 08:25:21 --> Severity: Notice --> Trying to get property 'Headline' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 9
+ERROR - 2024-03-20 08:25:21 --> Severity: Notice --> Trying to get property 'Date' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 10
+ERROR - 2024-03-20 08:25:21 --> Severity: Notice --> Trying to get property 'Detail' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 12
+ERROR - 2024-03-20 08:37:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-20 09:38:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-20 09:42:03 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2024-03-20 09:42:05 --> 404 Page Not Found: Wp_cronphp/index
+ERROR - 2024-03-20 09:46:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-20 09:51:05 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-03-20 09:51:05 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-03-20 09:51:05 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-03-20 09:51:05 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-03-20 09:51:05 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-03-20 09:51:05 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-03-20 10:03:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-20 10:55:03 --> Severity: Warning --> session_start(): Failed to decode session object. Session has been destroyed /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/Session.php 143
+ERROR - 2024-03-20 10:55:03 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/helpers/url_helper.php 564
+ERROR - 2024-03-20 11:48:07 --> 404 Page Not Found: StudentOpen/index.html
+ERROR - 2024-03-20 11:48:11 --> 404 Page Not Found: StudentOpen/%7B%7BContent.Tutorials%20%7C%20trustAsResourceUrl%7D%7D
+ERROR - 2024-03-20 11:48:15 --> 404 Page Not Found: StudentOpen/youtube.com
+ERROR - 2024-03-20 11:48:16 --> 404 Page Not Found: StudentOpen/yrry
+ERROR - 2024-03-20 12:47:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-20 14:27:57 --> 404 Page Not Found: Sitemapsxml/index
+ERROR - 2024-03-20 14:53:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-20 14:53:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-20 14:53:33 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-03-20 14:53:34 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-03-20 15:25:09 --> 404 Page Not Found: Sitemapsxml/index
+ERROR - 2024-03-20 16:57:29 --> 404 Page Not Found: Robotstxt/index

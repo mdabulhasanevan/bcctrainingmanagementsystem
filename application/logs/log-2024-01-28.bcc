@@ -1,0 +1,71 @@
+ERROR - 2024-01-28 00:25:07 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-01-28 01:03:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-28 01:04:48 --> 404 Page Not Found: AdmissionReg/index
+ERROR - 2024-01-28 01:05:01 --> Severity: Warning --> mysqli::real_connect(): (08004/1040): Too many connections /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2024-01-28 01:05:01 --> Unable to connect to the database
+ERROR - 2024-01-28 01:05:01 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/Session.php 282
+ERROR - 2024-01-28 01:05:01 --> Severity: Warning --> session_set_cookie_params(): Cannot change session cookie parameters when headers already sent /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/Session.php 294
+ERROR - 2024-01-28 01:05:01 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/Session.php 304
+ERROR - 2024-01-28 01:05:01 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/Session.php 314
+ERROR - 2024-01-28 01:05:01 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/Session.php 315
+ERROR - 2024-01-28 01:05:01 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/Session.php 316
+ERROR - 2024-01-28 01:05:01 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/Session.php 317
+ERROR - 2024-01-28 01:05:01 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/Session.php 375
+ERROR - 2024-01-28 01:05:01 --> Severity: Warning --> session_set_save_handler(): Cannot change save handler when headers already sent /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/Session.php 110
+ERROR - 2024-01-28 01:05:01 --> Severity: Warning --> session_start(): Cannot start session when headers already sent /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/Session.php 143
+ERROR - 2024-01-28 01:05:01 --> Severity: Warning --> mysqli::real_connect(): (08004/1040): Too many connections /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2024-01-28 01:05:01 --> Unable to connect to the database
+ERROR - 2024-01-28 01:05:01 --> Query error: Too many connections - Invalid query: SELECT * FROM breakingnews where NewsType=2 and IsHide=0 order by BrId DESC Limit 5
+ERROR - 2024-01-28 01:05:01 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/News_model.php 79
+ERROR - 2024-01-28 01:05:01 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-01-28 01:09:08 --> Severity: error --> Exception: Too few arguments to function Home::CategoryPageInfo(), 0 passed in /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/CodeIgniter.php on line 532 and exactly 1 expected /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/controllers/Home.php 89
+ERROR - 2024-01-28 01:09:21 --> Severity: error --> Exception: Too few arguments to function Home::CategoryPageInfo(), 0 passed in /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/CodeIgniter.php on line 532 and exactly 1 expected /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/controllers/Home.php 89
+ERROR - 2024-01-28 01:09:35 --> Severity: error --> Exception: Too few arguments to function Home::NoticeOpen(), 0 passed in /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/CodeIgniter.php on line 532 and exactly 1 expected /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/controllers/Home.php 78
+ERROR - 2024-01-28 01:09:48 --> Severity: error --> Exception: Too few arguments to function Home::NoticeOpen(), 0 passed in /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/CodeIgniter.php on line 532 and exactly 1 expected /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/controllers/Home.php 78
+ERROR - 2024-01-28 01:10:01 --> Query error: Unknown column 'link' in 'where clause' - Invalid query: SELECT * FROM breakingnews WHERE BrId=link order by BrId DESC limit 10
+ERROR - 2024-01-28 01:10:01 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/News_model.php 52
+ERROR - 2024-01-28 01:10:14 --> Severity: error --> Exception: Too few arguments to function Home::CategoryPageInfo(), 0 passed in /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/CodeIgniter.php on line 532 and exactly 1 expected /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/controllers/Home.php 89
+ERROR - 2024-01-28 01:10:27 --> Query error: Unknown column 'link' in 'where clause' - Invalid query: SELECT csc.CSCID, csc.Category, csc.Detail, csc.Others, cc.category as CategoryName FROM content_sub_category csc left join content_category cc on cc.CID=csc.CID where csc.CSCID=link
+ERROR - 2024-01-28 01:10:27 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/PhotoSlideGallery_Model.php 112
+ERROR - 2024-01-28 01:10:40 --> Severity: error --> Exception: Too few arguments to function Home::NoticeOpen(), 0 passed in /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/CodeIgniter.php on line 532 and exactly 1 expected /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/controllers/Home.php 78
+ERROR - 2024-01-28 01:10:53 --> Severity: error --> Exception: Too few arguments to function Home::NoticeOpen(), 0 passed in /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/CodeIgniter.php on line 532 and exactly 1 expected /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/controllers/Home.php 78
+ERROR - 2024-01-28 01:11:06 --> Severity: error --> Exception: Too few arguments to function Home::CategoryPageInfo(), 0 passed in /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/CodeIgniter.php on line 532 and exactly 1 expected /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/controllers/Home.php 89
+ERROR - 2024-01-28 01:11:19 --> Severity: error --> Exception: Too few arguments to function Home::NoticeOpen(), 0 passed in /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/CodeIgniter.php on line 532 and exactly 1 expected /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/controllers/Home.php 78
+ERROR - 2024-01-28 01:11:32 --> Severity: error --> Exception: Too few arguments to function Home::CategoryPageInfo(), 0 passed in /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/CodeIgniter.php on line 532 and exactly 1 expected /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/controllers/Home.php 89
+ERROR - 2024-01-28 01:11:46 --> Severity: error --> Exception: Too few arguments to function Home::CategoryPageInfo(), 0 passed in /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/CodeIgniter.php on line 532 and exactly 1 expected /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/controllers/Home.php 89
+ERROR - 2024-01-28 02:18:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-28 02:41:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-28 02:55:13 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-01-28 03:35:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-28 05:00:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-28 05:47:48 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-01-28 05:47:48 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-01-28 05:47:48 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-01-28 05:47:48 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-01-28 05:47:48 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-01-28 05:47:48 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-01-28 05:49:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-28 07:16:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-28 07:54:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-28 08:33:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-28 08:33:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-28 09:25:25 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-01-28 10:25:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-28 10:25:21 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-01-28 12:04:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-28 16:18:17 --> Severity: error --> Exception: Class 'SoapClient' not found /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/controllers/SMS.php 152
+ERROR - 2024-01-28 16:18:35 --> Severity: error --> Exception: Class 'SoapClient' not found /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/controllers/SMS.php 152
+ERROR - 2024-01-28 18:13:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-28 19:09:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-28 19:12:59 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2024-01-28 19:13:01 --> 404 Page Not Found: Wp_cronphp/index
+ERROR - 2024-01-28 19:22:33 --> 404 Page Not Found: AdmissionReg/index
+ERROR - 2024-01-28 19:30:19 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-01-28 19:30:19 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-01-28 19:30:19 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-01-28 19:30:19 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-01-28 19:30:19 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-01-28 19:30:19 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-01-28 22:58:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-28 23:55:46 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-01-28 23:59:58 --> 404 Page Not Found: Robotstxt/index

@@ -1,0 +1,84 @@
+ERROR - 2024-05-18 01:09:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-18 01:58:10 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-05-18 02:28:28 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-05-18 04:56:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-18 05:24:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-18 07:18:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-18 07:22:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-18 07:26:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-18 13:41:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-18 14:30:43 --> Query error: Unknown column 'link' in 'where clause' - Invalid query: SELECT * FROM breakingnews WHERE BrId=link order by BrId DESC limit 10
+ERROR - 2024-05-18 14:30:43 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/News_model.php 52
+ERROR - 2024-05-18 17:28:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-18 17:28:46 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-05-18 17:44:54 --> 404 Page Not Found: Webview/dist
+ERROR - 2024-05-18 17:48:54 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php:212) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-05-18 17:48:54 --> Severity: Error --> Maximum execution time of 300 seconds exceeded /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php 212
+ERROR - 2024-05-18 17:48:54 --> Severity: Warning --> Unknown: Cannot call session save handler in a recursive manner Unknown 0
+ERROR - 2024-05-18 17:48:54 --> Severity: Warning --> Unknown: Failed to write session data using user defined save handler. (session.save_path: /var/cpanel/php/sessions/ea-php73) Unknown 0
+ERROR - 2024-05-18 17:52:53 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 - Invalid query: SELECT COUNT(er.ERId) as Count FROM examresult er left join setexam as sx on sx.ExamCollectionID=er.ExamCollectionID WHERE er.UserID=1801 and sx.BatchID=69 and sx.SetID=
+ERROR - 2024-05-18 17:52:53 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 177
+ERROR - 2024-05-18 17:52:56 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 - Invalid query: SELECT COUNT(er.ERId) as Count FROM examresult er left join setexam as sx on sx.ExamCollectionID=er.ExamCollectionID WHERE er.UserID=1801 and sx.BatchID=69 and sx.SetID=
+ERROR - 2024-05-18 17:52:56 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 177
+ERROR - 2024-05-18 17:53:09 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-18 17:53:32 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-18 18:07:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-18 18:07:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-18 18:10:06 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-18 18:29:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-18 18:29:16 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-05-18 19:11:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-18 19:12:24 --> 404 Page Not Found: Webview/dist
+ERROR - 2024-05-18 19:14:42 --> 404 Page Not Found: Student/UserProfile
+ERROR - 2024-05-18 19:14:48 --> 404 Page Not Found: Student/UserProfile
+ERROR - 2024-05-18 19:42:24 --> 404 Page Not Found: StudentOpen/index.html
+ERROR - 2024-05-18 19:43:07 --> 404 Page Not Found: StudentOpen/index.html
+ERROR - 2024-05-18 19:45:00 --> 404 Page Not Found: Sitemaptxt/index
+ERROR - 2024-05-18 19:46:52 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php:422) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-05-18 19:46:52 --> Severity: Error --> Maximum execution time of 300 seconds exceeded /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php 422
+ERROR - 2024-05-18 19:46:52 --> Severity: Warning --> Unknown: Cannot call session save handler in a recursive manner Unknown 0
+ERROR - 2024-05-18 19:46:52 --> Severity: Warning --> Unknown: Failed to write session data using user defined save handler. (session.save_path: /var/cpanel/php/sessions/ea-php73) Unknown 0
+ERROR - 2024-05-18 20:01:55 --> 404 Page Not Found: StudentOpen/index.html
+ERROR - 2024-05-18 20:03:01 --> 404 Page Not Found: Student/UserProfile
+ERROR - 2024-05-18 20:03:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-18 20:42:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-18 21:26:26 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-18 21:26:40 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-18 21:30:59 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-18 21:32:53 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-18 21:34:14 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-18 21:35:40 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-18 21:36:50 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-18 21:38:52 --> Query error: Column count doesn't match value count at row 1 - Invalid query: INSERT into StudentbackupData SELECT * from student WHERE SID=1187
+ERROR - 2024-05-18 21:39:01 --> Query error: Column count doesn't match value count at row 1 - Invalid query: INSERT into StudentbackupData SELECT * from student WHERE SID=1163
+ERROR - 2024-05-18 21:39:18 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-18 21:39:33 --> Query error: Unknown column 'undefined' in 'where clause' - Invalid query: SELECT *,  if(er.Attendance=0,'Absent','Present') as Attendance, (se.MCQMarks*er.Correct/er.TotalQuestion) as MCQMarksGet, ((se.MCQMarks*er.Correct/er.TotalQuestion)+er.Theory+er.Practical)as totalAmount FROM examresult as er LEFT JOIN setexam se on se.ExamCollectionID=er.ExamCollectionID and se.BatchID=er.BatchID LEFT JOIN student st on st.SID=er.UserID LEFT JOIN batch b on b.Id=se.BatchID left JOIN examcollection exc on exc.Id=er.ExamCollectionID left join ExamName exn on exn.ExNId=se.ExamNameID WHERE er.BatchID=69  and exc.ExamNameID=undefined  ORDER BY st.RegNO asc
+ERROR - 2024-05-18 21:39:33 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 331
+ERROR - 2024-05-18 21:39:44 --> Query error: Unknown column 'undefined' in 'where clause' - Invalid query: SELECT *,  if(er.Attendance=0,'Absent','Present') as Attendance, (se.MCQMarks*er.Correct/er.TotalQuestion) as MCQMarksGet, ((se.MCQMarks*er.Correct/er.TotalQuestion)+er.Theory+er.Practical)as totalAmount FROM examresult as er LEFT JOIN setexam se on se.ExamCollectionID=er.ExamCollectionID and se.BatchID=er.BatchID LEFT JOIN student st on st.SID=er.UserID LEFT JOIN batch b on b.Id=se.BatchID left JOIN examcollection exc on exc.Id=er.ExamCollectionID left join ExamName exn on exn.ExNId=se.ExamNameID WHERE er.BatchID=69  and exc.ExamNameID=undefined  ORDER BY st.RegNO asc
+ERROR - 2024-05-18 21:39:44 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 331
+ERROR - 2024-05-18 21:41:01 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-18 21:41:33 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-18 21:43:48 --> Query error: Column count doesn't match value count at row 1 - Invalid query: INSERT into StudentbackupData SELECT * from student WHERE SID=1329
+ERROR - 2024-05-18 21:44:03 --> Query error: Column count doesn't match value count at row 1 - Invalid query: INSERT into StudentbackupData SELECT * from student WHERE SID=1330
+ERROR - 2024-05-18 21:52:16 --> Query error: Column count doesn't match value count at row 1 - Invalid query: INSERT into StudentbackupData SELECT * from student WHERE SID=1621
+ERROR - 2024-05-18 21:52:22 --> Query error: Column count doesn't match value count at row 1 - Invalid query: INSERT into StudentbackupData SELECT * from student WHERE SID=1801
+ERROR - 2024-05-18 21:52:28 --> Query error: Column count doesn't match value count at row 1 - Invalid query: INSERT into StudentbackupData SELECT * from student WHERE SID=1288
+ERROR - 2024-05-18 21:52:36 --> Query error: Column count doesn't match value count at row 1 - Invalid query: INSERT into StudentbackupData SELECT * from student WHERE SID=1164
+ERROR - 2024-05-18 22:34:39 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-18 22:34:40 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-18 22:35:12 --> Query error: Column count doesn't match value count at row 1 - Invalid query: INSERT into StudentbackupData SELECT * from student WHERE SID=1165
+ERROR - 2024-05-18 22:35:23 --> Query error: Column count doesn't match value count at row 1 - Invalid query: INSERT into StudentbackupData SELECT * from student WHERE SID=1186
+ERROR - 2024-05-18 22:35:29 --> Query error: Column count doesn't match value count at row 1 - Invalid query: INSERT into StudentbackupData SELECT * from student WHERE SID=1188
+ERROR - 2024-05-18 22:35:37 --> Query error: Column count doesn't match value count at row 1 - Invalid query: INSERT into StudentbackupData SELECT * from student WHERE SID=1267
+ERROR - 2024-05-18 22:41:03 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-18 22:55:26 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-18 22:56:46 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-18 22:56:46 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-18 22:56:46 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-18 22:56:47 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-18 22:57:43 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-18 22:58:00 --> 404 Page Not Found: Report/StudentLocationReport
+ERROR - 2024-05-18 23:22:58 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-18 23:45:26 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-18 23:48:22 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-18 23:49:59 --> 404 Page Not Found: Uploads/users

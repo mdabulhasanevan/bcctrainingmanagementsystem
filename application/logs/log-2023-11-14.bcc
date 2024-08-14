@@ -1,0 +1,38 @@
+ERROR - 2023-11-14 00:24:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-14 02:32:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-14 02:32:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-14 02:33:17 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-11-14 05:48:15 --> 404 Page Not Found: Wp_loginphp/index
+ERROR - 2023-11-14 06:02:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-14 06:02:57 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-11-14 07:41:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-14 08:29:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-14 08:29:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-14 11:34:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-14 13:13:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-14 17:18:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-14 18:48:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-14 19:33:08 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-11-14 19:34:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-14 19:34:04 --> 404 Page Not Found: Sitemap/index
+ERROR - 2023-11-14 19:34:09 --> 404 Page Not Found: Sitemaptxt/index
+ERROR - 2023-11-14 19:34:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-14 19:34:26 --> 404 Page Not Found: AdmissionReg/index
+ERROR - 2023-11-14 20:35:07 --> 404 Page Not Found: Aboutphp/index
+ERROR - 2023-11-14 22:33:04 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-11-14 22:33:13 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-11-14 22:33:27 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-11-14 22:34:34 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-11-14 22:34:41 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-11-14 22:35:44 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-11-14 22:35:58 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-11-14 22:36:01 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-11-14 22:37:38 --> Severity: Notice --> Undefined property: stdClass::$Link /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 74
+ERROR - 2023-11-14 22:37:38 --> Query error: Column 'Link' cannot be null - Invalid query: INSERT INTO `question` (`Question`, `QuestionType`, `QuestionSubject`, `Description`, `Link`) VALUES ('নিচের কোনটি Anti- Virus Software নয়?', '5', '20', 'Explanation: Oracle বাদে বাকিগুলো হচ্ছে Anti- virus সফটওয়্যার। Oracle হচ্ছে ডাটাবেজ ম্যানেজমেন্টের একটি সফটওয়ার।', NULL)
+ERROR - 2023-11-14 22:40:06 --> Severity: Notice --> Undefined property: stdClass::$Link /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 74
+ERROR - 2023-11-14 22:40:06 --> Query error: Column 'Link' cannot be null - Invalid query: INSERT INTO `question` (`Question`, `QuestionType`, `QuestionSubject`, `Description`, `Link`) VALUES ('RFID বলতে বোঝায় –', '5', '20', 'Explanation: Oracle বাদে বাকিগুলো হচ্ছে Anti- virus সফটওয়্যার। Oracle হচ্ছে ডাটাবেজ ম্যানেজমেন্টের একটি সফটওয়ার।', NULL)
+ERROR - 2023-11-14 22:40:16 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-11-14 22:42:43 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-11-14 22:42:55 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-11-14 22:43:02 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-11-14 22:44:32 --> 404 Page Not Found: Uploads/users

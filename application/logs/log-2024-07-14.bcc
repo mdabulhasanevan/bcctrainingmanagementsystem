@@ -1,0 +1,32 @@
+ERROR - 2024-07-14 00:11:10 --> Severity: Notice --> Trying to get property 'Headline' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/WebView/NoticeOpen.php 25
+ERROR - 2024-07-14 00:11:10 --> Severity: Notice --> Trying to get property 'Date' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/WebView/NoticeOpen.php 26
+ERROR - 2024-07-14 00:11:10 --> Severity: Notice --> Trying to get property 'Detail' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/WebView/NoticeOpen.php 28
+ERROR - 2024-07-14 03:09:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-14 03:09:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-14 03:22:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-14 03:22:40 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-07-14 03:22:41 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-07-14 07:47:39 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-07-14 07:47:40 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-07-14 11:29:35 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-07-14 11:29:42 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-07-14 11:30:32 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-07-14 12:27:49 --> Severity: Notice --> fwrite(): write of 34 bytes failed with errno=122 Disk quota exceeded /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php 265
+ERROR - 2024-07-14 12:27:49 --> Session: Unable to write data.
+ERROR - 2024-07-14 12:27:49 --> Severity: Warning --> session_write_close(): Failed to write session data using user defined save handler. (session.save_path: /opt/alt/php74/var/lib/php/session) Unknown 0
+ERROR - 2024-07-14 12:28:00 --> Severity: Notice --> fwrite(): write of 34 bytes failed with errno=122 Disk quota exceeded /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php 265
+ERROR - 2024-07-14 12:28:00 --> Session: Unable to write data.
+ERROR - 2024-07-14 12:28:00 --> Severity: Warning --> session_write_close(): Failed to write session data using user defined save handler. (session.save_path: /opt/alt/php74/var/lib/php/session) Unknown 0
+ERROR - 2024-07-14 12:28:03 --> Severity: Notice --> fwrite(): write of 34 bytes failed with errno=122 Disk quota exceeded /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php 265
+ERROR - 2024-07-14 12:28:03 --> Session: Unable to write data.
+ERROR - 2024-07-14 12:28:03 --> Severity: Warning --> session_write_close(): Failed to write session data using user defined save handler. (session.save_path: /opt/alt/php74/var/lib/php/session) Unknown 0
+ERROR - 2024-07-14 14:36:39 --> 404 Page Not Found: Sitemap_indexxml/index
+ERROR - 2024-07-14 15:34:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-14 15:34:25 --> 404 Page Not Found: Sitemap_indexxml/index
+ERROR - 2024-07-14 15:34:34 --> Severity: Notice --> fwrite(): write of 34 bytes failed with errno=122 Disk quota exceeded /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php 265
+ERROR - 2024-07-14 15:34:34 --> Session: Unable to write data.
+ERROR - 2024-07-14 15:34:34 --> Severity: Warning --> session_write_close(): Failed to write session data using user defined save handler. (session.save_path: /opt/alt/php74/var/lib/php/session) Unknown 0
+ERROR - 2024-07-14 15:39:20 --> Severity: Notice --> fwrite(): write of 34 bytes failed with errno=122 Disk quota exceeded /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php 265
+ERROR - 2024-07-14 15:39:20 --> Session: Unable to write data.
+ERROR - 2024-07-14 15:39:20 --> Severity: Warning --> session_write_close(): Failed to write session data using user defined save handler. (session.save_path: /opt/alt/php74/var/lib/php/session) Unknown 0
+ERROR - 2024-07-14 15:39:20 --> Severity: Notice --> fwrit

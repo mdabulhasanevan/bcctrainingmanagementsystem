@@ -1,0 +1,204 @@
+<div class="content-page" ng-controller="DefaultCtrl"  >
+
+<!-- Start content -->
+<div class="content" >
+<div class="container-fluid">
+<div class="row">
+    <div class="col-xl-12">
+        <div class="breadcrumb-holder">
+            <h1 class="main-title float-left">শিক্ষা প্রতিষ্ঠানের তালিকা </h1>
+            <ol class="breadcrumb float-right">
+                <li class=""><?php echo $_SERVER['REQUEST_URI']; ?></li>
+                
+            </ol>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+</div>
+
+    <div class="row">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
+            <div class="card mb-3">
+                <div class="card-header">
+                <div class="pull-left">
+                  <button type="button"  class="btn btn-primary btn-sm" data-toggle="modal" data-target="#myModal"> অ্যাড করুন</button> 
+                </div>
+        
+                 <div class="pull-right">
+                    <form method="post" action="<?php echo base_url(); ?>EducationalInstitute/Exportaction">
+                     <input type="submit" name="export" class="" value="Export" />
+                    </form>
+                    
+                </div>
+                <div class="pull-right">
+                <form method="post" id="import_form" enctype="multipart/form-data">
+                 
+                   <input type="file" name="file" id="file" required accept=".xls, .xlsx" />
+                   <input type="submit" name="import" value="Import" class="" />
+                </form>
+                </div>
+                </div>
+                    <!-- end card-header -->
+
+  
+    <!--List of EducationalInstitute-->
+ <div class="card-body">
+        <div class="table-responsive">
+    <div class="col-md-12">
+        <table class="table table-striped">
+            <tr>
+                <th>SN</th>
+                <th>Role Name </th>            
+                <th>Action </th>
+            </tr>
+            <tr ng-repeat="Role in AllRole">
+                <td>{{$index + 1}} </td>
+                <td>{{Role.Role}} </td>
+                <td>
+                    <button class="btn btn-warning" data-toggle="modal" data-target="#myModal" ng-click="Edit(Role)" >Edit</button>
+                    <button class="btn btn-danger" ng-click="DeleteRole(Role.Id)" >Delete</button></td>
+            </tr>
+        </table>
+
+    </div>
+        </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+
+    <!-- Add Modal -->
+    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" >
+        <div class="modal-dialog" role="document" style="width:950px;">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" ng-click="reset()" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="myModalLabel">Add Role</h4>
+                </div>
+                <div class="modal-body">
+                    <form name="SOSForm" ng-submit="AddRole()" />                   
+                    <div class="form-group">
+                        <label for="Exam" >Role Name</label>
+                        <input class="form-control" ng-model="Role.Role"  name="Exam"/>
+                    </div>
+                    <div class="form-group">
+
+                        <button type="Submit" class="btn btn-info" name="Create" id="Create">Add</button>
+                    </div>
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" ng-click="reset()" class="btn btn-default" data-dismiss="modal">Close</button>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--modal end-->
+</div>
+</div>
+</body>
+</html>
+
+<script type="text/javascript">
+
+    app.controller("DefaultCtrl", ["$scope", "$http",
+        function ($scope, $http) {
+            init();
+            function init() {
+                initialize();
+                GetAllRole();
+
+            }
+            function initialize() {
+                $scope.AllRole = [];
+                $scope.DeleteRole = DeleteRole;
+                $scope.AddRole = AddRole;
+                $scope.Role = {};
+                $scope.Edit = Edit;
+                $scope.reset=reset;
+
+            }
+
+            function GetAllRole()
+            {
+                $scope.AllRole = [];
+                $http({
+                    method: 'GET',
+                    url: baseUrl + 'Setting/GetAllRole/'
+                }).then(function successCallback(response) {
+                    $scope.AllRole = response.data;
+                }, function errorCallback(response) {
+                });
+            }
+
+            function DeleteRole(id)
+            {
+                var SId = id;
+
+                var r = confirm("Do you want to Delete!");
+                if (r == true) {
+                    $http({
+                        method: 'GET',
+                        url: baseUrl + 'Setting/DeleteRole/' + SId
+                    }).then(function successCallback(response) {
+                        swal("Role!!", "Deleted Successfully!!");
+                        GetAllRole();
+                    }, function errorCallback(response) {
+                        swal("Role!", "Not Deleted!!!!");
+                    });
+
+                }
+            }
+
+            function AddRole()
+            {
+                console.log($scope.Role);
+                //update
+                if ($scope.Role.Id > 0)
+                {
+                    $http({
+                        method: 'POST',
+                        url: baseUrl + 'Setting/UpdateRole/',
+                        headers: {'Content-Type': 'application/json'},
+                        data: JSON.stringify($scope.Role)
+                    }).success(function (data) {   
+                        console.log(data);
+                        GetAllRole();
+                        $scope.Role={};
+                         $('#myModal').modal('toggle');
+                        swal("Successfully Updated", "Role");
+                        
+                    });
+                }
+                else {   
+                    //add
+                    $http({
+                        method: 'POST',
+                        url: baseUrl + 'Setting/AddRole/',
+                        headers: {'Content-Type': 'application/json'},
+                        data: JSON.stringify($scope.Role)
+                    }).success(function (data) {
+                        console.log(data);
+                        GetAllRole();
+                         $('#myModal').modal('toggle');
+                        swal("Successfully added", "Role");
+                        $scope.Role = {};
+                    });
+                }
+            }
+
+            function Edit(Role)
+            {
+                $scope.Role = {};
+                $scope.Role = Role;
+            }
+            
+            function reset()
+            {
+                $scope.Role = {};
+            }
+
+        }]);
+</script>

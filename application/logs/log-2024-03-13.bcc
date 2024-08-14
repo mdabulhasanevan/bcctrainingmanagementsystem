@@ -1,0 +1,22 @@
+ERROR - 2024-03-13 01:34:52 --> Severity: Notice --> Trying to get property 'Headline' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 9
+ERROR - 2024-03-13 01:34:52 --> Severity: Notice --> Trying to get property 'Date' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 10
+ERROR - 2024-03-13 01:34:52 --> Severity: Notice --> Trying to get property 'Detail' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 12
+ERROR - 2024-03-13 04:45:17 --> Severity: error --> Exception: Class 'SoapClient' not found /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/controllers/Webview.php 234
+ERROR - 2024-03-13 05:41:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-13 05:41:58 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-03-13 07:42:00 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-03-13 11:00:45 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-03-13 11:01:12 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-03-13 11:05:43 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-03-13 11:19:33 --> 404 Page Not Found: Dist/js
+ERROR - 2024-03-13 11:20:41 --> Severity: error --> Exception: Class 'SoapClient' not found /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/controllers/Webview.php 237
+ERROR - 2024-03-13 17:05:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-13 17:18:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-13 17:42:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-13 17:42:22 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-03-13 18:12:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-13 18:12:15 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-03-13 21:15:38 --> Severity: Notice --> Trying to get property 'Headline' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 9
+ERROR - 2024-03-13 21:15:38 --> Severity: Notice --> Trying to get property 'Date' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 10
+ERROR - 2024-03-13 21:15:38 --> Severity: Notice --> Trying to get property 'Detail' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 12
+ERROR - 2024-03-13 23:58:30 --> 404 Page Not Found: Robotstxt/index

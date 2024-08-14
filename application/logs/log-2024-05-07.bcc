@@ -1,0 +1,27 @@
+ERROR - 2024-05-07 05:26:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-07 05:26:15 --> Query error: Unknown column 'link' in 'where clause' - Invalid query: SELECT * FROM breakingnews WHERE BrId=link order by BrId DESC limit 10
+ERROR - 2024-05-07 05:26:15 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/News_model.php 52
+ERROR - 2024-05-07 05:50:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-07 05:50:57 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-05-07 05:50:59 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-05-07 06:50:54 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-05-07 06:50:54 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-05-07 06:50:54 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-05-07 06:50:54 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-05-07 06:50:54 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-05-07 06:50:54 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-05-07 14:07:28 --> 404 Page Not Found: Sitemap_indexxml/index
+ERROR - 2024-05-07 15:00:03 --> 404 Page Not Found: Sitemap_indexxml/index
+ERROR - 2024-05-07 16:37:47 --> Query error: Unknown column 'link' in 'where clause' - Invalid query: SELECT * FROM breakingnews WHERE BrId=link order by BrId DESC limit 10
+ERROR - 2024-05-07 16:37:47 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/News_model.php 52
+ERROR - 2024-05-07 21:21:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-07 21:21:18 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-05-07 21:41:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-07 21:54:19 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-05-07 21:54:19 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-05-07 21:54:19 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-05-07 21:54:19 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-05-07 21:54:19 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-05-07 21:54:19 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-05-07 22:21:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-07 22:21:31 --> 404 Page Not Found: Adstxt/index

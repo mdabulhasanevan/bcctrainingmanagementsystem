@@ -1,0 +1,51 @@
+ERROR - 2024-05-06 00:19:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-06 01:39:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-06 01:39:17 --> Query error: Unknown column 'link' in 'where clause' - Invalid query: SELECT * FROM breakingnews WHERE BrId=link order by BrId DESC limit 10
+ERROR - 2024-05-06 01:39:17 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/News_model.php 52
+ERROR - 2024-05-06 03:52:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-06 06:20:08 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-05-06 06:20:09 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-05-06 09:08:01 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-06 09:08:06 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-06 09:08:12 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-06 09:52:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-06 10:44:09 --> Query error: Unknown column 'undefined' in 'where clause' - Invalid query: SELECT COUNT(SID) as Count FROM `student` WHERE BatchID=undefined
+ERROR - 2024-05-06 10:44:09 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Student_Model.php 77
+ERROR - 2024-05-06 10:52:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-06 11:30:54 --> Query error: Unknown column 'undefined' in 'where clause' - Invalid query: SELECT COUNT(SID) as Count FROM `student` WHERE BatchID=undefined
+ERROR - 2024-05-06 11:30:54 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Student_Model.php 77
+ERROR - 2024-05-06 11:30:54 --> Query error: Unknown column 'undefined' in 'where clause' - Invalid query: SELECT COUNT(SID) as Count FROM `student` WHERE BatchID=undefined
+ERROR - 2024-05-06 11:30:54 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Student_Model.php 77
+ERROR - 2024-05-06 11:30:54 --> Query error: Unknown column 'undefined' in 'where clause' - Invalid query: SELECT COUNT(SID) as Count FROM `student` WHERE BatchID=undefined
+ERROR - 2024-05-06 11:30:54 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Student_Model.php 77
+ERROR - 2024-05-06 11:32:33 --> Query error: Unknown column 'undefined' in 'where clause' - Invalid query: SELECT COUNT(SID) as Count FROM `student` WHERE BatchID=undefined
+ERROR - 2024-05-06 11:32:33 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Student_Model.php 77
+ERROR - 2024-05-06 12:30:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-06 12:30:58 --> Severity: Notice --> Trying to get property 'Headline' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 9
+ERROR - 2024-05-06 12:30:58 --> Severity: Notice --> Trying to get property 'Date' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 10
+ERROR - 2024-05-06 12:30:58 --> Severity: Notice --> Trying to get property 'Detail' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 12
+ERROR - 2024-05-06 14:03:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-06 14:03:56 --> 404 Page Not Found: Sitemapsxml/index
+ERROR - 2024-05-06 14:52:43 --> Query error: Unknown column 'link' in 'where clause' - Invalid query: SELECT * FROM breakingnews WHERE BrId=link order by BrId DESC limit 10
+ERROR - 2024-05-06 14:52:43 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/News_model.php 52
+ERROR - 2024-05-06 14:59:51 --> 404 Page Not Found: Sitemapsxml/index
+ERROR - 2024-05-06 15:54:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-06 20:04:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-06 20:04:25 --> Severity: Notice --> Trying to get property 'Headline' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 9
+ERROR - 2024-05-06 20:04:25 --> Severity: Notice --> Trying to get property 'Date' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 10
+ERROR - 2024-05-06 20:04:25 --> Severity: Notice --> Trying to get property 'Detail' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 12
+ERROR - 2024-05-06 21:15:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-06 21:15:07 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-05-06 21:15:07 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-05-06 21:15:07 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-05-06 21:15:07 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-05-06 21:15:07 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-05-06 21:15:07 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-05-06 21:21:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-06 21:21:06 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-05-06 21:42:19 --> 404 Page Not Found: Wp_includes/js
+ERROR - 2024-05-06 22:20:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-06 22:20:39 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-05-06 23:01:22 --> Query error: Unknown column 'link' in 'where clause' - Invalid query: SELECT * FROM breakingnews WHERE BrId=link order by BrId DESC limit 10
+ERROR - 2024-05-06 23:01:22 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/News_model.php 52
+ERROR - 2024-05-06 23:11:04 --> 404 Page Not Found: Robotstxt/index

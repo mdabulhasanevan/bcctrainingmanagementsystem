@@ -1,0 +1,310 @@
+ERROR - 2023-11-07 00:04:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-07 00:18:27 --> Query error: Unknown column 'link' in 'where clause' - Invalid query: SELECT * FROM breakingnews WHERE BrId=link order by BrId DESC limit 10
+ERROR - 2023-11-07 00:18:27 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/News_model.php 52
+ERROR - 2023-11-07 00:26:59 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-11-07 00:26:59 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-11-07 00:26:59 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-11-07 00:26:59 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-11-07 00:26:59 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-11-07 00:26:59 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-11-07 00:33:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-07 00:34:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-07 01:10:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-07 01:18:12 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-11-07 01:30:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-07 02:26:35 --> 404 Page Not Found: AdmissionReg/index
+ERROR - 2023-11-07 02:43:31 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-11-07 02:48:45 --> 404 Page Not Found: Webview/dist
+ERROR - 2023-11-07 03:01:46 --> 404 Page Not Found: AdmissionReg/index
+ERROR - 2023-11-07 04:17:43 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-11-07 04:17:43 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-11-07 04:17:43 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-11-07 04:17:43 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-11-07 04:17:43 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-11-07 04:17:43 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-11-07 04:17:46 --> Query error: Unknown column 'link' in 'where clause' - Invalid query: SELECT * FROM breakingnews WHERE BrId=link order by BrId DESC limit 10
+ERROR - 2023-11-07 04:17:46 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/News_model.php 52
+ERROR - 2023-11-07 04:21:36 --> 404 Page Not Found: Home/link
+ERROR - 2023-11-07 04:21:43 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-11-07 04:21:43 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-11-07 04:21:43 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-11-07 04:21:43 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-11-07 04:21:43 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-11-07 04:21:43 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-11-07 04:22:13 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-11-07 04:22:13 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-11-07 04:22:13 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-11-07 04:22:13 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-11-07 04:22:13 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-11-07 04:22:13 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-11-07 04:22:17 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-11-07 04:22:17 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-11-07 04:22:17 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-11-07 04:22:17 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-11-07 04:22:17 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-11-07 04:22:17 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-11-07 04:22:18 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-11-07 04:22:18 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-11-07 04:22:18 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-11-07 04:22:18 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-11-07 04:22:18 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-11-07 04:22:18 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-11-07 04:22:51 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-11-07 04:22:51 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-11-07 04:22:51 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-11-07 04:22:51 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-11-07 04:22:51 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-11-07 04:22:51 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-11-07 04:23:16 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-11-07 04:23:16 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-11-07 04:23:16 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-11-07 04:23:16 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-11-07 04:23:16 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-11-07 04:23:16 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-11-07 04:23:25 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-11-07 04:23:25 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-11-07 04:23:25 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-11-07 04:23:25 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-11-07 04:23:25 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-11-07 04:23:25 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-11-07 04:27:49 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-11-07 04:27:49 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-11-07 04:27:49 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-11-07 04:27:49 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-11-07 04:27:49 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-11-07 04:27:49 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-11-07 07:45:55 --> 404 Page Not Found: Wp_content/plugins
+ERROR - 2023-11-07 07:45:56 --> 404 Page Not Found: Wp_admin/network
+ERROR - 2023-11-07 07:45:57 --> 404 Page Not Found: Cloudphp/index
+ERROR - 2023-11-07 07:45:58 --> 404 Page Not Found: Wp_content/updates.php
+ERROR - 2023-11-07 07:45:58 --> 404 Page Not Found: Css/cloud.php
+ERROR - 2023-11-07 07:45:59 --> 404 Page Not Found: Wp_admin/user
+ERROR - 2023-11-07 07:46:00 --> 404 Page Not Found: Img/cloud.php
+ERROR - 2023-11-07 07:46:00 --> 404 Page Not Found: Wp_admin/css
+ERROR - 2023-11-07 07:46:00 --> 404 Page Not Found: Wp_admin/images
+ERROR - 2023-11-07 07:46:01 --> 404 Page Not Found: Images/cloud.php
+ERROR - 2023-11-07 07:46:01 --> 404 Page Not Found: Wp_admin/js
+ERROR - 2023-11-07 07:46:01 --> 404 Page Not Found: Wp_includes/Requests
+ERROR - 2023-11-07 07:46:02 --> 404 Page Not Found: Wp_admin/css
+ERROR - 2023-11-07 07:46:03 --> 404 Page Not Found: Wp_admin/includes
+ERROR - 2023-11-07 07:46:04 --> 404 Page Not Found: Wp_admin/css
+ERROR - 2023-11-07 07:46:04 --> 404 Page Not Found: Wp_admin/cloud.php
+ERROR - 2023-11-07 07:46:04 --> 404 Page Not Found: Updatesphp/index
+ERROR - 2023-11-07 07:46:05 --> 404 Page Not Found: Libraries/legacy
+ERROR - 2023-11-07 07:46:05 --> 404 Page Not Found: Libraries/phpmailer
+ERROR - 2023-11-07 07:46:06 --> 404 Page Not Found: Libraries/vendor
+ERROR - 2023-11-07 07:46:06 --> 404 Page Not Found: Alfa_rexphp7/index
+ERROR - 2023-11-07 07:46:06 --> 404 Page Not Found: Alfanewphp/index
+ERROR - 2023-11-07 07:46:06 --> 404 Page Not Found: Wp_content/plugins
+ERROR - 2023-11-07 07:46:07 --> 404 Page Not Found: Wp_admin/js
+ERROR - 2023-11-07 07:46:08 --> 404 Page Not Found: Wp_pphp7/index
+ERROR - 2023-11-07 07:46:09 --> 404 Page Not Found: Wp_admin/repeater.php
+ERROR - 2023-11-07 07:46:10 --> 404 Page Not Found: Wp_includes/repeater.php
+ERROR - 2023-11-07 07:46:10 --> 404 Page Not Found: Wp_content/repeater.php
+ERROR - 2023-11-07 07:46:11 --> 404 Page Not Found: Wsoyanzphp/index
+ERROR - 2023-11-07 07:46:11 --> 404 Page Not Found: Yanzphp/index
+ERROR - 2023-11-07 07:46:13 --> 404 Page Not Found: Wp_admin/js
+ERROR - 2023-11-07 07:46:15 --> 404 Page Not Found: Wp_content/plugins
+ERROR - 2023-11-07 07:46:15 --> 404 Page Not Found: Wp_content/plugins
+ERROR - 2023-11-07 07:46:15 --> 404 Page Not Found: Wp_content/plugins
+ERROR - 2023-11-07 07:46:16 --> 404 Page Not Found: Cache_compatphp/index
+ERROR - 2023-11-07 07:46:17 --> 404 Page Not Found: Wp_admin/network
+ERROR - 2023-11-07 07:46:17 --> 404 Page Not Found: Ajax_actionsphp/index
+ERROR - 2023-11-07 07:46:17 --> 404 Page Not Found: Wp_admin/ajax_actions.php
+ERROR - 2023-11-07 07:46:17 --> 404 Page Not Found: Cloudphp/index
+ERROR - 2023-11-07 07:46:18 --> 404 Page Not Found: Wp_consarphp/index
+ERROR - 2023-11-07 07:46:19 --> 404 Page Not Found: Wp_content/updates.php
+ERROR - 2023-11-07 07:46:19 --> 404 Page Not Found: Repeaterphp/index
+ERROR - 2023-11-07 07:46:19 --> 404 Page Not Found: Admin_postphp/index
+ERROR - 2023-11-07 07:46:19 --> 404 Page Not Found: Css/cloud.php
+ERROR - 2023-11-07 07:46:20 --> 404 Page Not Found: Wp_admin/maint
+ERROR - 2023-11-07 07:46:20 --> 404 Page Not Found: Wp_admin/user
+ERROR - 2023-11-07 07:46:20 --> 404 Page Not Found: Wp_admin/dropdown.php
+ERROR - 2023-11-07 07:46:20 --> 404 Page Not Found: Img/cloud.php
+ERROR - 2023-11-07 07:46:21 --> 404 Page Not Found: Wp_admin/css
+ERROR - 2023-11-07 07:46:21 --> 404 Page Not Found: Wp_admin/css
+ERROR - 2023-11-07 07:46:21 --> 404 Page Not Found: Dropdownphp/index
+ERROR - 2023-11-07 07:46:21 --> 404 Page Not Found: Wp_admin/images
+ERROR - 2023-11-07 07:46:22 --> 404 Page Not Found: Aboutphp/index
+ERROR - 2023-11-07 07:46:22 --> 404 Page Not Found: Images/cloud.php
+ERROR - 2023-11-07 07:46:23 --> 404 Page Not Found: Adminphp/index
+ERROR - 2023-11-07 07:46:23 --> 404 Page Not Found: Wp_admin/js
+ERROR - 2023-11-07 07:46:24 --> 404 Page Not Found: Aboutphp7/index
+ERROR - 2023-11-07 07:46:24 --> 404 Page Not Found: Wp_includes/Requests
+ERROR - 2023-11-07 07:46:24 --> 404 Page Not Found: Wp_admin/css
+ERROR - 2023-11-07 07:46:24 --> 404 Page Not Found: Alfanewphp7/index
+ERROR - 2023-11-07 07:46:25 --> 404 Page Not Found: Adminfunsphp7/index
+ERROR - 2023-11-07 07:46:25 --> 404 Page Not Found: Wp_admin/includes
+ERROR - 2023-11-07 07:46:26 --> 404 Page Not Found: Ebsphp7/index
+ERROR - 2023-11-07 07:46:26 --> 404 Page Not Found: Wp_admin/css
+ERROR - 2023-11-07 07:46:26 --> 404 Page Not Found: Wp_admin/cloud.php
+ERROR - 2023-11-07 07:46:26 --> 404 Page Not Found: Wsphp7/index
+ERROR - 2023-11-07 07:46:26 --> 404 Page Not Found: Alfanew2php7/index
+ERROR - 2023-11-07 07:46:27 --> 404 Page Not Found: Updatesphp/index
+ERROR - 2023-11-07 07:46:28 --> 404 Page Not Found: Alfa_rex2php7/index
+ERROR - 2023-11-07 07:46:28 --> 404 Page Not Found: Libraries/legacy
+ERROR - 2023-11-07 07:46:28 --> 404 Page Not Found: Libraries/phpmailer
+ERROR - 2023-11-07 07:46:28 --> 404 Page Not Found: Wp_admin/images
+ERROR - 2023-11-07 07:46:29 --> 404 Page Not Found: Wp_admin/css
+ERROR - 2023-11-07 07:46:29 --> 404 Page Not Found: Libraries/vendor
+ERROR - 2023-11-07 07:46:29 --> 404 Page Not Found: Wp_content/themes
+ERROR - 2023-11-07 07:46:29 --> 404 Page Not Found: Alfa_rexphp7/index
+ERROR - 2023-11-07 07:46:29 --> 404 Page Not Found: Alfanewphp/index
+ERROR - 2023-11-07 07:46:29 --> 404 Page Not Found: Wp_content/themes
+ERROR - 2023-11-07 07:46:30 --> 404 Page Not Found: Wp_content/plugins
+ERROR - 2023-11-07 07:46:30 --> 404 Page Not Found: Wp_content/plugins
+ERROR - 2023-11-07 07:46:30 --> 404 Page Not Found: Wp_content/themes
+ERROR - 2023-11-07 07:46:30 --> 404 Page Not Found: Wp_admin/js
+ERROR - 2023-11-07 07:46:30 --> 404 Page Not Found: Wp_content/plugins
+ERROR - 2023-11-07 07:46:30 --> 404 Page Not Found: Wp_pphp7/index
+ERROR - 2023-11-07 07:46:31 --> 404 Page Not Found: Wp_content/plugins
+ERROR - 2023-11-07 07:46:31 --> 404 Page Not Found: Wp_admin/repeater.php
+ERROR - 2023-11-07 07:46:31 --> 404 Page Not Found: Wp_includes/repeater.php
+ERROR - 2023-11-07 07:46:31 --> 404 Page Not Found: Wp_content/repeater.php
+ERROR - 2023-11-07 07:46:32 --> 404 Page Not Found: Wp_admin/network
+ERROR - 2023-11-07 07:46:32 --> 404 Page Not Found: Wsoyanzphp/index
+ERROR - 2023-11-07 07:46:32 --> 404 Page Not Found: Yanzphp/index
+ERROR - 2023-11-07 07:46:32 --> 404 Page Not Found: Xmrlpcphp/index
+ERROR - 2023-11-07 07:46:33 --> 404 Page Not Found: Wp_admin/js
+ERROR - 2023-11-07 07:46:34 --> 404 Page Not Found: Css/xmrlpc.php
+ERROR - 2023-11-07 07:46:34 --> 404 Page Not Found: Wp_content/plugins
+ERROR - 2023-11-07 07:46:35 --> 404 Page Not Found: Wp_admin/user
+ERROR - 2023-11-07 07:46:35 --> 404 Page Not Found: Wp_content/plugins
+ERROR - 2023-11-07 07:46:36 --> 404 Page Not Found: Img/xmrlpc.php
+ERROR - 2023-11-07 07:46:36 --> 404 Page Not Found: Cache_compatphp/index
+ERROR - 2023-11-07 07:46:36 --> 404 Page Not Found: Ajax_actionsphp/index
+ERROR - 2023-11-07 07:46:36 --> 404 Page Not Found: Wp_admin/css
+ERROR - 2023-11-07 07:46:38 --> 404 Page Not Found: Wp_admin/images
+ERROR - 2023-11-07 07:46:38 --> 404 Page Not Found: Wp_admin/ajax_actions.php
+ERROR - 2023-11-07 07:46:39 --> 404 Page Not Found: Images/xmrlpc.php
+ERROR - 2023-11-07 07:46:39 --> 404 Page Not Found: Wp_consarphp/index
+ERROR - 2023-11-07 07:46:39 --> 404 Page Not Found: Wp_admin/js
+ERROR - 2023-11-07 07:46:39 --> 404 Page Not Found: Repeaterphp/index
+ERROR - 2023-11-07 07:46:40 --> 404 Page Not Found: Wp_admin/css
+ERROR - 2023-11-07 07:46:40 --> 404 Page Not Found: Admin_postphp/index
+ERROR - 2023-11-07 07:46:40 --> 404 Page Not Found: Wp_admin/includes
+ERROR - 2023-11-07 07:46:40 --> 404 Page Not Found: Wp_admin/maint
+ERROR - 2023-11-07 07:46:40 --> 404 Page Not Found: Wp_admin/css
+ERROR - 2023-11-07 07:46:40 --> 404 Page Not Found: Wp_admin/dropdown.php
+ERROR - 2023-11-07 07:46:40 --> 404 Page Not Found: Wp_admin/xmrlpc.php
+ERROR - 2023-11-07 07:46:41 --> 404 Page Not Found: Wp_admin/css
+ERROR - 2023-11-07 07:46:41 --> 404 Page Not Found: Dropdownphp/index
+ERROR - 2023-11-07 07:46:42 --> 404 Page Not Found: Aboutphp/index
+ERROR - 2023-11-07 07:46:42 --> 404 Page Not Found: Adminphp/index
+ERROR - 2023-11-07 07:46:42 --> 404 Page Not Found: Aboutphp7/index
+ERROR - 2023-11-07 07:46:43 --> 404 Page Not Found: Alfanewphp7/index
+ERROR - 2023-11-07 07:46:43 --> 404 Page Not Found: Adminfunsphp7/index
+ERROR - 2023-11-07 07:46:44 --> 404 Page Not Found: Ebsphp7/index
+ERROR - 2023-11-07 07:46:44 --> 404 Page Not Found: Wsphp7/index
+ERROR - 2023-11-07 07:46:45 --> 404 Page Not Found: Alfanew2php7/index
+ERROR - 2023-11-07 07:46:45 --> 404 Page Not Found: Alfa_rex2php7/index
+ERROR - 2023-11-07 07:46:46 --> 404 Page Not Found: Wp_admin/images
+ERROR - 2023-11-07 07:46:46 --> 404 Page Not Found: Wp_admin/css
+ERROR - 2023-11-07 07:46:46 --> 404 Page Not Found: Wp_content/themes
+ERROR - 2023-11-07 07:46:47 --> 404 Page Not Found: Wp_content/themes
+ERROR - 2023-11-07 07:46:47 --> 404 Page Not Found: Wp_content/plugins
+ERROR - 2023-11-07 07:46:48 --> 404 Page Not Found: Wp_content/themes
+ERROR - 2023-11-07 07:46:48 --> 404 Page Not Found: Wp_content/plugins
+ERROR - 2023-11-07 07:46:49 --> 404 Page Not Found: Wp_content/plugins
+ERROR - 2023-11-07 07:46:50 --> 404 Page Not Found: Wp_admin/network
+ERROR - 2023-11-07 07:46:51 --> 404 Page Not Found: Xmrlpcphp/index
+ERROR - 2023-11-07 07:46:52 --> 404 Page Not Found: Css/xmrlpc.php
+ERROR - 2023-11-07 07:46:53 --> 404 Page Not Found: Wp_admin/user
+ERROR - 2023-11-07 07:46:54 --> 404 Page Not Found: Img/xmrlpc.php
+ERROR - 2023-11-07 07:46:54 --> 404 Page Not Found: Wp_admin/css
+ERROR - 2023-11-07 07:46:54 --> 404 Page Not Found: Wp_admin/images
+ERROR - 2023-11-07 07:46:55 --> 404 Page Not Found: Images/xmrlpc.php
+ERROR - 2023-11-07 07:46:56 --> 404 Page Not Found: Wp_admin/js
+ERROR - 2023-11-07 07:46:56 --> 404 Page Not Found: Wp_admin/css
+ERROR - 2023-11-07 07:46:57 --> 404 Page Not Found: Wp_admin/includes
+ERROR - 2023-11-07 07:46:57 --> 404 Page Not Found: Wp_admin/css
+ERROR - 2023-11-07 07:46:57 --> 404 Page Not Found: Wp_admin/xmrlpc.php
+ERROR - 2023-11-07 07:52:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-07 07:52:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-07 07:59:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-07 07:59:36 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-11-07 07:59:36 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-11-07 07:59:36 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-11-07 07:59:36 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-11-07 07:59:36 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-11-07 07:59:36 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-11-07 09:21:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-07 09:46:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-07 09:47:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-07 10:27:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-07 11:36:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-07 12:20:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-07 13:17:48 --> 404 Page Not Found: AdmissionReg/index
+ERROR - 2023-11-07 13:55:47 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-11-07 13:55:47 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-11-07 13:55:47 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-11-07 13:55:47 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-11-07 13:55:47 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-11-07 13:55:47 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-11-07 13:55:50 --> Query error: Unknown column 'link' in 'where clause' - Invalid query: SELECT * FROM breakingnews WHERE BrId=link order by BrId DESC limit 10
+ERROR - 2023-11-07 13:55:50 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/News_model.php 52
+ERROR - 2023-11-07 15:25:47 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-11-07 15:25:47 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-11-07 15:25:47 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-11-07 15:25:47 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-11-07 15:25:47 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-11-07 15:25:47 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-11-07 15:27:15 --> 404 Page Not Found: Home/link
+ERROR - 2023-11-07 15:27:16 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-11-07 15:27:16 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-11-07 15:27:16 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-11-07 15:27:16 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-11-07 15:27:16 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-11-07 15:27:16 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-11-07 15:27:17 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-11-07 15:27:17 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-11-07 15:27:17 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-11-07 15:27:17 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-11-07 15:27:17 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-11-07 15:27:17 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-11-07 15:27:18 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-11-07 15:27:18 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-11-07 15:27:18 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-11-07 15:27:18 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-11-07 15:27:18 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-11-07 15:27:18 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-11-07 15:27:19 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-11-07 15:27:19 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-11-07 15:27:19 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-11-07 15:27:19 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-11-07 15:27:19 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-11-07 15:27:19 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-11-07 15:27:20 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-11-07 15:27:20 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-11-07 15:27:20 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-11-07 15:27:20 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-11-07 15:27:20 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-11-07 15:27:20 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-11-07 15:27:21 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-11-07 15:27:21 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-11-07 15:27:21 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-11-07 15:27:21 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-11-07 15:27:21 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-11-07 15:27:21 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-11-07 15:27:22 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-11-07 15:27:22 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-11-07 15:27:22 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-11-07 15:27:22 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-11-07 15:27:22 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-11-07 15:27:22 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-11-07 15:27:23 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-11-07 15:27:23 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-11-07 15:27:23 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-11-07 15:27:23 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-11-07 15:27:23 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-11-07 15:27:23 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-11-07 21:06:11 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-11-07 23:07:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-07 23:07:22 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-11-07 23:18:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-07 23:54:32 --> Query error: Unknown column 'img' in 'where clause' - Invalid query: SELECT * FROM breakingnews WHERE BrId=img order by BrId DESC limit 10
+ERROR - 2023-11-07 23:54:32 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/News_model.php 52
+ERROR - 2023-11-07 23:54:33 --> Query error: Unknown column 'images' in 'where clause' - Invalid query: SELECT * FROM breakingnews WHERE BrId=images order by BrId DESC limit 10
+ERROR - 2023-11-07 23:54:33 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/News_model.php 52
+ERROR - 2023-11-07 23:54:37 --> Query error: Unknown column 'img' in 'where clause' - Invalid query: SELECT * FROM breakingnews WHERE BrId=img order by BrId DESC limit 10
+ERROR - 2023-11-07 23:54:37 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/News_model.php 52

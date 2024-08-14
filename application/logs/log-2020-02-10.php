@@ -1,0 +1,58 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-02-10 12:48:09 --> 404 Page Not Found: Wordpress/index
+ERROR - 2020-02-10 12:48:12 --> 404 Page Not Found: Wp/index
+ERROR - 2020-02-10 12:48:13 --> 404 Page Not Found: Blog/index
+ERROR - 2020-02-10 12:48:15 --> 404 Page Not Found: New/index
+ERROR - 2020-02-10 12:48:17 --> 404 Page Not Found: Old/index
+ERROR - 2020-02-10 12:48:18 --> 404 Page Not Found: Backup/index
+ERROR - 2020-02-10 12:48:31 --> 404 Page Not Found: Oldsite/index
+ERROR - 2020-02-10 12:48:33 --> 404 Page Not Found: Back/index
+ERROR - 2020-02-10 13:23:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-02-10 16:51:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-02-10 17:17:06 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 6
+ERROR - 2020-02-10 17:17:06 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 6
+ERROR - 2020-02-10 17:17:06 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 20
+ERROR - 2020-02-10 17:17:06 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 20
+ERROR - 2020-02-10 17:17:06 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 34
+ERROR - 2020-02-10 17:17:06 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 34
+ERROR - 2020-02-10 17:17:06 --> 404 Page Not Found: Home/images
+ERROR - 2020-02-10 17:17:06 --> 404 Page Not Found: Home/img
+ERROR - 2020-02-10 17:17:06 --> 404 Page Not Found: Home/img
+ERROR - 2020-02-10 17:17:13 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 6
+ERROR - 2020-02-10 17:17:13 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 6
+ERROR - 2020-02-10 17:17:13 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 20
+ERROR - 2020-02-10 17:17:13 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 20
+ERROR - 2020-02-10 17:17:13 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 34
+ERROR - 2020-02-10 17:17:13 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 34
+ERROR - 2020-02-10 17:17:20 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 6
+ERROR - 2020-02-10 17:17:20 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 6
+ERROR - 2020-02-10 17:17:20 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 20
+ERROR - 2020-02-10 17:17:20 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 20
+ERROR - 2020-02-10 17:17:20 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 34
+ERROR - 2020-02-10 17:17:20 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 34
+ERROR - 2020-02-10 17:17:29 --> Query error: Unknown column 'images' in 'where clause' - Invalid query: SELECT csc.CSCID, csc.Category, csc.Detail, csc.Others, cc.category as CategoryName FROM content_sub_category csc left join content_category cc on cc.CID=csc.CID where csc.CSCID=images
+ERROR - 2020-02-10 17:17:29 --> Severity: error --> Exception: Call to a member function row() on boolean /home/expresstechbd/public_html/bcc/application/models/PhotoSlideGallery_Model.php 112
+ERROR - 2020-02-10 17:17:29 --> Query error: Unknown column 'img' in 'where clause' - Invalid query: SELECT csc.CSCID, csc.Category, csc.Detail, csc.Others, cc.category as CategoryName FROM content_sub_category csc left join content_category cc on cc.CID=csc.CID where csc.CSCID=img
+ERROR - 2020-02-10 17:17:29 --> Severity: error --> Exception: Call to a member function row() on boolean /home/expresstechbd/public_html/bcc/application/models/PhotoSlideGallery_Model.php 112
+ERROR - 2020-02-10 17:17:29 --> Query error: Unknown column 'img' in 'where clause' - Invalid query: SELECT csc.CSCID, csc.Category, csc.Detail, csc.Others, cc.category as CategoryName FROM content_sub_category csc left join content_category cc on cc.CID=csc.CID where csc.CSCID=img
+ERROR - 2020-02-10 17:17:29 --> Severity: error --> Exception: Call to a member function row() on boolean /home/expresstechbd/public_html/bcc/application/models/PhotoSlideGallery_Model.php 112
+ERROR - 2020-02-10 17:17:50 --> Query error: Unknown column 'images' in 'where clause' - Invalid query: SELECT csc.CSCID, csc.Category, csc.Detail, csc.Others, cc.category as CategoryName FROM content_sub_category csc left join content_category cc on cc.CID=csc.CID where csc.CSCID=images
+ERROR - 2020-02-10 17:17:50 --> Severity: error --> Exception: Call to a member function row() on boolean /home/expresstechbd/public_html/bcc/application/models/PhotoSlideGallery_Model.php 112
+ERROR - 2020-02-10 17:17:50 --> Query error: Unknown column 'img' in 'where clause' - Invalid query: SELECT csc.CSCID, csc.Category, csc.Detail, csc.Others, cc.category as CategoryName FROM content_sub_category csc left join content_category cc on cc.CID=csc.CID where csc.CSCID=img
+ERROR - 2020-02-10 17:17:50 --> Severity: error --> Exception: Call to a member function row() on boolean /home/expresstechbd/public_html/bcc/application/models/PhotoSlideGallery_Model.php 112
+ERROR - 2020-02-10 17:17:50 --> Query error: Unknown column 'img' in 'where clause' - Invalid query: SELECT csc.CSCID, csc.Category, csc.Detail, csc.Others, cc.category as CategoryName FROM content_sub_category csc left join content_category cc on cc.CID=csc.CID where csc.CSCID=img
+ERROR - 2020-02-10 17:17:50 --> Severity: error --> Exception: Call to a member function row() on boolean /home/expresstechbd/public_html/bcc/application/models/PhotoSlideGallery_Model.php 112
+ERROR - 2020-02-10 18:44:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-02-10 19:04:44 --> Query error: Unknown column 'undefined' in 'where clause' - Invalid query: SELECT *  , (se.MCQMarks*er.Correct/er.TotalQuestion) as MCQMarksGet, ((se.MCQMarks*er.Correct/er.TotalQuestion)+er.Theory+er.Practical)as totalAmount FROM examresult as er LEFT JOIN setexam se on se.ExamCollectionID=er.ExamCollectionID and se.BatchID=er.BatchID LEFT JOIN student st on st.SID=er.UserID LEFT JOIN batch b on b.Id=se.BatchID left JOIN examcollection exc on exc.Id=er.ExamCollectionID left join ExamName exn on exn.ExNId=se.ExamNameID WHERE er.BatchID=58  and exc.ExamNameID=undefined  ORDER BY st.RegNO asc
+ERROR - 2020-02-10 19:04:44 --> Severity: error --> Exception: Call to a member function result() on boolean /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 207
+ERROR - 2020-02-10 19:05:44 --> Query error: Unknown column 'undefined' in 'where clause' - Invalid query: SELECT *  , (se.MCQMarks*er.Correct/er.TotalQuestion) as MCQMarksGet, ((se.MCQMarks*er.Correct/er.TotalQuestion)+er.Theory+er.Practical)as totalAmount FROM examresult as er LEFT JOIN setexam se on se.ExamCollectionID=er.ExamCollectionID and se.BatchID=er.BatchID LEFT JOIN student st on st.SID=er.UserID LEFT JOIN batch b on b.Id=se.BatchID left JOIN examcollection exc on exc.Id=er.ExamCollectionID left join ExamName exn on exn.ExNId=se.ExamNameID WHERE er.BatchID=58  and exc.ExamNameID=undefined  ORDER BY st.RegNO asc
+ERROR - 2020-02-10 19:05:44 --> Severity: error --> Exception: Call to a member function result() on boolean /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 207
+ERROR - 2020-02-10 19:06:02 --> Query error: Unknown column 'undefined' in 'where clause' - Invalid query: SELECT *  , (se.MCQMarks*er.Correct/er.TotalQuestion) as MCQMarksGet, ((se.MCQMarks*er.Correct/er.TotalQuestion)+er.Theory+er.Practical)as totalAmount FROM examresult as er LEFT JOIN setexam se on se.ExamCollectionID=er.ExamCollectionID and se.BatchID=er.BatchID LEFT JOIN student st on st.SID=er.UserID LEFT JOIN batch b on b.Id=se.BatchID left JOIN examcollection exc on exc.Id=er.ExamCollectionID left join ExamName exn on exn.ExNId=se.ExamNameID WHERE er.BatchID=58  and exc.ExamNameID=undefined  ORDER BY st.RegNO asc
+ERROR - 2020-02-10 19:06:02 --> Severity: error --> Exception: Call to a member function result() on boolean /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 207
+ERROR - 2020-02-10 19:08:21 --> Query error: Unknown column 'undefined' in 'where clause' - Invalid query: SELECT *  , (se.MCQMarks*er.Correct/er.TotalQuestion) as MCQMarksGet, ((se.MCQMarks*er.Correct/er.TotalQuestion)+er.Theory+er.Practical)as totalAmount FROM examresult as er LEFT JOIN setexam se on se.ExamCollectionID=er.ExamCollectionID and se.BatchID=er.BatchID LEFT JOIN student st on st.SID=er.UserID LEFT JOIN batch b on b.Id=se.BatchID left JOIN examcollection exc on exc.Id=er.ExamCollectionID left join ExamName exn on exn.ExNId=se.ExamNameID WHERE er.BatchID=58  and exc.ExamNameID=undefined  ORDER BY st.RegNO asc
+ERROR - 2020-02-10 19:08:21 --> Severity: error --> Exception: Call to a member function result() on boolean /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 207
+ERROR - 2020-02-10 19:14:44 --> Query error: Unknown column 'undefined' in 'where clause' - Invalid query: SELECT *  , (se.MCQMarks*er.Correct/er.TotalQuestion) as MCQMarksGet, ((se.MCQMarks*er.Correct/er.TotalQuestion)+er.Theory+er.Practical)as totalAmount FROM examresult as er LEFT JOIN setexam se on se.ExamCollectionID=er.ExamCollectionID and se.BatchID=er.BatchID LEFT JOIN student st on st.SID=er.UserID LEFT JOIN batch b on b.Id=se.BatchID left JOIN examcollection exc on exc.Id=er.ExamCollectionID left join ExamName exn on exn.ExNId=se.ExamNameID WHERE er.BatchID=58  and exc.ExamNameID=undefined  ORDER BY st.RegNO asc
+ERROR - 2020-02-10 19:14:44 --> Severity: error --> Exception: Call to a member function result() on boolean /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 207
+ERROR - 2020-02-10 19:30:59 --> Query error: Unknown column 'undefined' in 'where clause' - Invalid query: SELECT *  , (se.MCQMarks*er.Correct/er.TotalQuestion) as MCQMarksGet, ((se.MCQMarks*er.Correct/er.TotalQuestion)+er.Theory+er.Practical)as totalAmount FROM examresult as er LEFT JOIN setexam se on se.ExamCollectionID=er.ExamCollectionID and se.BatchID=er.BatchID LEFT JOIN student st on st.SID=er.UserID LEFT JOIN batch b on b.Id=se.BatchID left JOIN examcollection exc on exc.Id=er.ExamCollectionID left join ExamName exn on exn.ExNId=se.ExamNameID WHERE er.BatchID=58  and exc.ExamNameID=undefined  ORDER BY st.RegNO asc
+ERROR - 2020-02-10 19:30:59 --> Severity: error --> Exception: Call to a member function result() on boolean /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 207

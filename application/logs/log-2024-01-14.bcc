@@ -1,0 +1,75 @@
+ERROR - 2024-01-14 01:15:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-14 01:24:50 --> 404 Page Not Found: Wp_content/plugins
+ERROR - 2024-01-14 01:24:50 --> 404 Page Not Found: Wp_content/themes
+ERROR - 2024-01-14 01:24:51 --> 404 Page Not Found: Wp_admin/network
+ERROR - 2024-01-14 01:24:51 --> 404 Page Not Found: Cloudphp/index
+ERROR - 2024-01-14 01:24:51 --> 404 Page Not Found: Cgi_bin/cloud.php
+ERROR - 2024-01-14 01:24:51 --> 404 Page Not Found: Wp_content/updates.php
+ERROR - 2024-01-14 01:24:51 --> 404 Page Not Found: Css/cloud.php
+ERROR - 2024-01-14 01:24:52 --> 404 Page Not Found: Wp_admin/user
+ERROR - 2024-01-14 01:24:52 --> 404 Page Not Found: Img/cloud.php
+ERROR - 2024-01-14 01:24:52 --> 404 Page Not Found: Wp_admin/css
+ERROR - 2024-01-14 01:24:52 --> 404 Page Not Found: Wp_admin/images
+ERROR - 2024-01-14 01:24:52 --> 404 Page Not Found: Images/cloud.php
+ERROR - 2024-01-14 01:24:52 --> 404 Page Not Found: Wp_admin/js
+ERROR - 2024-01-14 01:24:53 --> 404 Page Not Found: Wp_includes/Requests
+ERROR - 2024-01-14 01:24:53 --> 404 Page Not Found: Wp_admin/css
+ERROR - 2024-01-14 01:24:53 --> 404 Page Not Found: Wp_admin/includes
+ERROR - 2024-01-14 01:24:53 --> 404 Page Not Found: Wp_admin/css
+ERROR - 2024-01-14 01:24:53 --> 404 Page Not Found: Wp_admin/cloud.php
+ERROR - 2024-01-14 01:24:53 --> 404 Page Not Found: Updatesphp/index
+ERROR - 2024-01-14 01:24:53 --> 404 Page Not Found: Libraries/legacy
+ERROR - 2024-01-14 01:24:54 --> 404 Page Not Found: Libraries/phpmailer
+ERROR - 2024-01-14 01:24:54 --> 404 Page Not Found: Libraries/vendor
+ERROR - 2024-01-14 01:24:54 --> 404 Page Not Found: Alfa_rexphp7/index
+ERROR - 2024-01-14 01:24:54 --> 404 Page Not Found: Alfanewphp/index
+ERROR - 2024-01-14 01:24:54 --> 404 Page Not Found: Wp_content/plugins
+ERROR - 2024-01-14 01:24:54 --> 404 Page Not Found: Wp_admin/js
+ERROR - 2024-01-14 01:24:55 --> 404 Page Not Found: Wp_pphp7/index
+ERROR - 2024-01-14 01:24:55 --> 404 Page Not Found: Wp_admin/repeater.php
+ERROR - 2024-01-14 01:24:55 --> 404 Page Not Found: Wp_includes/repeater.php
+ERROR - 2024-01-14 01:24:55 --> 404 Page Not Found: Wp_content/repeater.php
+ERROR - 2024-01-14 01:24:55 --> 404 Page Not Found: Wsoyanzphp/index
+ERROR - 2024-01-14 01:24:55 --> 404 Page Not Found: Yanzphp/index
+ERROR - 2024-01-14 01:24:56 --> 404 Page Not Found: Wp_admin/js
+ERROR - 2024-01-14 01:24:56 --> 404 Page Not Found: Wp_content/plugins
+ERROR - 2024-01-14 01:24:56 --> 404 Page Not Found: Wp_content/plugins
+ERROR - 2024-01-14 01:24:56 --> 404 Page Not Found: Cache_compatphp/index
+ERROR - 2024-01-14 01:24:57 --> 404 Page Not Found: Ajax_actionsphp/index
+ERROR - 2024-01-14 01:24:57 --> 404 Page Not Found: Wp_admin/ajax_actions.php
+ERROR - 2024-01-14 01:24:57 --> 404 Page Not Found: Wp_consarphp/index
+ERROR - 2024-01-14 01:24:57 --> 404 Page Not Found: Repeaterphp/index
+ERROR - 2024-01-14 01:24:57 --> 404 Page Not Found: Admin_postphp/index
+ERROR - 2024-01-14 01:24:57 --> 404 Page Not Found: Wp_admin/maint
+ERROR - 2024-01-14 01:24:57 --> 404 Page Not Found: Wp_admin/dropdown.php
+ERROR - 2024-01-14 01:24:58 --> 404 Page Not Found: Wp_admin/css
+ERROR - 2024-01-14 01:24:58 --> 404 Page Not Found: Dropdownphp/index
+ERROR - 2024-01-14 01:24:58 --> 404 Page Not Found: Aboutphp/index
+ERROR - 2024-01-14 01:24:58 --> 404 Page Not Found: Adminphp/index
+ERROR - 2024-01-14 01:24:58 --> 404 Page Not Found: Aboutphp7/index
+ERROR - 2024-01-14 02:36:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-14 04:51:09 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-01-14 07:21:08 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-01-14 08:07:40 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-01-14 08:07:40 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-01-14 08:07:40 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-01-14 08:07:40 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-01-14 08:07:40 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-01-14 08:07:40 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-01-14 08:07:57 --> 404 Page Not Found: Home/images
+ERROR - 2024-01-14 08:11:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-14 08:18:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-14 08:43:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-14 09:02:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-14 09:02:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-14 10:34:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-14 13:21:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-14 13:21:10 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-01-14 13:21:10 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-01-14 15:58:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-14 17:07:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-14 17:07:47 --> 404 Page Not Found: Webview/dist
+ERROR - 2024-01-14 17:38:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-14 17:42:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-14 21:03:52 --> 404 Page Not Found: Wp_loginphp/index
+ERROR - 2024-01-14 22:40:41 --> 404 Page Not Found: Robotstxt/index

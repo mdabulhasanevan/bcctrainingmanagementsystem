@@ -1,0 +1,24 @@
+ERROR - 2023-08-10 00:29:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-10 00:29:09 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-08-10 00:55:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-10 00:55:50 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-08-10 01:17:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-10 05:54:43 --> 404 Page Not Found: Wp_includes/css
+ERROR - 2023-08-10 10:51:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-10 14:20:23 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-08-10 14:20:29 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-08-10 14:57:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-10 14:57:31 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2023-08-10 17:08:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-10 17:19:15 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-08-10 17:19:15 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-08-10 17:19:15 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-08-10 17:19:15 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-08-10 17:19:15 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-08-10 17:19:15 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-08-10 21:56:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-10 21:57:02 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-08-10 22:24:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-10 22:25:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-10 22:26:00 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-08-10 22:58:30 --> 404 Page Not Found: Robotstxt/index

@@ -1,0 +1,38 @@
+ERROR - 2024-03-30 02:32:54 --> Severity: Notice --> Trying to get property 'Headline' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 9
+ERROR - 2024-03-30 02:32:54 --> Severity: Notice --> Trying to get property 'Date' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 10
+ERROR - 2024-03-30 02:32:54 --> Severity: Notice --> Trying to get property 'Detail' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 12
+ERROR - 2024-03-30 05:53:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-30 05:53:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-30 09:33:20 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-03-30 09:33:20 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-03-30 09:33:20 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-03-30 09:33:20 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-03-30 09:33:20 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-03-30 09:33:20 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-03-30 09:33:44 --> 404 Page Not Found: Home/images
+ERROR - 2024-03-30 09:47:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-30 10:57:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-30 10:57:52 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-03-30 11:27:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-30 11:27:48 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-03-30 12:10:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-30 12:14:21 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-03-30 12:14:21 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-03-30 12:14:21 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-03-30 12:14:21 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-03-30 12:14:21 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-03-30 12:14:21 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-03-30 12:14:22 --> 404 Page Not Found: Home/images
+ERROR - 2024-03-30 12:18:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-30 13:24:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-30 13:24:22 --> 404 Page Not Found: Webview/dist
+ERROR - 2024-03-30 19:21:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-30 19:21:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-30 22:33:27 --> Severity: Notice --> Trying to get property 'Headline' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/WebView/NoticeOpen.php 25
+ERROR - 2024-03-30 22:33:27 --> Severity: Notice --> Trying to get property 'Date' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/WebView/NoticeOpen.php 26
+ERROR - 2024-03-30 22:33:27 --> Severity: Notice --> Trying to get property 'Detail' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/WebView/NoticeOpen.php 28
+ERROR - 2024-03-30 22:44:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-30 22:58:01 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-03-30 23:28:08 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-03-30 23:47:13 --> Severity: Notice --> Undefined property: stdClass::$Email /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/controllers/Webview.php 193
+ERROR - 2024-03-30 23:50:24 --> Severity: Notice --> Undefined property: stdClass::$Email /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/controllers/Webview.php 193

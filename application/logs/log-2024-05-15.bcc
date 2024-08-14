@@ -1,0 +1,77 @@
+ERROR - 2024-05-15 03:25:22 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-05-15 03:25:23 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-05-15 05:51:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-15 09:00:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-15 09:00:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-15 14:09:09 --> 404 Page Not Found: Sitemapxmlgz/index
+ERROR - 2024-05-15 14:20:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-15 14:20:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-15 14:24:50 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-15 14:25:26 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-15 14:26:01 --> Query error: Unknown column 'undefined' in 'where clause' - Invalid query: SELECT *,  if(er.Attendance=0,'Absent','Present') as Attendance, (se.MCQMarks*er.Correct/er.TotalQuestion) as MCQMarksGet, ((se.MCQMarks*er.Correct/er.TotalQuestion)+er.Theory+er.Practical)as totalAmount FROM examresult as er LEFT JOIN setexam se on se.ExamCollectionID=er.ExamCollectionID and se.BatchID=er.BatchID LEFT JOIN student st on st.SID=er.UserID LEFT JOIN batch b on b.Id=se.BatchID left JOIN examcollection exc on exc.Id=er.ExamCollectionID left join ExamName exn on exn.ExNId=se.ExamNameID WHERE er.BatchID=100  and exc.ExamNameID=undefined  ORDER BY st.RegNO asc
+ERROR - 2024-05-15 14:26:01 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 331
+ERROR - 2024-05-15 14:26:14 --> Query error: Unknown column 'undefined' in 'where clause' - Invalid query: SELECT *,  if(er.Attendance=0,'Absent','Present') as Attendance, (se.MCQMarks*er.Correct/er.TotalQuestion) as MCQMarksGet, ((se.MCQMarks*er.Correct/er.TotalQuestion)+er.Theory+er.Practical)as totalAmount FROM examresult as er LEFT JOIN setexam se on se.ExamCollectionID=er.ExamCollectionID and se.BatchID=er.BatchID LEFT JOIN student st on st.SID=er.UserID LEFT JOIN batch b on b.Id=se.BatchID left JOIN examcollection exc on exc.Id=er.ExamCollectionID left join ExamName exn on exn.ExNId=se.ExamNameID WHERE er.BatchID=100  and exc.ExamNameID=undefined  ORDER BY st.RegNO asc
+ERROR - 2024-05-15 14:26:14 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 331
+ERROR - 2024-05-15 14:27:31 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-15 14:33:04 --> 404 Page Not Found: Sitemapxmlgz/index
+ERROR - 2024-05-15 14:51:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-15 16:29:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-15 16:33:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-15 16:37:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-15 16:42:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-15 17:46:38 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-15 17:56:08 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-15 18:25:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-15 18:25:42 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-05-15 18:35:01 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-15 18:35:01 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-15 18:35:01 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-15 18:35:02 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-15 18:35:25 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-15 18:35:49 --> Severity: error --> Exception: Too few arguments to function Service::DeleteNews(), 1 passed in /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/CodeIgniter.php on line 532 and exactly 2 expected /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/controllers/Service.php 95
+ERROR - 2024-05-15 18:35:58 --> Severity: error --> Exception: Too few arguments to function Service::DeleteNews(), 1 passed in /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/CodeIgniter.php on line 532 and exactly 2 expected /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/controllers/Service.php 95
+ERROR - 2024-05-15 18:36:00 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-15 18:36:03 --> Severity: error --> Exception: Too few arguments to function Service::DeleteNews(), 1 passed in /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/CodeIgniter.php on line 532 and exactly 2 expected /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/controllers/Service.php 95
+ERROR - 2024-05-15 18:36:25 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-15 18:36:53 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-15 18:37:34 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-15 18:37:45 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-15 18:39:26 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-15 18:40:25 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-15 18:44:31 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-15 18:45:03 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-15 18:45:03 --> Severity: error --> Exception: Class 'SoapClient' not found /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/controllers/SMS.php 152
+ERROR - 2024-05-15 18:46:46 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-15 18:52:27 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-15 18:53:10 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-15 18:53:54 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-15 18:53:54 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-15 18:53:54 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-15 18:53:54 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-15 18:54:11 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-15 18:54:15 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-15 18:56:23 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-15 18:56:39 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-15 19:01:28 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-15 19:02:57 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-15 19:03:26 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-15 19:06:01 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-15 19:08:47 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-15 19:14:55 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-15 19:28:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-15 19:28:44 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-05-15 21:25:55 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-15 21:40:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-15 22:12:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-15 22:12:44 --> Query error: Unknown column 'img' in 'where clause' - Invalid query: SELECT * FROM breakingnews WHERE BrId=img order by BrId DESC limit 10
+ERROR - 2024-05-15 22:12:44 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/News_model.php 52
+ERROR - 2024-05-15 22:12:44 --> Query error: Unknown column 'images' in 'where clause' - Invalid query: SELECT * FROM breakingnews WHERE BrId=images order by BrId DESC limit 10
+ERROR - 2024-05-15 22:12:44 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/News_model.php 52
+ERROR - 2024-05-15 22:12:45 --> Query error: Unknown column 'img' in 'where clause' - Invalid query: SELECT * FROM breakingnews WHERE BrId=img order by BrId DESC limit 10
+ERROR - 2024-05-15 22:12:45 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/News_model.php 52
+ERROR - 2024-05-15 22:12:46 --> Query error: Unknown column 'images' in 'where clause' - Invalid query: SELECT * FROM breakingnews WHERE BrId=images order by BrId DESC limit 10
+ERROR - 2024-05-15 22:12:46 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/News_model.php 52
+ERROR - 2024-05-15 22:12:47 --> Query error: Unknown column 'img' in 'where clause' - Invalid query: SELECT * FROM breakingnews WHERE BrId=img order by BrId DESC limit 10
+ERROR - 2024-05-15 22:12:47 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/News_model.php 52
+ERROR - 2024-05-15 22:12:51 --> Query error: Unknown column 'img' in 'where clause' - Invalid query: SELECT * FROM breakingnews WHERE BrId=img order by BrId DESC limit 10
+ERROR - 2024-05-15 22:12:51 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/News_model.php 52

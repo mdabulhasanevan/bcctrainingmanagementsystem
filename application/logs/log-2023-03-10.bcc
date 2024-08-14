@@ -1,0 +1,556 @@
+ERROR - 2023-03-10 00:00:11 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 00:00:11 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 00:10:49 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 00:10:49 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 00:11:55 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 00:11:55 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 00:13:38 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 00:13:38 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 00:15:29 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 00:15:30 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 00:17:45 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 00:17:45 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 00:19:05 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 00:19:14 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 00:19:47 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 00:19:48 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 00:20:18 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 00:20:18 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 00:35:57 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 00:44:28 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 00:44:29 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 00:44:41 --> Severity: Notice --> Trying to get property 'SetName' of non-object /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 437
+ERROR - 2023-03-10 00:44:41 --> Severity: Notice --> Trying to get property 'QuestionInfo' of non-object /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 438
+ERROR - 2023-03-10 00:44:41 --> Invalid query: 
+ERROR - 2023-03-10 00:44:41 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 440
+ERROR - 2023-03-10 00:44:41 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/bcc/system/core/Common.php 570
+ERROR - 2023-03-10 00:50:19 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 00:50:20 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 00:53:09 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 00:53:09 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 00:53:17 --> Severity: Notice --> Trying to get property 'SetName' of non-object /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 437
+ERROR - 2023-03-10 00:53:17 --> Severity: Notice --> Trying to get property 'QuestionInfo' of non-object /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 438
+ERROR - 2023-03-10 00:53:17 --> Invalid query: 
+ERROR - 2023-03-10 00:53:17 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 440
+ERROR - 2023-03-10 00:53:17 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/bcc/system/core/Common.php 570
+ERROR - 2023-03-10 00:54:19 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 00:54:19 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 00:54:32 --> Severity: Notice --> Trying to get property 'SetName' of non-object /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 437
+ERROR - 2023-03-10 00:54:32 --> Severity: Notice --> Trying to get property 'QuestionInfo' of non-object /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 438
+ERROR - 2023-03-10 00:54:32 --> Invalid query: 
+ERROR - 2023-03-10 00:54:32 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 440
+ERROR - 2023-03-10 00:54:32 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/bcc/system/core/Common.php 570
+ERROR - 2023-03-10 00:55:15 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 00:55:16 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 00:57:41 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 00:57:44 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 00:59:17 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 00:59:18 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 01:01:15 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 01:01:18 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 01:04:07 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 01:04:08 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 01:04:51 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 01:04:51 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 01:06:10 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 01:06:10 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 01:06:17 --> Severity: Notice --> Undefined property: stdClass::$SetName /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 437
+ERROR - 2023-03-10 01:06:17 --> Invalid query: 
+ERROR - 2023-03-10 01:06:17 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 440
+ERROR - 2023-03-10 01:06:17 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/bcc/system/core/Common.php 570
+ERROR - 2023-03-10 01:06:28 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 01:07:12 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 01:07:12 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 01:07:19 --> Invalid query: 
+ERROR - 2023-03-10 01:07:19 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 440
+ERROR - 2023-03-10 01:07:26 --> Severity: Notice --> Trying to get property 'ExamCollectionID' of non-object /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 437
+ERROR - 2023-03-10 01:07:26 --> Severity: Notice --> Trying to get property 'QuestionInfo' of non-object /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 438
+ERROR - 2023-03-10 01:07:26 --> Invalid query: 
+ERROR - 2023-03-10 01:07:26 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 440
+ERROR - 2023-03-10 01:07:26 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/bcc/system/core/Common.php 570
+ERROR - 2023-03-10 01:09:40 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 01:09:40 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 01:09:49 --> Invalid query: 
+ERROR - 2023-03-10 01:09:49 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 440
+ERROR - 2023-03-10 01:09:55 --> Severity: Notice --> Trying to get property 'ExamCollectionID' of non-object /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 437
+ERROR - 2023-03-10 01:09:55 --> Severity: Notice --> Trying to get property 'QuestionInfo' of non-object /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 438
+ERROR - 2023-03-10 01:09:55 --> Invalid query: 
+ERROR - 2023-03-10 01:09:55 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 440
+ERROR - 2023-03-10 01:09:55 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/bcc/system/core/Common.php 570
+ERROR - 2023-03-10 01:10:20 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 01:10:20 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 01:12:37 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 01:12:37 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 01:13:32 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 01:13:32 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 01:14:50 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 01:14:50 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 01:16:49 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 01:16:49 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 01:16:55 --> Severity: error --> Exception: Cannot use object of type stdClass as array /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 440
+ERROR - 2023-03-10 01:17:02 --> Severity: Notice --> Trying to get property 'QuestionInfo' of non-object /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 438
+ERROR - 2023-03-10 01:17:02 --> Invalid query: 
+ERROR - 2023-03-10 01:17:02 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 442
+ERROR - 2023-03-10 01:17:02 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/bcc/system/core/Common.php 570
+ERROR - 2023-03-10 01:17:51 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 01:17:51 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 01:17:57 --> Severity: error --> Exception: Cannot use object of type stdClass as array /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 438
+ERROR - 2023-03-10 01:18:00 --> Invalid query: 
+ERROR - 2023-03-10 01:18:00 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 442
+ERROR - 2023-03-10 01:18:31 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 01:18:31 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 01:18:38 --> Severity: error --> Exception: Cannot use object of type stdClass as array /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 438
+ERROR - 2023-03-10 01:19:18 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 01:19:18 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 01:19:26 --> Severity: error --> Exception: Cannot use object of type stdClass as array /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 438
+ERROR - 2023-03-10 01:20:12 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 01:20:12 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 01:21:22 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 01:21:22 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 01:25:48 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 01:25:48 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 01:25:53 --> Severity: error --> Exception: Cannot use object of type stdClass as array /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 437
+ERROR - 2023-03-10 01:26:27 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 01:26:27 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 01:26:33 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 01:26:34 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 01:26:39 --> Severity: error --> Exception: Cannot use object of type stdClass as array /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 437
+ERROR - 2023-03-10 01:28:43 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 01:28:43 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 03:15:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-10 03:16:47 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-03-10 04:45:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-10 04:45:09 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-03-10 04:45:11 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-03-10 05:15:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-10 05:15:06 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-03-10 06:41:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-10 11:25:57 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 11:26:01 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 11:28:01 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 11:30:07 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 12:10:43 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 12:10:44 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 12:11:03 --> Severity: Notice --> Trying to get property 'QuestionSubject' of non-object /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 448
+ERROR - 2023-03-10 12:11:03 --> Severity: Notice --> Trying to get property 'QuestionSubject' of non-object /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 448
+ERROR - 2023-03-10 12:11:03 --> Severity: Notice --> Trying to get property 'QuestionSubject' of non-object /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 448
+ERROR - 2023-03-10 12:11:03 --> Severity: Notice --> Trying to get property 'QuestionSubject' of non-object /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 448
+ERROR - 2023-03-10 12:11:03 --> Severity: Notice --> Trying to get property 'QuestionSubject' of non-object /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 448
+ERROR - 2023-03-10 12:11:03 --> Severity: Notice --> Trying to get property 'QuestionSubject' of non-object /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 448
+ERROR - 2023-03-10 12:12:44 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 12:12:44 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 12:15:11 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 12:15:11 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 12:17:08 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 12:17:08 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 12:18:50 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 12:18:50 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 12:20:19 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 12:20:19 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 12:42:41 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 12:42:44 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 12:43:04 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from Temp order by QuestionType' at line 1 - Invalid query: Select 32 as SetName, * from Temp order by QuestionType
+ERROR - 2023-03-10 12:43:04 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 459
+ERROR - 2023-03-10 12:43:16 --> Severity: Notice --> Trying to get property 'QuestionInfo' of non-object /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 437
+ERROR - 2023-03-10 12:43:16 --> Severity: Notice --> Trying to get property 'ExamCollectionID' of non-object /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 439
+ERROR - 2023-03-10 12:43:16 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 448
+ERROR - 2023-03-10 12:43:16 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'as SetName, * from Temp order by QuestionType' at line 1 - Invalid query: Select  as SetName, * from Temp order by QuestionType
+ERROR - 2023-03-10 12:43:16 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 459
+ERROR - 2023-03-10 12:43:16 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/bcc/system/core/Common.php 570
+ERROR - 2023-03-10 12:44:57 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 12:44:57 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 12:46:41 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 12:46:42 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 12:46:53 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from Temp order by QuestionType' at line 1 - Invalid query: Select '32' as SetName * from Temp order by QuestionType
+ERROR - 2023-03-10 12:46:53 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 459
+ERROR - 2023-03-10 12:47:26 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 12:47:30 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 12:47:37 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from Temp order by QuestionType' at line 1 - Invalid query: Select '32' as SetName, * from Temp order by QuestionType
+ERROR - 2023-03-10 12:47:37 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 459
+ERROR - 2023-03-10 12:48:02 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 12:48:02 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 12:48:31 --> Severity: Notice --> Trying to get property 'ExamCollectionID' of non-object /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 459
+ERROR - 2023-03-10 12:48:31 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from Temp order by QuestionType' at line 1 - Invalid query: Select '' as SetName, * from Temp order by QuestionType
+ERROR - 2023-03-10 12:48:31 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 459
+ERROR - 2023-03-10 12:48:31 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/bcc/system/core/Common.php 570
+ERROR - 2023-03-10 12:49:18 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 12:49:19 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 12:49:28 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from Temp order by QuestionType' at line 1 - Invalid query: Select '4' as SetName * from Temp order by QuestionType
+ERROR - 2023-03-10 12:49:28 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 459
+ERROR - 2023-03-10 12:49:38 --> Severity: Notice --> Trying to get property 'QuestionInfo' of non-object /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 437
+ERROR - 2023-03-10 12:49:38 --> Severity: Notice --> Trying to get property 'ExamCollectionID' of non-object /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 439
+ERROR - 2023-03-10 12:49:38 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 448
+ERROR - 2023-03-10 12:49:38 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from Temp order by QuestionType' at line 1 - Invalid query: Select '4' as SetName * from Temp order by QuestionType
+ERROR - 2023-03-10 12:49:38 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 459
+ERROR - 2023-03-10 12:49:38 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/bcc/system/core/Common.php 570
+ERROR - 2023-03-10 12:50:55 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 12:50:56 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 12:52:03 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 12:52:03 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 12:52:12 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Set Temp.* from Temp order by QuestionType' at line 1 - Invalid query: Select 8 as Set Temp.* from Temp order by QuestionType
+ERROR - 2023-03-10 12:52:12 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 459
+ERROR - 2023-03-10 12:52:16 --> Severity: Notice --> Trying to get property 'QuestionInfo' of non-object /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 437
+ERROR - 2023-03-10 12:52:16 --> Severity: Notice --> Trying to get property 'ExamCollectionID' of non-object /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 439
+ERROR - 2023-03-10 12:52:16 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 448
+ERROR - 2023-03-10 12:52:16 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Set Temp.* from Temp order by QuestionType' at line 1 - Invalid query: Select 8 as Set Temp.* from Temp order by QuestionType
+ERROR - 2023-03-10 12:52:16 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 459
+ERROR - 2023-03-10 12:52:16 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/bcc/system/core/Common.php 570
+ERROR - 2023-03-10 12:56:16 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 12:56:16 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 13:02:43 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 13:02:44 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 13:03:15 --> Severity: Notice --> Trying to get property 'QuestionInfo' of non-object /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 437
+ERROR - 2023-03-10 13:03:15 --> Severity: Notice --> Trying to get property 'ExamCollectionID' of non-object /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 439
+ERROR - 2023-03-10 13:03:15 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 448
+ERROR - 2023-03-10 13:03:36 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 13:03:37 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 19:06:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-10 19:48:14 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 19:48:45 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 19:49:14 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 20:00:40 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 20:01:12 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 20:01:32 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 20:04:41 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 20:04:41 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 20:05:56 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 20:05:56 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 20:06:54 --> Severity: Notice --> Trying to get property 'QuestionInfo' of non-object /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 437
+ERROR - 2023-03-10 20:06:54 --> Severity: Notice --> Trying to get property 'ExamCollectionID' of non-object /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 438
+ERROR - 2023-03-10 20:06:54 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 445
+ERROR - 2023-03-10 20:07:03 --> Severity: Notice --> Trying to get property 'QuestionInfo' of non-object /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 437
+ERROR - 2023-03-10 20:07:03 --> Severity: Notice --> Trying to get property 'ExamCollectionID' of non-object /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 438
+ERROR - 2023-03-10 20:07:03 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 445
+ERROR - 2023-03-10 20:07:08 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 20:07:31 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 20:08:14 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 20:08:15 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 20:08:53 --> Severity: Notice --> Trying to get property 'QuestionInfo' of non-object /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 437
+ERROR - 2023-03-10 20:08:53 --> Severity: Notice --> Trying to get property 'ExamCollectionID' of non-object /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 438
+ERROR - 2023-03-10 20:08:53 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 445
+ERROR - 2023-03-10 20:09:17 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 20:09:18 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 20:31:14 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 20:31:14 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 20:33:19 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 20:33:19 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 20:33:59 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 20:34:00 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 20:35:27 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 20:35:27 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 20:36:37 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 20:36:38 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 20:45:04 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 20:45:04 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 20:45:15 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Set, q.Question, qs.Name as QuestionType, qt.Type as Complexity FROM Temp as ...' at line 1 - Invalid query: SELECT 0 as Set, q.Question, qs.Name as QuestionType, qt.Type as Complexity FROM Temp as q LEFT join questionsubject qs on qs.Id=q.QuestionSubject left join questiontype qt on qt.Id=q.QuestionType order by QuestionType
+ERROR - 2023-03-10 20:45:15 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 453
+ERROR - 2023-03-10 20:45:21 --> Severity: Notice --> Trying to get property 'QuestionInfo' of non-object /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 437
+ERROR - 2023-03-10 20:45:21 --> Severity: Notice --> Trying to get property 'ExamCollectionID' of non-object /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 438
+ERROR - 2023-03-10 20:45:21 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 445
+ERROR - 2023-03-10 20:45:21 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Set, q.Question, qs.Name as QuestionType, qt.Type as Complexity FROM Temp as ...' at line 1 - Invalid query: SELECT 0 as Set, q.Question, qs.Name as QuestionType, qt.Type as Complexity FROM Temp as q LEFT join questionsubject qs on qs.Id=q.QuestionSubject left join questiontype qt on qt.Id=q.QuestionType order by QuestionType
+ERROR - 2023-03-10 20:45:21 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 453
+ERROR - 2023-03-10 20:45:21 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/bcc/system/core/Common.php 570
+ERROR - 2023-03-10 20:46:47 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 20:46:48 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 20:47:04 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Set, q.Question, qs.Name as QuestionType, qt.Type as Complexity FROM Temp as ...' at line 1 - Invalid query: SELECT qt.Type as Set, q.Question, qs.Name as QuestionType, qt.Type as Complexity FROM Temp as q LEFT join questionsubject qs on qs.Id=q.QuestionSubject left join questiontype qt on qt.Id=q.QuestionType order by QuestionType
+ERROR - 2023-03-10 20:47:04 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 453
+ERROR - 2023-03-10 20:47:50 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 20:47:50 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 20:52:02 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 20:52:02 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 20:52:10 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Set, q.Question, qs.Name as QuestionType, qt.Type as Complexity FROM Temp as ...' at line 1 - Invalid query: SELECT '0' as Set, q.Question, qs.Name as QuestionType, qt.Type as Complexity FROM Temp as q LEFT join questionsubject qs on qs.Id=q.QuestionSubject left join questiontype qt on qt.Id=q.QuestionType order by QuestionType
+ERROR - 2023-03-10 20:52:10 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 453
+ERROR - 2023-03-10 20:59:34 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 20:59:34 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 20:59:44 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=2 and q.QuestionType=2 ORDER BY RAND() LIMIT 5
+ERROR - 2023-03-10 20:59:44 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=3 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 20:59:44 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=4 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 20:59:44 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=5 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 20:59:44 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=6 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 20:59:44 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=7 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 20:59:44 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=8 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 20:59:44 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=9 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 20:59:44 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=10 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 20:59:44 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=11 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 20:59:44 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=12 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 20:59:44 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=13 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 20:59:44 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=14 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 20:59:44 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=15 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:04:48 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 21:04:49 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 21:04:56 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=2 and q.QuestionType=2 ORDER BY RAND() LIMIT 5
+ERROR - 2023-03-10 21:04:56 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=3 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:04:56 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=4 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:04:56 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=5 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:04:56 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=6 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:04:56 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=7 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:04:56 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=8 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:04:56 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=9 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:04:56 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=10 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:04:56 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=11 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:04:56 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=12 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:04:56 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=13 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:04:56 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=14 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:04:56 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=15 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:08:29 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 21:08:30 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 21:08:37 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=2 and q.QuestionType=2 ORDER BY RAND() LIMIT 5
+ERROR - 2023-03-10 21:08:37 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=3 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:08:37 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=4 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:08:37 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=5 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:08:37 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=6 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:08:37 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=7 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:08:37 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=8 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:08:37 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=9 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:08:37 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=10 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:08:37 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=11 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:08:37 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=12 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:08:37 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=13 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:08:37 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=14 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:08:37 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=15 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:09:59 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 21:10:00 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 21:11:29 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 21:11:29 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 21:11:39 --> Query error: Duplicate entry '32' for key 'PRIMARY' - Invalid query: Insert Into Temp SELECT 32 as SetName, q.* from question as q WHERE q.QuestionSubject=2 and q.QuestionType=2 ORDER BY RAND() LIMIT 5
+ERROR - 2023-03-10 21:12:41 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 21:12:41 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 21:12:49 --> Severity: Notice --> Trying to get property 'ExamCollectionID' of non-object /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 451
+ERROR - 2023-03-10 21:12:49 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'as SetName, q.* from question as q WHERE q.QuestionSubject=2 and q.QuestionTy...' at line 1 - Invalid query: Insert Into Temp SELECT  as SetName, q.* from question as q WHERE q.QuestionSubject=2 and q.QuestionType=2 ORDER BY RAND() LIMIT 5
+ERROR - 2023-03-10 21:12:49 --> Severity: Notice --> Trying to get property 'ExamCollectionID' of non-object /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 451
+ERROR - 2023-03-10 21:12:49 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'as SetName, q.* from question as q WHERE q.QuestionSubject=3 and q.QuestionTy...' at line 1 - Invalid query: Insert Into Temp SELECT  as SetName, q.* from question as q WHERE q.QuestionSubject=3 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:12:49 --> Severity: Notice --> Trying to get property 'ExamCollectionID' of non-object /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 451
+ERROR - 2023-03-10 21:12:49 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'as SetName, q.* from question as q WHERE q.QuestionSubject=4 and q.QuestionTy...' at line 1 - Invalid query: Insert Into Temp SELECT  as SetName, q.* from question as q WHERE q.QuestionSubject=4 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:12:49 --> Severity: Notice --> Trying to get property 'ExamCollectionID' of non-object /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 451
+ERROR - 2023-03-10 21:12:49 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'as SetName, q.* from question as q WHERE q.QuestionSubject=5 and q.QuestionTy...' at line 1 - Invalid query: Insert Into Temp SELECT  as SetName, q.* from question as q WHERE q.QuestionSubject=5 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:12:49 --> Severity: Notice --> Trying to get property 'ExamCollectionID' of non-object /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 451
+ERROR - 2023-03-10 21:12:49 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'as SetName, q.* from question as q WHERE q.QuestionSubject=6 and q.QuestionTy...' at line 1 - Invalid query: Insert Into Temp SELECT  as SetName, q.* from question as q WHERE q.QuestionSubject=6 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:12:49 --> Severity: Notice --> Trying to get property 'ExamCollectionID' of non-object /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 451
+ERROR - 2023-03-10 21:12:49 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'as SetName, q.* from question as q WHERE q.QuestionSubject=7 and q.QuestionTy...' at line 1 - Invalid query: Insert Into Temp SELECT  as SetName, q.* from question as q WHERE q.QuestionSubject=7 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:12:49 --> Severity: Notice --> Trying to get property 'ExamCollectionID' of non-object /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 451
+ERROR - 2023-03-10 21:12:49 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'as SetName, q.* from question as q WHERE q.QuestionSubject=8 and q.QuestionTy...' at line 1 - Invalid query: Insert Into Temp SELECT  as SetName, q.* from question as q WHERE q.QuestionSubject=8 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:12:49 --> Severity: Notice --> Trying to get property 'ExamCollectionID' of non-object /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 451
+ERROR - 2023-03-10 21:12:49 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'as SetName, q.* from question as q WHERE q.QuestionSubject=9 and q.QuestionTy...' at line 1 - Invalid query: Insert Into Temp SELECT  as SetName, q.* from question as q WHERE q.QuestionSubject=9 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:12:49 --> Severity: Notice --> Trying to get property 'ExamCollectionID' of non-object /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 451
+ERROR - 2023-03-10 21:12:49 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'as SetName, q.* from question as q WHERE q.QuestionSubject=10 and q.QuestionT...' at line 1 - Invalid query: Insert Into Temp SELECT  as SetName, q.* from question as q WHERE q.QuestionSubject=10 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:12:49 --> Severity: Notice --> Trying to get property 'ExamCollectionID' of non-object /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 451
+ERROR - 2023-03-10 21:12:49 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'as SetName, q.* from question as q WHERE q.QuestionSubject=11 and q.QuestionT...' at line 1 - Invalid query: Insert Into Temp SELECT  as SetName, q.* from question as q WHERE q.QuestionSubject=11 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:12:49 --> Severity: Notice --> Trying to get property 'ExamCollectionID' of non-object /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 451
+ERROR - 2023-03-10 21:12:49 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'as SetName, q.* from question as q WHERE q.QuestionSubject=12 and q.QuestionT...' at line 1 - Invalid query: Insert Into Temp SELECT  as SetName, q.* from question as q WHERE q.QuestionSubject=12 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:12:49 --> Severity: Notice --> Trying to get property 'ExamCollectionID' of non-object /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 451
+ERROR - 2023-03-10 21:12:49 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'as SetName, q.* from question as q WHERE q.QuestionSubject=13 and q.QuestionT...' at line 1 - Invalid query: Insert Into Temp SELECT  as SetName, q.* from question as q WHERE q.QuestionSubject=13 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:12:49 --> Severity: Notice --> Trying to get property 'ExamCollectionID' of non-object /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 451
+ERROR - 2023-03-10 21:12:49 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'as SetName, q.* from question as q WHERE q.QuestionSubject=14 and q.QuestionT...' at line 1 - Invalid query: Insert Into Temp SELECT  as SetName, q.* from question as q WHERE q.QuestionSubject=14 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:12:49 --> Severity: Notice --> Trying to get property 'ExamCollectionID' of non-object /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 451
+ERROR - 2023-03-10 21:12:49 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'as SetName, q.* from question as q WHERE q.QuestionSubject=15 and q.QuestionT...' at line 1 - Invalid query: Insert Into Temp SELECT  as SetName, q.* from question as q WHERE q.QuestionSubject=15 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:13:14 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 21:13:14 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 21:13:23 --> Query error: Duplicate entry '32' for key 'PRIMARY' - Invalid query: Insert Into Temp SELECT '32' as SetName, q.* from question as q WHERE q.QuestionSubject=2 and q.QuestionType=2 ORDER BY RAND() LIMIT 5
+ERROR - 2023-03-10 21:13:56 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 21:13:56 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 21:15:02 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 21:15:02 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 21:16:28 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 21:16:28 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 21:17:16 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 21:17:16 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 21:17:24 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=2 and q.QuestionType=2 ORDER BY RAND() LIMIT 5
+ERROR - 2023-03-10 21:17:24 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=3 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:17:24 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=4 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:17:24 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=5 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:17:24 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=6 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:17:24 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=7 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:17:24 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=8 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:17:24 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=9 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:17:24 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=10 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:17:24 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=11 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:17:24 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=12 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:17:24 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=13 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:17:24 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=14 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:17:24 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=15 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:18:21 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 21:18:21 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 21:18:28 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=2 and q.QuestionType=2 ORDER BY ...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName * from question as q WHERE q.QuestionSubject=2 and q.QuestionType=2 ORDER BY RAND() LIMIT 5
+ERROR - 2023-03-10 21:18:28 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=3 and q.QuestionType=2 ORDER BY ...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName * from question as q WHERE q.QuestionSubject=3 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:18:28 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=4 and q.QuestionType=2 ORDER BY ...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName * from question as q WHERE q.QuestionSubject=4 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:18:28 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=5 and q.QuestionType=2 ORDER BY ...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName * from question as q WHERE q.QuestionSubject=5 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:18:28 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=6 and q.QuestionType=2 ORDER BY ...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName * from question as q WHERE q.QuestionSubject=6 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:18:28 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=7 and q.QuestionType=2 ORDER BY ...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName * from question as q WHERE q.QuestionSubject=7 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:18:28 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=8 and q.QuestionType=2 ORDER BY ...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName * from question as q WHERE q.QuestionSubject=8 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:18:28 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=9 and q.QuestionType=2 ORDER BY ...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName * from question as q WHERE q.QuestionSubject=9 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:18:28 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=10 and q.QuestionType=2 ORDER BY...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName * from question as q WHERE q.QuestionSubject=10 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:18:28 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=11 and q.QuestionType=2 ORDER BY...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName * from question as q WHERE q.QuestionSubject=11 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:18:28 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=12 and q.QuestionType=2 ORDER BY...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName * from question as q WHERE q.QuestionSubject=12 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:18:28 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=13 and q.QuestionType=2 ORDER BY...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName * from question as q WHERE q.QuestionSubject=13 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:18:28 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=14 and q.QuestionType=2 ORDER BY...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName * from question as q WHERE q.QuestionSubject=14 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:18:28 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=15 and q.QuestionType=2 ORDER BY...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName * from question as q WHERE q.QuestionSubject=15 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:18:28 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.Question, qs.Name as QuestionType, qt.Type as Complexity FROM Temp as q LEFT...' at line 1 - Invalid query: SELECT q.SetName q.Question, qs.Name as QuestionType, qt.Type as Complexity FROM Temp as q LEFT join questionsubject qs on qs.Id=q.QuestionSubject left join questiontype qt on qt.Id=q.QuestionType order by QuestionType
+ERROR - 2023-03-10 21:18:28 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 455
+ERROR - 2023-03-10 21:18:58 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 21:18:58 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 21:20:16 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 21:20:16 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 21:20:25 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=2 and q.QuestionType=2 ORDER BY RAND() LIMIT 5
+ERROR - 2023-03-10 21:20:25 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=3 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:20:25 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=4 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:20:25 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=5 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:20:25 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=6 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:20:25 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=7 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:20:25 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=8 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:20:25 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=9 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:20:25 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=10 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:20:25 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=11 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:20:25 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=12 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:20:25 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=13 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:20:25 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=14 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:20:25 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT * from question as q WHERE q.QuestionSubject=15 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:21:13 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 21:21:13 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 21:21:21 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=2 and q.QuestionType=2 ORDER BY ...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName, * from question as q WHERE q.QuestionSubject=2 and q.QuestionType=2 ORDER BY RAND() LIMIT 5
+ERROR - 2023-03-10 21:21:21 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=3 and q.QuestionType=2 ORDER BY ...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName, * from question as q WHERE q.QuestionSubject=3 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:21:21 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=4 and q.QuestionType=2 ORDER BY ...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName, * from question as q WHERE q.QuestionSubject=4 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:21:21 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=5 and q.QuestionType=2 ORDER BY ...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName, * from question as q WHERE q.QuestionSubject=5 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:21:21 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=6 and q.QuestionType=2 ORDER BY ...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName, * from question as q WHERE q.QuestionSubject=6 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:21:21 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=7 and q.QuestionType=2 ORDER BY ...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName, * from question as q WHERE q.QuestionSubject=7 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:21:21 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=8 and q.QuestionType=2 ORDER BY ...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName, * from question as q WHERE q.QuestionSubject=8 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:21:21 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=9 and q.QuestionType=2 ORDER BY ...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName, * from question as q WHERE q.QuestionSubject=9 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:21:21 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=10 and q.QuestionType=2 ORDER BY...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName, * from question as q WHERE q.QuestionSubject=10 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:21:21 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=11 and q.QuestionType=2 ORDER BY...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName, * from question as q WHERE q.QuestionSubject=11 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:21:21 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=12 and q.QuestionType=2 ORDER BY...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName, * from question as q WHERE q.QuestionSubject=12 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:21:21 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=13 and q.QuestionType=2 ORDER BY...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName, * from question as q WHERE q.QuestionSubject=13 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:21:21 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=14 and q.QuestionType=2 ORDER BY...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName, * from question as q WHERE q.QuestionSubject=14 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:21:21 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=15 and q.QuestionType=2 ORDER BY...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName, * from question as q WHERE q.QuestionSubject=15 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 21:21:48 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 21:21:48 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 21:54:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-10 23:34:51 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 23:35:02 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=2 and q.QuestionType=2 ORDER BY ...' at line 1 - Invalid query: Insert Into Temp SELECT '28' as SetName, * from question as q WHERE q.QuestionSubject=2 and q.QuestionType=2 ORDER BY RAND() LIMIT 5
+ERROR - 2023-03-10 23:35:02 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=3 and q.QuestionType=2 ORDER BY ...' at line 1 - Invalid query: Insert Into Temp SELECT '28' as SetName, * from question as q WHERE q.QuestionSubject=3 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:35:02 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=4 and q.QuestionType=2 ORDER BY ...' at line 1 - Invalid query: Insert Into Temp SELECT '28' as SetName, * from question as q WHERE q.QuestionSubject=4 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:35:02 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=5 and q.QuestionType=2 ORDER BY ...' at line 1 - Invalid query: Insert Into Temp SELECT '28' as SetName, * from question as q WHERE q.QuestionSubject=5 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:35:02 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=6 and q.QuestionType=2 ORDER BY ...' at line 1 - Invalid query: Insert Into Temp SELECT '28' as SetName, * from question as q WHERE q.QuestionSubject=6 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:35:02 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=7 and q.QuestionType=2 ORDER BY ...' at line 1 - Invalid query: Insert Into Temp SELECT '28' as SetName, * from question as q WHERE q.QuestionSubject=7 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:35:02 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=8 and q.QuestionType=2 ORDER BY ...' at line 1 - Invalid query: Insert Into Temp SELECT '28' as SetName, * from question as q WHERE q.QuestionSubject=8 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:35:02 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=9 and q.QuestionType=2 ORDER BY ...' at line 1 - Invalid query: Insert Into Temp SELECT '28' as SetName, * from question as q WHERE q.QuestionSubject=9 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:35:02 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=10 and q.QuestionType=2 ORDER BY...' at line 1 - Invalid query: Insert Into Temp SELECT '28' as SetName, * from question as q WHERE q.QuestionSubject=10 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:35:02 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=11 and q.QuestionType=2 ORDER BY...' at line 1 - Invalid query: Insert Into Temp SELECT '28' as SetName, * from question as q WHERE q.QuestionSubject=11 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:35:02 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=12 and q.QuestionType=2 ORDER BY...' at line 1 - Invalid query: Insert Into Temp SELECT '28' as SetName, * from question as q WHERE q.QuestionSubject=12 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:35:02 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=13 and q.QuestionType=2 ORDER BY...' at line 1 - Invalid query: Insert Into Temp SELECT '28' as SetName, * from question as q WHERE q.QuestionSubject=13 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:35:02 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=14 and q.QuestionType=2 ORDER BY...' at line 1 - Invalid query: Insert Into Temp SELECT '28' as SetName, * from question as q WHERE q.QuestionSubject=14 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:35:02 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=15 and q.QuestionType=2 ORDER BY...' at line 1 - Invalid query: Insert Into Temp SELECT '28' as SetName, * from question as q WHERE q.QuestionSubject=15 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:35:02 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.Question, qs.Name as QuestionType, qt.Type as Complexity FROM Temp as q LEFT...' at line 1 - Invalid query: SELECT q.SetName q.Question, qs.Name as QuestionType, qt.Type as Complexity FROM Temp as q LEFT join questionsubject qs on qs.Id=q.QuestionSubject left join questiontype qt on qt.Id=q.QuestionType order by QuestionType
+ERROR - 2023-03-10 23:35:02 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 456
+ERROR - 2023-03-10 23:37:06 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 23:40:20 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 23:40:27 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 23:40:31 --> Query error: Unknown column 'q.SetName' in 'field list' - Invalid query: SELECT q.SetName, q.Question, qs.Name as QuestionType, qt.Type as Complexity FROM Temp as q LEFT join questionsubject qs on qs.Id=q.QuestionSubject left join questiontype qt on qt.Id=q.QuestionType order by QuestionType
+ERROR - 2023-03-10 23:40:31 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 456
+ERROR - 2023-03-10 23:40:41 --> Severity: Notice --> Trying to get property 'QuestionInfo' of non-object /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 437
+ERROR - 2023-03-10 23:40:41 --> Severity: Notice --> Trying to get property 'ExamCollectionID' of non-object /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 438
+ERROR - 2023-03-10 23:40:41 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 448
+ERROR - 2023-03-10 23:40:41 --> Query error: Unknown column 'q.SetName' in 'field list' - Invalid query: SELECT q.SetName, q.Question, qs.Name as QuestionType, qt.Type as Complexity FROM Temp as q LEFT join questionsubject qs on qs.Id=q.QuestionSubject left join questiontype qt on qt.Id=q.QuestionType order by QuestionType
+ERROR - 2023-03-10 23:40:41 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 456
+ERROR - 2023-03-10 23:40:41 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/bcc/system/core/Common.php 570
+ERROR - 2023-03-10 23:41:24 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 23:41:25 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 23:41:40 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT  * from question as q WHERE q.QuestionSubject=2 and q.QuestionType=2 ORDER BY RAND() LIMIT 5
+ERROR - 2023-03-10 23:41:40 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT  * from question as q WHERE q.QuestionSubject=3 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:41:40 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT  * from question as q WHERE q.QuestionSubject=4 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:41:40 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT  * from question as q WHERE q.QuestionSubject=5 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:41:40 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT  * from question as q WHERE q.QuestionSubject=6 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:41:40 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT  * from question as q WHERE q.QuestionSubject=7 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:41:40 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT  * from question as q WHERE q.QuestionSubject=8 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:41:40 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT  * from question as q WHERE q.QuestionSubject=9 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:41:40 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT  * from question as q WHERE q.QuestionSubject=10 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:41:40 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT  * from question as q WHERE q.QuestionSubject=11 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:41:40 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT  * from question as q WHERE q.QuestionSubject=12 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:41:40 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT  * from question as q WHERE q.QuestionSubject=13 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:41:40 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT  * from question as q WHERE q.QuestionSubject=14 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:41:40 --> Query error: Column count doesn't match value count at row 1 - Invalid query: Insert Into Temp SELECT  * from question as q WHERE q.QuestionSubject=15 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:42:56 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 23:43:05 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=2 and q.QuestionType=2 ORDER BY ...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName, * from question as q WHERE q.QuestionSubject=2 and q.QuestionType=2 ORDER BY RAND() LIMIT 5
+ERROR - 2023-03-10 23:43:05 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=3 and q.QuestionType=2 ORDER BY ...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName, * from question as q WHERE q.QuestionSubject=3 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:43:05 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=4 and q.QuestionType=2 ORDER BY ...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName, * from question as q WHERE q.QuestionSubject=4 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:43:05 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=5 and q.QuestionType=2 ORDER BY ...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName, * from question as q WHERE q.QuestionSubject=5 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:43:05 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=6 and q.QuestionType=2 ORDER BY ...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName, * from question as q WHERE q.QuestionSubject=6 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:43:05 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=7 and q.QuestionType=2 ORDER BY ...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName, * from question as q WHERE q.QuestionSubject=7 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:43:05 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=8 and q.QuestionType=2 ORDER BY ...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName, * from question as q WHERE q.QuestionSubject=8 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:43:05 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=9 and q.QuestionType=2 ORDER BY ...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName, * from question as q WHERE q.QuestionSubject=9 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:43:05 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=10 and q.QuestionType=2 ORDER BY...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName, * from question as q WHERE q.QuestionSubject=10 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:43:05 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=11 and q.QuestionType=2 ORDER BY...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName, * from question as q WHERE q.QuestionSubject=11 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:43:05 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=12 and q.QuestionType=2 ORDER BY...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName, * from question as q WHERE q.QuestionSubject=12 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:43:05 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=13 and q.QuestionType=2 ORDER BY...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName, * from question as q WHERE q.QuestionSubject=13 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:43:05 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=14 and q.QuestionType=2 ORDER BY...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName, * from question as q WHERE q.QuestionSubject=14 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:43:05 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=15 and q.QuestionType=2 ORDER BY...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName, * from question as q WHERE q.QuestionSubject=15 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:43:08 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 23:44:03 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 23:44:03 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 23:45:14 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 23:45:14 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 23:46:20 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 23:46:31 --> Query error: Duplicate entry '32' for key 'PRIMARY' - Invalid query: Insert Into Temp SELECT '32' as SetName, q.* from question as q WHERE q.QuestionSubject=2 and q.QuestionType=2 ORDER BY RAND() LIMIT 5
+ERROR - 2023-03-10 23:46:35 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 23:47:36 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 23:47:37 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 23:47:44 --> Query error: Duplicate entry '7' for key 'PRIMARY' - Invalid query: Insert Into Temp SELECT '7' as SetName, q.* from question as q WHERE q.QuestionSubject=2 and q.QuestionType=2 ORDER BY RAND() LIMIT 5
+ERROR - 2023-03-10 23:48:00 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 23:48:00 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 23:49:45 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 23:49:46 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 23:49:52 --> Query error: Duplicate entry '2' for key 'PRIMARY' - Invalid query: Insert Into Temp (SELECT '2' as SetName, q.* from question as q WHERE q.QuestionSubject=2 and q.QuestionType=2 ORDER BY RAND() LIMIT 2)
+ERROR - 2023-03-10 23:49:52 --> Query error: Duplicate entry '2' for key 'PRIMARY' - Invalid query: Insert Into Temp (SELECT '2' as SetName, q.* from question as q WHERE q.QuestionSubject=3 and q.QuestionType=2 ORDER BY RAND() LIMIT 2)
+ERROR - 2023-03-10 23:49:52 --> Query error: Duplicate entry '2' for key 'PRIMARY' - Invalid query: Insert Into Temp (SELECT '2' as SetName, q.* from question as q WHERE q.QuestionSubject=4 and q.QuestionType=2 ORDER BY RAND() LIMIT 2)
+ERROR - 2023-03-10 23:49:52 --> Query error: Duplicate entry '2' for key 'PRIMARY' - Invalid query: Insert Into Temp (SELECT '2' as SetName, q.* from question as q WHERE q.QuestionSubject=5 and q.QuestionType=2 ORDER BY RAND() LIMIT 2)
+ERROR - 2023-03-10 23:49:52 --> Query error: Duplicate entry '2' for key 'PRIMARY' - Invalid query: Insert Into Temp (SELECT '2' as SetName, q.* from question as q WHERE q.QuestionSubject=6 and q.QuestionType=2 ORDER BY RAND() LIMIT 2)
+ERROR - 2023-03-10 23:49:52 --> Query error: Duplicate entry '2' for key 'PRIMARY' - Invalid query: Insert Into Temp (SELECT '2' as SetName, q.* from question as q WHERE q.QuestionSubject=7 and q.QuestionType=2 ORDER BY RAND() LIMIT 2)
+ERROR - 2023-03-10 23:49:52 --> Query error: Duplicate entry '2' for key 'PRIMARY' - Invalid query: Insert Into Temp (SELECT '2' as SetName, q.* from question as q WHERE q.QuestionSubject=8 and q.QuestionType=2 ORDER BY RAND() LIMIT 2)
+ERROR - 2023-03-10 23:49:52 --> Query error: Duplicate entry '2' for key 'PRIMARY' - Invalid query: Insert Into Temp (SELECT '2' as SetName, q.* from question as q WHERE q.QuestionSubject=9 and q.QuestionType=2 ORDER BY RAND() LIMIT 2)
+ERROR - 2023-03-10 23:49:52 --> Query error: Duplicate entry '2' for key 'PRIMARY' - Invalid query: Insert Into Temp (SELECT '2' as SetName, q.* from question as q WHERE q.QuestionSubject=10 and q.QuestionType=2 ORDER BY RAND() LIMIT 2)
+ERROR - 2023-03-10 23:49:52 --> Query error: Duplicate entry '2' for key 'PRIMARY' - Invalid query: Insert Into Temp (SELECT '2' as SetName, q.* from question as q WHERE q.QuestionSubject=11 and q.QuestionType=2 ORDER BY RAND() LIMIT 2)
+ERROR - 2023-03-10 23:49:52 --> Query error: Duplicate entry '2' for key 'PRIMARY' - Invalid query: Insert Into Temp (SELECT '2' as SetName, q.* from question as q WHERE q.QuestionSubject=12 and q.QuestionType=2 ORDER BY RAND() LIMIT 2)
+ERROR - 2023-03-10 23:49:52 --> Query error: Duplicate entry '2' for key 'PRIMARY' - Invalid query: Insert Into Temp (SELECT '2' as SetName, q.* from question as q WHERE q.QuestionSubject=13 and q.QuestionType=2 ORDER BY RAND() LIMIT 2)
+ERROR - 2023-03-10 23:49:52 --> Query error: Duplicate entry '2' for key 'PRIMARY' - Invalid query: Insert Into Temp (SELECT '2' as SetName, q.* from question as q WHERE q.QuestionSubject=14 and q.QuestionType=2 ORDER BY RAND() LIMIT 2)
+ERROR - 2023-03-10 23:50:31 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 23:50:36 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 23:53:23 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 23:53:24 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 23:54:20 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 23:54:20 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 23:55:48 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 23:55:49 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 23:56:01 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=2 and q.QuestionType=2 ORDER BY ...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName * from question as q WHERE q.QuestionSubject=2 and q.QuestionType=2 ORDER BY RAND() LIMIT 5
+ERROR - 2023-03-10 23:56:01 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=3 and q.QuestionType=2 ORDER BY ...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName * from question as q WHERE q.QuestionSubject=3 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:56:01 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=4 and q.QuestionType=2 ORDER BY ...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName * from question as q WHERE q.QuestionSubject=4 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:56:01 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=5 and q.QuestionType=2 ORDER BY ...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName * from question as q WHERE q.QuestionSubject=5 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:56:01 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=6 and q.QuestionType=2 ORDER BY ...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName * from question as q WHERE q.QuestionSubject=6 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:56:01 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=7 and q.QuestionType=2 ORDER BY ...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName * from question as q WHERE q.QuestionSubject=7 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:56:01 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=8 and q.QuestionType=2 ORDER BY ...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName * from question as q WHERE q.QuestionSubject=8 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:56:01 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=9 and q.QuestionType=2 ORDER BY ...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName * from question as q WHERE q.QuestionSubject=9 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:56:01 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=10 and q.QuestionType=2 ORDER BY...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName * from question as q WHERE q.QuestionSubject=10 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:56:01 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=11 and q.QuestionType=2 ORDER BY...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName * from question as q WHERE q.QuestionSubject=11 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:56:01 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=12 and q.QuestionType=2 ORDER BY...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName * from question as q WHERE q.QuestionSubject=12 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:56:01 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=13 and q.QuestionType=2 ORDER BY...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName * from question as q WHERE q.QuestionSubject=13 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:56:01 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=14 and q.QuestionType=2 ORDER BY...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName * from question as q WHERE q.QuestionSubject=14 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:56:01 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=15 and q.QuestionType=2 ORDER BY...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName * from question as q WHERE q.QuestionSubject=15 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:56:16 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 23:56:16 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 23:56:24 --> Query error: Unknown column 'q.SetName' in 'field list' - Invalid query: SELECT q.SetName, q.Question, qs.Name as QuestionType, qt.Type as Complexity FROM Temp as q LEFT join questionsubject qs on qs.Id=q.QuestionSubject left join questiontype qt on qt.Id=q.QuestionType order by QuestionType
+ERROR - 2023-03-10 23:56:24 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/bcc/application/models/Exam_Model.php 456
+ERROR - 2023-03-10 23:56:46 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 23:56:47 --> 404 Page Not Found: Dist/js
+ERROR - 2023-03-10 23:56:56 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=2 and q.QuestionType=2 ORDER BY ...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName, * from question as q WHERE q.QuestionSubject=2 and q.QuestionType=2 ORDER BY RAND() LIMIT 5
+ERROR - 2023-03-10 23:56:56 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=3 and q.QuestionType=2 ORDER BY ...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName, * from question as q WHERE q.QuestionSubject=3 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:56:56 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=4 and q.QuestionType=2 ORDER BY ...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName, * from question as q WHERE q.QuestionSubject=4 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:56:56 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=5 and q.QuestionType=2 ORDER BY ...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName, * from question as q WHERE q.QuestionSubject=5 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:56:56 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=6 and q.QuestionType=2 ORDER BY ...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName, * from question as q WHERE q.QuestionSubject=6 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:56:56 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=7 and q.QuestionType=2 ORDER BY ...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName, * from question as q WHERE q.QuestionSubject=7 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:56:56 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=8 and q.QuestionType=2 ORDER BY ...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName, * from question as q WHERE q.QuestionSubject=8 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:56:56 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=9 and q.QuestionType=2 ORDER BY ...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName, * from question as q WHERE q.QuestionSubject=9 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:56:56 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=10 and q.QuestionType=2 ORDER BY...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName, * from question as q WHERE q.QuestionSubject=10 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:56:56 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=11 and q.QuestionType=2 ORDER BY...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName, * from question as q WHERE q.QuestionSubject=11 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:56:56 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=12 and q.QuestionType=2 ORDER BY...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName, * from question as q WHERE q.QuestionSubject=12 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:56:56 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=13 and q.QuestionType=2 ORDER BY...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName, * from question as q WHERE q.QuestionSubject=13 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:56:56 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=14 and q.QuestionType=2 ORDER BY...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName, * from question as q WHERE q.QuestionSubject=14 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:56:56 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from question as q WHERE q.QuestionSubject=15 and q.QuestionType=2 ORDER BY...' at line 1 - Invalid query: Insert Into Temp SELECT 0 as SetName, * from question as q WHERE q.QuestionSubject=15 and q.QuestionType=2 ORDER BY RAND() LIMIT 0
+ERROR - 2023-03-10 23:57:27 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-03-10 23:57:28 --> 404 Page Not Found: Dist/js

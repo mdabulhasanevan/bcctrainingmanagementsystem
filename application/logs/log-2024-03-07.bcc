@@ -1,0 +1,109 @@
+ERROR - 2024-03-07 00:13:27 --> 404 Page Not Found: Wp_includes/ID3
+ERROR - 2024-03-07 00:13:27 --> 404 Page Not Found: Feed/index
+ERROR - 2024-03-07 00:13:27 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2024-03-07 00:13:27 --> 404 Page Not Found: Blog/wp_includes
+ERROR - 2024-03-07 00:13:27 --> 404 Page Not Found: Web/wp_includes
+ERROR - 2024-03-07 00:13:27 --> 404 Page Not Found: Wordpress/wp_includes
+ERROR - 2024-03-07 00:13:28 --> 404 Page Not Found: Wp/wp_includes
+ERROR - 2024-03-07 00:13:28 --> 404 Page Not Found: 2020/wp_includes
+ERROR - 2024-03-07 00:13:28 --> 404 Page Not Found: 2019/wp_includes
+ERROR - 2024-03-07 00:13:28 --> 404 Page Not Found: 2021/wp_includes
+ERROR - 2024-03-07 00:13:28 --> 404 Page Not Found: Shop/wp_includes
+ERROR - 2024-03-07 00:13:28 --> 404 Page Not Found: Wp1/wp_includes
+ERROR - 2024-03-07 00:13:28 --> 404 Page Not Found: Test/wp_includes
+ERROR - 2024-03-07 00:13:28 --> 404 Page Not Found: Site/wp_includes
+ERROR - 2024-03-07 00:13:28 --> 404 Page Not Found: Cms/wp_includes
+ERROR - 2024-03-07 00:16:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-07 00:58:10 --> 404 Page Not Found: Wp_json/index
+ERROR - 2024-03-07 00:58:21 --> 404 Page Not Found: Wp_json/index
+ERROR - 2024-03-07 03:01:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-07 04:48:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-07 07:26:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-07 07:26:49 --> Severity: Notice --> Trying to get property 'Headline' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 9
+ERROR - 2024-03-07 07:26:49 --> Severity: Notice --> Trying to get property 'Date' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 10
+ERROR - 2024-03-07 07:26:49 --> Severity: Notice --> Trying to get property 'Detail' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 12
+ERROR - 2024-03-07 08:40:41 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-03-07 09:51:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-07 10:40:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-07 10:40:42 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-03-07 11:28:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-07 11:31:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-07 11:31:01 --> Severity: Notice --> Trying to get property 'Headline' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 9
+ERROR - 2024-03-07 11:31:01 --> Severity: Notice --> Trying to get property 'Date' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 10
+ERROR - 2024-03-07 11:31:01 --> Severity: Notice --> Trying to get property 'Detail' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 12
+ERROR - 2024-03-07 11:50:27 --> 404 Page Not Found: StudentOpen/index.html
+ERROR - 2024-03-07 13:18:44 --> Query error: Unknown column 'undefined' in 'where clause' - Invalid query: SELECT *,  if(er.Attendance=0,'Absent','Present') as Attendance, (se.MCQMarks*er.Correct/er.TotalQuestion) as MCQMarksGet, ((se.MCQMarks*er.Correct/er.TotalQuestion)+er.Theory+er.Practical)as totalAmount FROM examresult as er LEFT JOIN setexam se on se.ExamCollectionID=er.ExamCollectionID and se.BatchID=er.BatchID LEFT JOIN student st on st.SID=er.UserID LEFT JOIN batch b on b.Id=se.BatchID left JOIN examcollection exc on exc.Id=er.ExamCollectionID left join ExamName exn on exn.ExNId=se.ExamNameID WHERE er.BatchID=100  and exc.ExamNameID=undefined  ORDER BY st.RegNO asc
+ERROR - 2024-03-07 13:18:44 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 331
+ERROR - 2024-03-07 13:19:02 --> Query error: Unknown column 'undefined' in 'where clause' - Invalid query: SELECT *,  if(er.Attendance=0,'Absent','Present') as Attendance, (se.MCQMarks*er.Correct/er.TotalQuestion) as MCQMarksGet, ((se.MCQMarks*er.Correct/er.TotalQuestion)+er.Theory+er.Practical)as totalAmount FROM examresult as er LEFT JOIN setexam se on se.ExamCollectionID=er.ExamCollectionID and se.BatchID=er.BatchID LEFT JOIN student st on st.SID=er.UserID LEFT JOIN batch b on b.Id=se.BatchID left JOIN examcollection exc on exc.Id=er.ExamCollectionID left join ExamName exn on exn.ExNId=se.ExamNameID WHERE er.BatchID=100  and exc.ExamNameID=undefined  ORDER BY st.RegNO asc
+ERROR - 2024-03-07 13:19:02 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 331
+ERROR - 2024-03-07 13:19:18 --> Query error: Unknown column 'undefined' in 'where clause' - Invalid query: SELECT *,  if(er.Attendance=0,'Absent','Present') as Attendance, (se.MCQMarks*er.Correct/er.TotalQuestion) as MCQMarksGet, ((se.MCQMarks*er.Correct/er.TotalQuestion)+er.Theory+er.Practical)as totalAmount FROM examresult as er LEFT JOIN setexam se on se.ExamCollectionID=er.ExamCollectionID and se.BatchID=er.BatchID LEFT JOIN student st on st.SID=er.UserID LEFT JOIN batch b on b.Id=se.BatchID left JOIN examcollection exc on exc.Id=er.ExamCollectionID left join ExamName exn on exn.ExNId=se.ExamNameID WHERE er.BatchID=100  and exc.ExamNameID=undefined  ORDER BY st.RegNO asc
+ERROR - 2024-03-07 13:19:18 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 331
+ERROR - 2024-03-07 14:19:04 --> 404 Page Not Found: StudentOpen/index.html
+ERROR - 2024-03-07 14:19:07 --> 404 Page Not Found: StudentOpen/index.html
+ERROR - 2024-03-07 15:38:58 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php:212) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-03-07 15:38:58 --> Severity: Error --> Maximum execution time of 300 seconds exceeded /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php 212
+ERROR - 2024-03-07 15:38:58 --> Severity: Warning --> Unknown: Cannot call session save handler in a recursive manner Unknown 0
+ERROR - 2024-03-07 15:38:58 --> Severity: Warning --> Unknown: Failed to write session data using user defined save handler. (session.save_path: /var/cpanel/php/sessions/ea-php73) Unknown 0
+ERROR - 2024-03-07 15:43:05 --> 404 Page Not Found: StudentOpen/index.html
+ERROR - 2024-03-07 15:43:23 --> 404 Page Not Found: Webview/dist
+ERROR - 2024-03-07 16:44:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-07 18:52:40 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php:212) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-03-07 18:52:40 --> Severity: Error --> Maximum execution time of 300 seconds exceeded /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php 212
+ERROR - 2024-03-07 18:52:40 --> Severity: Warning --> Unknown: Cannot call session save handler in a recursive manner Unknown 0
+ERROR - 2024-03-07 18:52:40 --> Severity: Warning --> Unknown: Failed to write session data using user defined save handler. (session.save_path: /var/cpanel/php/sessions/ea-php73) Unknown 0
+ERROR - 2024-03-07 18:57:37 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php:212) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-03-07 18:57:37 --> Severity: Error --> Maximum execution time of 300 seconds exceeded /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php 212
+ERROR - 2024-03-07 18:57:37 --> Severity: Warning --> Unknown: Cannot call session save handler in a recursive manner Unknown 0
+ERROR - 2024-03-07 18:57:37 --> Severity: Warning --> Unknown: Failed to write session data using user defined save handler. (session.save_path: /var/cpanel/php/sessions/ea-php73) Unknown 0
+ERROR - 2024-03-07 18:58:50 --> 404 Page Not Found: StudentOpen/index.html
+ERROR - 2024-03-07 18:58:57 --> 404 Page Not Found: StudentOpen/index.html
+ERROR - 2024-03-07 19:07:37 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php:212) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-03-07 19:07:37 --> Severity: Error --> Maximum execution time of 300 seconds exceeded /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php 212
+ERROR - 2024-03-07 19:07:37 --> Severity: Warning --> Unknown: Cannot call session save handler in a recursive manner Unknown 0
+ERROR - 2024-03-07 19:07:37 --> Severity: Warning --> Unknown: Failed to write session data using user defined save handler. (session.save_path: /var/cpanel/php/sessions/ea-php73) Unknown 0
+ERROR - 2024-03-07 19:09:16 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php:212) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-03-07 19:09:16 --> Severity: Error --> Maximum execution time of 300 seconds exceeded /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php 212
+ERROR - 2024-03-07 19:09:16 --> Severity: Warning --> Unknown: Cannot call session save handler in a recursive manner Unknown 0
+ERROR - 2024-03-07 19:09:16 --> Severity: Warning --> Unknown: Failed to write session data using user defined save handler. (session.save_path: /var/cpanel/php/sessions/ea-php73) Unknown 0
+ERROR - 2024-03-07 19:19:40 --> 404 Page Not Found: Well_known/traffic_advice
+ERROR - 2024-03-07 19:19:40 --> 404 Page Not Found: Well_known/traffic_advice
+ERROR - 2024-03-07 19:22:25 --> Severity: Notice --> Trying to get property 'Headline' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 9
+ERROR - 2024-03-07 19:22:25 --> Severity: Notice --> Trying to get property 'Date' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 10
+ERROR - 2024-03-07 19:22:25 --> Severity: Notice --> Trying to get property 'Detail' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 12
+ERROR - 2024-03-07 20:03:06 --> 404 Page Not Found: StudentOpen/index.html
+ERROR - 2024-03-07 20:10:13 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php:212) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-03-07 20:10:13 --> Severity: Error --> Maximum execution time of 300 seconds exceeded /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php 212
+ERROR - 2024-03-07 20:10:13 --> Severity: Warning --> Unknown: Cannot call session save handler in a recursive manner Unknown 0
+ERROR - 2024-03-07 20:10:13 --> Severity: Warning --> Unknown: Failed to write session data using user defined save handler. (session.save_path: /var/cpanel/php/sessions/ea-php73) Unknown 0
+ERROR - 2024-03-07 20:10:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-07 20:10:48 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-03-07 20:11:31 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php:212) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-03-07 20:11:31 --> Severity: Error --> Maximum execution time of 300 seconds exceeded /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php 212
+ERROR - 2024-03-07 20:11:31 --> Severity: Warning --> Unknown: Cannot call session save handler in a recursive manner Unknown 0
+ERROR - 2024-03-07 20:11:31 --> Severity: Warning --> Unknown: Failed to write session data using user defined save handler. (session.save_path: /var/cpanel/php/sessions/ea-php73) Unknown 0
+ERROR - 2024-03-07 20:15:45 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php:212) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-03-07 20:15:45 --> Severity: Error --> Maximum execution time of 300 seconds exceeded /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php 212
+ERROR - 2024-03-07 20:15:45 --> Severity: Warning --> Unknown: Cannot call session save handler in a recursive manner Unknown 0
+ERROR - 2024-03-07 20:15:45 --> Severity: Warning --> Unknown: Failed to write session data using user defined save handler. (session.save_path: /var/cpanel/php/sessions/ea-php73) Unknown 0
+ERROR - 2024-03-07 20:21:48 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php:212) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-03-07 20:21:48 --> Severity: Error --> Maximum execution time of 300 seconds exceeded /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php 212
+ERROR - 2024-03-07 20:21:48 --> Severity: Warning --> Unknown: Cannot call session save handler in a recursive manner Unknown 0
+ERROR - 2024-03-07 20:21:48 --> Severity: Warning --> Unknown: Failed to write session data using user defined save handler. (session.save_path: /var/cpanel/php/sessions/ea-php73) Unknown 0
+ERROR - 2024-03-07 20:28:23 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php:212) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-03-07 20:28:23 --> Severity: Error --> Maximum execution time of 300 seconds exceeded /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php 212
+ERROR - 2024-03-07 20:28:23 --> Severity: Warning --> Unknown: Cannot call session save handler in a recursive manner Unknown 0
+ERROR - 2024-03-07 20:28:23 --> Severity: Warning --> Unknown: Failed to write session data using user defined save handler. (session.save_path: /var/cpanel/php/sessions/ea-php73) Unknown 0
+ERROR - 2024-03-07 20:33:12 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php:212) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-03-07 20:33:12 --> Severity: Error --> Maximum execution time of 300 seconds exceeded /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php 212
+ERROR - 2024-03-07 20:33:12 --> Severity: Warning --> Unknown: Cannot call session save handler in a recursive manner Unknown 0
+ERROR - 2024-03-07 20:33:12 --> Severity: Warning --> Unknown: Failed to write session data using user defined save handler. (session.save_path: /var/cpanel/php/sessions/ea-php73) Unknown 0
+ERROR - 2024-03-07 20:38:20 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php:212) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-03-07 20:38:20 --> Severity: Error --> Maximum execution time of 300 seconds exceeded /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php 212
+ERROR - 2024-03-07 20:38:20 --> Severity: Warning --> Unknown: Cannot call session save handler in a recursive manner Unknown 0
+ERROR - 2024-03-07 20:38:20 --> Severity: Warning --> Unknown: Failed to write session data using user defined save handler. (session.save_path: /var/cpanel/php/sessions/ea-php73) Unknown 0
+ERROR - 2024-03-07 20:42:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-07 20:42:09 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-03-07 20:46:27 --> 404 Page Not Found: StudentOpen/index.html
+ERROR - 2024-03-07 20:53:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-07 21:12:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-07 21:13:46 --> 404 Page Not Found: Robotstxt/index

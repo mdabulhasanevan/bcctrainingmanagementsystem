@@ -1,0 +1,430 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 2, 2018, 12:18:30 AM
+    Author     : Evan DU
+*/
+
+
+
+
+body{
+    background-color: white;
+    width: 85%;
+    margin: auto;
+    border-radius: 10px;
+    font-family: initial ;
+}
+.footer2{
+    text-align: left;
+    height: auto;
+    background-color: #fff;
+
+}
+.header1{   
+    height: auto;
+    /*background-image: url("../img/banner.jpg");*/
+    background-color: rgb(238, 233, 241);
+    padding: 5px;
+    font-size: x-large;
+    font-weight: bolder;
+
+}
+#header-site-info {
+    left:50px;
+    margin-bottom: 0;
+    padding: 25px;
+    position: absolute;
+    top:70px;
+    z-index: 100;
+
+}
+
+
+#logo img{width: 65px; height: auto;  margin-top:8px; }
+
+
+#site-name {
+    font-size: 35px;
+    text-shadow: -1px -1px 2px #333, 1px -1px 2px #333, -1px 1px 2px #333, 1px 1px 2px #333;
+}
+#site-name a:link, #site-name a:visited, #site-name a:hover, #site-name a:active {
+    text-decoration: none;
+}
+#site-name a {
+    outline: 0 none;
+}
+#site-name a, #slogan {
+    color: #FFFFFF;
+}
+#slogan {
+    font-size: 1.4vw;
+    text-shadow: -1px -1px 2px #333, 1px -1px 2px #333, -1px 1px 2px #333, 1px 1px 2px #333;
+}
+
+.CategoryImg{
+   
+    text-align: center;
+    padding: 0px;
+margin:0px;
+max-height:200px;
+
+}
+
+.CategoryBox
+{
+    height: auto;
+    background-color: #fff;
+    margin: 1px;
+    padding: 1px;
+    border: 1px solid #555; 
+    width: 100%;
+    
+}
+
+.CategoryBox h4{
+   
+    text-align:center;
+    font-weight:bolder;
+    
+}
+.CategoryListBox  
+{
+    list-style-type: square;
+    padding-left:  10px;
+    font-size: 17px;
+}
+
+.box{
+   
+    background-color:#FFF; float: left; 
+     border: 1px solid #ccc; 
+     padding:1px;
+     float:left;
+     box-shadow: 1px 1px 1px 1px #ccc;
+     margin-bottom: 10px;
+     min-height:200px;
+}
+
+@media (max-width:600px){
+
+    .isSlideShow
+    {
+        display: none;
+    }
+}
+
+
+#fixed-social {
+    position: fixed;
+    top: 130px;
+}
+
+#fixed-social a {
+    color: #fff;
+    display: block;
+    height: 40px;
+    position: relative;
+    text-align: center;
+    line-height: 40px;
+    width: 40px;
+    margin-bottom: 1px;
+    z-index: 2;
+}
+#fixed-social a:hover>span{
+    visibility: visible;
+    left: 41px;
+    opacity: 1;
+} 
+#fixed-social a span {
+    line-height: 40px;
+    left: 60px;
+    position: absolute;
+    text-align: center;
+    width: 120px;
+    visibility: hidden;
+    transition-duration: 0.5s;
+    z-index: 1;
+    opacity: 0;
+}
+.fixed-facebook{
+    background-color: #00AAE5;
+}
+.fixed-facebook span{
+    background-color: #00AAE5;
+}
+.fixed-twitter{
+    background-color: #7D3895;
+
+}
+.fixed-twitter span{
+    background-color: #7D3895;
+}
+.fixed-gplus{
+    background-color: #00AF54;
+
+}
+.fixed-gplus span{
+    background-color: #00AF54;
+}
+.fixed-linkedin{
+    background-color: #FFC41E;
+
+}
+.fixed-linkedin span{
+    background-color: #FFC41E;
+}
+.fixed-instagrem{
+    background-color: #ED2B29;
+
+}
+.fixed-instagrem span{
+    background-color: #ED2B29;
+}
+.fixed-tumblr{
+    background-color: #EB1471;
+
+}
+.fixed-tumblr span{
+    background-color: #EB1471;
+}
+
+#social ul
+{
+    width:auto;
+    list-style-type: none;
+    text-align: center;
+    cursor: pointer;
+}
+
+#social ul li {display: inline;  }
+
+
+#social ul li a
+{  
+    padding-left:0px;  
+    text-decoration: none;
+    color: #222;
+    font-size:25px;
+    text-align:center;  
+}
+
+.social-icon {
+    width:50px;
+    height:50px;
+    line-height:50px;
+    border-radius:0;
+    transition:all .4s ease-in-out ;
+}
+
+
+#social ul li a:hover
+{  
+    font-size:25px;
+    opacity: 0.6;
+}
+
+.google-plus {
+    background-color: tomato;
+    color: white;
+}
+
+.twitter {
+    background-color: #00ACEE;
+    color: white;
+}
+
+.facebook {
+    background-color: #3B5998;
+    color: white;
+}
+
+.mail {background-color:#609;
+       color:white;}
+
+.youtube {background-color:#dd4b39;
+          color:white;}
+
+.rss {background-color:#f26522;
+      color:white;
+
+}
+
+
+
+
+
+
+menu{
+    background-color: #F1C40F;
+}
+.contBody{
+    background-color: #ffffff;
+
+}
+.LSide{
+    background-color: #fff;
+    height: auto;
+    margin: 0px;
+    padding: 0px;
+}
+.RSide{
+    background-color: #fff;
+    height: auto;
+    margin: 0px;
+    padding: 0px;
+}
+.footer1{
+    background-color: #F1C40F;
+    text-align: center;
+}
+h1{
+
+}
+
+#LeftRightMenuTab
+{
+    width:100%; 
+    height:auto; 
+    border:solid 1px #ccc;
+    padding-bottom:4px;
+    background:#fff; 
+    margin-bottom: 4px;
+}
+#LeftRightMenuTab h5
+{
+    background:#1993BC; 
+    height:30px; 
+    color:#FFF;
+    text-align:center; 
+    padding-top:8px; 
+    margin-top:-3px; 
+    font-weight:bold;
+}
+
+/*admin*/
+
+.adminheading{
+    background-color: #b9def0;
+    padding: 10px;
+}
+
+/*menu top*/
+.topnav {
+    overflow: visible;
+    background-color: white;
+    font-weight: bold;
+
+}
+
+.topnav a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+
+
+
+}
+
+.topnav .active {
+    background-color: #129FEA;
+    color: white;
+}
+
+.topnav .icon {
+    display: none;
+}
+
+.dropdown {
+    float: left;
+    overflow: visible;
+}
+
+.dropdown .dropbtn {
+
+    border: none;
+    outline: none;
+    color: black;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f2f2f2;
+    min-width: max-content;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 10;
+
+}
+
+.dropdown-content a {
+    float: none;
+    color: black;
+
+    text-decoration: none;
+    display: block;
+    text-align: left;
+    border-bottom: 1px solid #555;
+
+}
+
+.topnav a:hover, .dropdown:hover .dropbtn {
+    background-color: #555;
+    color: white;
+
+}
+
+.dropdown-content a:hover {
+    background-color: #fff;
+    color: black; 
+    font-weight: bold;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+@media screen and (max-width: 600px) {
+    .topnav a:not(:first-child), .dropdown .dropbtn {
+        display: none;
+    }
+    .topnav a.icon {
+        float: right;
+        display: block;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .topnav.responsivebod {position: relative;}
+    .topnav.responsive .icon {
+        position: absolute;
+        right: 0;
+        top: 0;
+    }
+    .topnav.responsive a {
+        float: none;
+        display: block;
+        text-align: left;
+    }
+    .topnav.responsive .dropdown {float: none;}
+    .topnav.responsive .dropdown-content {position: relative;}
+    .topnav.responsive .dropdown .dropbtn {
+        display: block;
+        width: 100%;
+        text-align: left;
+    }
+}
+
+/*Left menu*/
+

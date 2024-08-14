@@ -1,0 +1,18 @@
+ERROR - 2023-05-07 00:09:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-07 00:09:34 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-05-07 01:38:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-07 01:38:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-07 01:38:48 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-05-07 01:38:49 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-05-07 02:08:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-07 02:08:46 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-05-07 14:06:13 --> 404 Page Not Found: Webview/dist
+ERROR - 2023-05-07 14:06:21 --> 404 Page Not Found: Webview/dist
+ERROR - 2023-05-07 14:30:41 --> 404 Page Not Found: Webview/dist
+ERROR - 2023-05-07 14:43:45 --> 404 Page Not Found: Webview/dist
+ERROR - 2023-05-07 15:28:52 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/bcc/system/libraries/Session/drivers/Session_files_driver.php:212) /home/expresstechbd/public_html/bcc/system/core/Common.php 570
+ERROR - 2023-05-07 15:28:52 --> Severity: Error --> Maximum execution time of 300 seconds exceeded /home/expresstechbd/public_html/bcc/system/libraries/Session/drivers/Session_files_driver.php 212
+ERROR - 2023-05-07 15:28:52 --> Severity: Warning --> Unknown: Cannot call session save handler in a recursive manner Unknown 0
+ERROR - 2023-05-07 15:28:52 --> Severity: Warning --> Unknown: Failed to write session data using user defined save handler. (session.save_path: /var/cpanel/php/sessions/ea-php73) Unknown 0
+ERROR - 2023-05-07 16:03:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-07 19:30:07 --> 404 Page Not Found: Robotstxt/index

@@ -1,0 +1,43 @@
+ERROR - 2024-01-30 01:12:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-30 01:32:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-30 02:14:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-30 02:14:32 --> 404 Page Not Found: Sitemap/index
+ERROR - 2024-01-30 02:14:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-30 02:14:44 --> 404 Page Not Found: Sitemap/index
+ERROR - 2024-01-30 02:14:56 --> 404 Page Not Found: Sitemaptxt/index
+ERROR - 2024-01-30 02:15:08 --> 404 Page Not Found: Sitemaptxt/index
+ERROR - 2024-01-30 02:26:18 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-01-30 05:20:25 --> 404 Page Not Found: Wp_loginphp/index
+ERROR - 2024-01-30 05:28:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-30 05:28:19 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-01-30 05:28:19 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-01-30 05:28:19 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-01-30 05:28:19 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-01-30 05:28:19 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-01-30 05:28:19 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-01-30 05:41:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-30 08:56:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-30 08:56:23 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-01-30 09:50:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-30 09:56:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-30 09:56:13 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-01-30 12:21:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-30 12:21:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-30 13:38:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-30 13:49:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-30 13:51:16 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2024-01-30 13:51:18 --> 404 Page Not Found: Wp_cronphp/index
+ERROR - 2024-01-30 13:57:10 --> 404 Page Not Found: AdmissionReg/index
+ERROR - 2024-01-30 14:11:16 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-01-30 14:11:16 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-01-30 14:11:16 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-01-30 14:11:16 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-01-30 14:11:16 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-01-30 14:11:16 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-01-30 14:28:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-30 17:08:41 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-01-30 17:08:46 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-01-30 17:08:54 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-01-30 20:16:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-30 23:23:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-30 23:26:32 --> 404 Page Not Found: Adstxt/index

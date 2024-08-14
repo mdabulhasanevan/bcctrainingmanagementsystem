@@ -1,0 +1,40 @@
+ERROR - 2024-05-04 01:59:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-04 03:10:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-04 05:04:58 --> Query error: Unknown column 'link' in 'where clause' - Invalid query: SELECT * FROM breakingnews WHERE BrId=link order by BrId DESC limit 10
+ERROR - 2024-05-04 05:04:58 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/News_model.php 52
+ERROR - 2024-05-04 07:18:47 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-05-04 07:18:47 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-05-04 09:50:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-04 10:19:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-04 10:52:04 --> 404 Page Not Found: Sql/phpMyAdmin2
+ERROR - 2024-05-04 10:52:06 --> 404 Page Not Found: PhpMyAdmin_3/index.php
+ERROR - 2024-05-04 10:52:22 --> 404 Page Not Found: Administrator/pma
+ERROR - 2024-05-04 10:52:27 --> 404 Page Not Found: Php_my_admin/index.php
+ERROR - 2024-05-04 10:52:28 --> 404 Page Not Found: Db/dbweb
+ERROR - 2024-05-04 10:52:34 --> 404 Page Not Found: Sql/php_myadmin
+ERROR - 2024-05-04 10:52:39 --> 404 Page Not Found: Admin/sysadmin
+ERROR - 2024-05-04 10:52:55 --> 404 Page Not Found: Sql/sqladmin
+ERROR - 2024-05-04 10:53:01 --> 404 Page Not Found: Mysql/web
+ERROR - 2024-05-04 10:53:56 --> 404 Page Not Found: Admin/sqladmin
+ERROR - 2024-05-04 10:54:07 --> 404 Page Not Found: PhpMyAdmin/index.php
+ERROR - 2024-05-04 11:42:59 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-04 11:43:03 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-05-04 11:58:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-04 11:58:55 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-05-04 11:58:55 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-05-04 11:58:55 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-05-04 11:58:55 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-05-04 11:58:55 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-05-04 11:58:55 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-05-04 12:19:02 --> 404 Page Not Found: Webview/dist
+ERROR - 2024-05-04 15:36:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-04 15:36:19 --> Query error: Unknown column 'link' in 'where clause' - Invalid query: SELECT * FROM breakingnews WHERE BrId=link order by BrId DESC limit 10
+ERROR - 2024-05-04 15:36:19 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/News_model.php 52
+ERROR - 2024-05-04 16:42:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-04 22:18:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-04 22:19:02 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-05-04 23:18:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-04 23:18:58 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-05-04 23:47:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-04 23:51:06 --> Query error: Unknown column 'link' in 'where clause' - Invalid query: SELECT * FROM breakingnews WHERE BrId=link order by BrId DESC limit 10
+ERROR - 2024-05-04 23:51:07 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/News_model.php 52

@@ -1,0 +1,4 @@
+[12-Nov-2023 11:18:47 UTC] PHP Fatal error:  Uncaught Error: Class 'vfsStream' not found in /home/expresstechbd/public_html/AllTrainingManagement/bcc/tests/Bootstrap.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/expresstechbd/public_html/AllTrainingManagement/bcc/tests/Bootstrap.php on line 31

@@ -1,0 +1,20 @@
+ERROR - 2023-07-25 00:53:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-25 01:04:11 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-07-25 01:23:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-25 01:24:49 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-07-25 02:04:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-25 02:04:18 --> Severity: error --> Exception: Too few arguments to function Home::NoticeOpen(), 0 passed in /home/expresstechbd/public_html/bcc/system/core/CodeIgniter.php on line 532 and exactly 1 expected /home/expresstechbd/public_html/bcc/application/controllers/Home.php 78
+ERROR - 2023-07-25 05:13:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-25 06:41:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-25 09:32:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-25 09:43:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-25 10:24:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-25 12:29:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-25 12:43:40 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-07-25 12:43:46 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-07-25 16:01:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-25 22:16:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-25 23:23:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-25 23:23:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-07-25 23:24:48 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-07-25 23:24:50 --> 404 Page Not Found: Adstxt/index

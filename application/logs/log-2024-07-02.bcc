@@ -1,0 +1,36 @@
+ERROR - 2024-07-02 05:06:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-02 05:06:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-02 05:18:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-02 06:01:05 --> Severity: Notice --> Trying to get property 'Headline' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 9
+ERROR - 2024-07-02 06:01:05 --> Severity: Notice --> Trying to get property 'Date' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 10
+ERROR - 2024-07-02 06:01:05 --> Severity: Notice --> Trying to get property 'Detail' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 12
+ERROR - 2024-07-02 06:12:00 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-07-02 06:12:00 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-07-02 06:12:00 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-07-02 06:12:00 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-07-02 06:12:00 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-07-02 06:12:00 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-07-02 06:39:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-02 07:25:50 --> Severity: Notice --> Trying to get property 'Headline' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 9
+ERROR - 2024-07-02 07:25:50 --> Severity: Notice --> Trying to get property 'Date' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 10
+ERROR - 2024-07-02 07:25:50 --> Severity: Notice --> Trying to get property 'Detail' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 12
+ERROR - 2024-07-02 07:46:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-02 08:41:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-02 08:41:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-02 08:42:01 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-07-02 08:42:02 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-07-02 09:21:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-02 10:53:38 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-07-02 11:02:59 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-07-02 11:12:10 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-07-02 11:12:12 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-07-02 14:11:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-02 15:17:10 --> Severity: Notice --> Trying to get property 'Headline' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/WebView/NoticeOpen.php 25
+ERROR - 2024-07-02 15:17:10 --> Severity: Notice --> Trying to get property 'Date' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/WebView/NoticeOpen.php 26
+ERROR - 2024-07-02 15:17:10 --> Severity: Notice --> Trying to get property 'Detail' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/WebView/NoticeOpen.php 28
+ERROR - 2024-07-02 21:30:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-02 22:14:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-02 22:19:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-02 22:39:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-02 22:59:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-02 23:09:58 --> 404 Page Not Found: Robotstxt/index

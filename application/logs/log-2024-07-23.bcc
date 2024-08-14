@@ -1,0 +1,23 @@
+ERROR - 2024-07-23 00:49:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-23 00:49:52 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-07-23 00:49:52 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-07-23 02:52:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-23 02:52:02 --> Severity: Notice --> Trying to get property 'Headline' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 9
+ERROR - 2024-07-23 02:52:02 --> Severity: Notice --> Trying to get property 'Date' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 10
+ERROR - 2024-07-23 02:52:02 --> Severity: Notice --> Trying to get property 'Detail' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 12
+ERROR - 2024-07-23 04:25:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-23 04:25:42 --> Severity: Notice --> Trying to get property 'Headline' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 9
+ERROR - 2024-07-23 04:25:42 --> Severity: Notice --> Trying to get property 'Date' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 10
+ERROR - 2024-07-23 04:25:42 --> Severity: Notice --> Trying to get property 'Detail' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 12
+ERROR - 2024-07-23 05:19:56 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-07-23 05:19:56 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-07-23 05:30:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-23 05:53:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-23 08:40:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-23 08:44:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-23 08:52:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-23 10:11:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-23 13:50:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-23 14:12:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-23 15:42:12 --> 404 Page Not Found: E/data
+ERROR - 2024-07-23 20:18:08 --> 404 Page Not Found: Robotstxt/index

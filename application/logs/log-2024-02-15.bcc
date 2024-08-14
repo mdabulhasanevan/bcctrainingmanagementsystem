@@ -1,0 +1,83 @@
+ERROR - 2024-02-15 02:47:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-15 03:13:21 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-02-15 03:13:21 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-02-15 03:13:21 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-02-15 03:13:21 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-02-15 03:13:21 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-02-15 03:13:21 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-02-15 03:13:44 --> 404 Page Not Found: Home/images
+ERROR - 2024-02-15 03:17:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-15 04:20:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-15 05:00:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-15 05:03:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-15 05:03:33 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-02-15 05:14:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-15 05:14:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-15 05:33:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-15 05:33:36 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-02-15 10:41:11 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-02-15 10:41:15 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-02-15 14:59:42 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2024-02-15 14:59:42 --> Unable to connect to the database
+ERROR - 2024-02-15 14:59:42 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/Session.php 282
+ERROR - 2024-02-15 14:59:42 --> Severity: Warning --> session_set_cookie_params(): Cannot change session cookie parameters when headers already sent /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/Session.php 294
+ERROR - 2024-02-15 14:59:42 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/Session.php 304
+ERROR - 2024-02-15 14:59:42 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/Session.php 314
+ERROR - 2024-02-15 14:59:42 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/Session.php 315
+ERROR - 2024-02-15 14:59:42 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/Session.php 316
+ERROR - 2024-02-15 14:59:42 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/Session.php 317
+ERROR - 2024-02-15 14:59:42 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/Session.php 375
+ERROR - 2024-02-15 14:59:42 --> Severity: Warning --> session_set_save_handler(): Cannot change save handler when headers already sent /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/Session.php 110
+ERROR - 2024-02-15 14:59:42 --> Severity: Warning --> session_start(): Cannot start session when headers already sent /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/Session.php 143
+ERROR - 2024-02-15 14:59:42 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2024-02-15 14:59:42 --> Unable to connect to the database
+ERROR - 2024-02-15 14:59:42 --> Query error: Connection refused - Invalid query: SELECT COUNT(*) AS `numrows`
+FROM `student`
+ERROR - 2024-02-15 14:59:42 --> Severity: error --> Exception: Call to a member function num_rows() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/database/DB_query_builder.php 1429
+ERROR - 2024-02-15 14:59:42 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-02-15 14:59:47 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2024-02-15 14:59:47 --> Unable to connect to the database
+ERROR - 2024-02-15 14:59:47 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/Session.php 282
+ERROR - 2024-02-15 14:59:47 --> Severity: Warning --> session_set_cookie_params(): Cannot change session cookie parameters when headers already sent /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/Session.php 294
+ERROR - 2024-02-15 14:59:47 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/Session.php 304
+ERROR - 2024-02-15 14:59:47 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/Session.php 314
+ERROR - 2024-02-15 14:59:47 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/Session.php 315
+ERROR - 2024-02-15 14:59:47 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/Session.php 316
+ERROR - 2024-02-15 14:59:47 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/Session.php 317
+ERROR - 2024-02-15 14:59:47 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/Session.php 375
+ERROR - 2024-02-15 14:59:47 --> Severity: Warning --> session_set_save_handler(): Cannot change save handler when headers already sent /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/Session.php 110
+ERROR - 2024-02-15 14:59:47 --> Severity: Warning --> session_start(): Cannot start session when headers already sent /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/Session.php 143
+ERROR - 2024-02-15 14:59:47 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2024-02-15 14:59:47 --> Unable to connect to the database
+ERROR - 2024-02-15 14:59:47 --> Query error: Connection refused - Invalid query: SELECT COUNT(*) AS `numrows`
+FROM `student`
+ERROR - 2024-02-15 14:59:47 --> Severity: error --> Exception: Call to a member function num_rows() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/database/DB_query_builder.php 1429
+ERROR - 2024-02-15 14:59:47 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-02-15 14:59:48 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2024-02-15 14:59:48 --> Unable to connect to the database
+ERROR - 2024-02-15 14:59:48 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/Session.php 282
+ERROR - 2024-02-15 14:59:48 --> Severity: Warning --> session_set_cookie_params(): Cannot change session cookie parameters when headers already sent /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/Session.php 294
+ERROR - 2024-02-15 14:59:48 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/Session.php 304
+ERROR - 2024-02-15 14:59:48 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/Session.php 314
+ERROR - 2024-02-15 14:59:48 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/Session.php 315
+ERROR - 2024-02-15 14:59:48 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/Session.php 316
+ERROR - 2024-02-15 14:59:48 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/Session.php 317
+ERROR - 2024-02-15 14:59:48 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/Session.php 375
+ERROR - 2024-02-15 14:59:48 --> Severity: Warning --> session_set_save_handler(): Cannot change save handler when headers already sent /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/Session.php 110
+ERROR - 2024-02-15 14:59:48 --> Severity: Warning --> session_start(): Cannot start session when headers already sent /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/Session.php 143
+ERROR - 2024-02-15 14:59:48 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2024-02-15 14:59:48 --> Unable to connect to the database
+ERROR - 2024-02-15 14:59:48 --> Query error: Connection refused - Invalid query: SELECT COUNT(*) AS `numrows`
+FROM `student`
+ERROR - 2024-02-15 14:59:48 --> Severity: error --> Exception: Call to a member function num_rows() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/database/DB_query_builder.php 1429
+ERROR - 2024-02-15 14:59:48 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-02-15 16:53:39 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-02-15 17:03:35 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-02-15 17:16:21 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-02-15 17:16:30 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-02-15 17:16:53 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-02-15 17:43:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-15 18:41:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-15 18:41:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-15 20:32:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-15 20:33:42 --> 404 Page Not Found: Adstxt/index

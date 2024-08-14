@@ -1,0 +1,247 @@
+ERROR - 2023-11-21 00:06:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-21 00:55:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-21 02:03:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-21 02:04:01 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-11-21 02:26:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-21 03:20:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-21 03:57:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-21 04:03:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-21 04:03:59 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-11-21 04:34:27 --> 404 Page Not Found: Wp_loginphp/index
+ERROR - 2023-11-21 06:25:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-21 08:07:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-21 08:07:39 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2023-11-21 08:32:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-21 08:32:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-21 09:51:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-21 09:51:57 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-11-21 09:51:57 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-11-21 09:51:57 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-11-21 09:51:57 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-11-21 09:51:57 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-11-21 09:51:57 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-11-21 10:43:56 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 422
+ERROR - 2023-11-21 10:43:57 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 422
+ERROR - 2023-11-21 10:44:02 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 422
+ERROR - 2023-11-21 10:44:02 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 422
+ERROR - 2023-11-21 10:44:03 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 422
+ERROR - 2023-11-21 10:44:03 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 422
+ERROR - 2023-11-21 10:44:03 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 422
+ERROR - 2023-11-21 10:44:03 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 422
+ERROR - 2023-11-21 10:44:04 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 422
+ERROR - 2023-11-21 10:44:04 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 422
+ERROR - 2023-11-21 10:44:04 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 422
+ERROR - 2023-11-21 10:44:04 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 422
+ERROR - 2023-11-21 10:47:54 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 422
+ERROR - 2023-11-21 10:47:55 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 422
+ERROR - 2023-11-21 10:47:55 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 422
+ERROR - 2023-11-21 10:47:56 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 422
+ERROR - 2023-11-21 10:47:56 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 422
+ERROR - 2023-11-21 10:47:57 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 422
+ERROR - 2023-11-21 10:47:57 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 422
+ERROR - 2023-11-21 10:48:00 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 422
+ERROR - 2023-11-21 10:48:01 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 422
+ERROR - 2023-11-21 10:48:02 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 422
+ERROR - 2023-11-21 10:48:02 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 422
+ERROR - 2023-11-21 10:48:02 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 422
+ERROR - 2023-11-21 10:53:59 --> Severity: Notice --> Undefined property: stdClass::$Description /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 73
+ERROR - 2023-11-21 10:53:59 --> Severity: Notice --> Undefined property: stdClass::$Link /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 74
+ERROR - 2023-11-21 10:53:59 --> Query error: Column 'Description' cannot be null - Invalid query: INSERT INTO `question` (`Question`, `QuestionType`, `QuestionSubject`, `Description`, `Link`) VALUES ('গ্রাফিক্স ডিজাইন হচ্ছে-', '2', '21', NULL, NULL)
+ERROR - 2023-11-21 10:55:28 --> Severity: Notice --> Undefined property: stdClass::$Description /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 73
+ERROR - 2023-11-21 10:55:28 --> Severity: Notice --> Undefined property: stdClass::$Link /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 74
+ERROR - 2023-11-21 10:55:28 --> Query error: Column 'Description' cannot be null - Invalid query: INSERT INTO `question` (`Question`, `QuestionType`, `QuestionSubject`, `Description`, `Link`) VALUES ('নিম্নের কোনটি গ্রাফিক্স সফটওয়্যার?', '2', '21', NULL, NULL)
+ERROR - 2023-11-21 10:58:37 --> Severity: Notice --> Undefined property: stdClass::$Description /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 73
+ERROR - 2023-11-21 10:58:37 --> Severity: Notice --> Undefined property: stdClass::$Link /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 74
+ERROR - 2023-11-21 10:58:37 --> Query error: Column 'Description' cannot be null - Invalid query: INSERT INTO `question` (`Question`, `QuestionType`, `QuestionSubject`, `Description`, `Link`) VALUES ('নিম্নের কোনটি পার্সপোর্ট সাইজ ফটোর পরিমাপ?', '2', '21', NULL, NULL)
+ERROR - 2023-11-21 11:02:04 --> Severity: Notice --> Undefined property: stdClass::$Description /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 73
+ERROR - 2023-11-21 11:02:04 --> Severity: Notice --> Undefined property: stdClass::$Link /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 74
+ERROR - 2023-11-21 11:02:04 --> Query error: Column 'Description' cannot be null - Invalid query: INSERT INTO `question` (`Question`, `QuestionType`, `QuestionSubject`, `Description`, `Link`) VALUES ('Jpeg ফরম্যাটে কোন ছবি সংরক্ষন করলে কি হয় ?', '2', '21', NULL, NULL)
+ERROR - 2023-11-21 11:03:58 --> Severity: Notice --> Undefined property: stdClass::$Description /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 73
+ERROR - 2023-11-21 11:03:58 --> Severity: Notice --> Undefined property: stdClass::$Link /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 74
+ERROR - 2023-11-21 11:03:58 --> Query error: Column 'Description' cannot be null - Invalid query: INSERT INTO `question` (`Question`, `QuestionType`, `QuestionSubject`, `Description`, `Link`) VALUES ('PNG ফরমেট ছবি সংরক্ষন করলে কি ঘটে ?', '2', '21', NULL, NULL)
+ERROR - 2023-11-21 11:06:03 --> Severity: Notice --> Undefined property: stdClass::$Description /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 73
+ERROR - 2023-11-21 11:06:03 --> Severity: Notice --> Undefined property: stdClass::$Link /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 74
+ERROR - 2023-11-21 11:06:03 --> Query error: Column 'Description' cannot be null - Invalid query: INSERT INTO `question` (`Question`, `QuestionType`, `QuestionSubject`, `Description`, `Link`) VALUES ('A4 সাইজ পেপারের পরিমাপ কত?', '2', '21', NULL, NULL)
+ERROR - 2023-11-21 11:07:06 --> Severity: Notice --> Undefined property: stdClass::$Description /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 73
+ERROR - 2023-11-21 11:07:06 --> Severity: Notice --> Undefined property: stdClass::$Link /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 74
+ERROR - 2023-11-21 11:07:06 --> Query error: Column 'Description' cannot be null - Invalid query: INSERT INTO `question` (`Question`, `QuestionType`, `QuestionSubject`, `Description`, `Link`) VALUES ('Paper Orientation কত ধরনের?', '2', '21', NULL, NULL)
+ERROR - 2023-11-21 11:08:07 --> Severity: Notice --> Undefined property: stdClass::$Description /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 73
+ERROR - 2023-11-21 11:08:07 --> Severity: Notice --> Undefined property: stdClass::$Link /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 74
+ERROR - 2023-11-21 11:08:07 --> Query error: Column 'Description' cannot be null - Invalid query: INSERT INTO `question` (`Question`, `QuestionType`, `QuestionSubject`, `Description`, `Link`) VALUES ('RGB এর পূর্ণরূপ কি ?', '2', '21', NULL, NULL)
+ERROR - 2023-11-21 11:17:09 --> Severity: Notice --> Undefined property: stdClass::$Description /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 73
+ERROR - 2023-11-21 11:17:09 --> Severity: Notice --> Undefined property: stdClass::$Link /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 74
+ERROR - 2023-11-21 11:17:09 --> Query error: Column 'Description' cannot be null - Invalid query: INSERT INTO `question` (`Question`, `QuestionType`, `QuestionSubject`, `Description`, `Link`) VALUES ('CMYK এর পূর্ণরূপ কি?', '2', '21', NULL, NULL)
+ERROR - 2023-11-21 11:17:09 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 - Invalid query: Insert into mcqandans(MCQ,QId,Answer)values('Sayan, Magenda,Yellow, Black',0,)
+ERROR - 2023-11-21 11:18:29 --> Severity: Notice --> Undefined property: stdClass::$Description /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 73
+ERROR - 2023-11-21 11:18:29 --> Severity: Notice --> Undefined property: stdClass::$Link /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 74
+ERROR - 2023-11-21 11:18:29 --> Query error: Column 'Description' cannot be null - Invalid query: INSERT INTO `question` (`Question`, `QuestionType`, `QuestionSubject`, `Description`, `Link`) VALUES ('গ্রাফিক্স ডিজাইন পেইজটির নাম কি?', '2', '21', NULL, NULL)
+ERROR - 2023-11-21 11:19:59 --> Severity: Notice --> Undefined property: stdClass::$Description /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 73
+ERROR - 2023-11-21 11:19:59 --> Severity: Notice --> Undefined property: stdClass::$Link /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 74
+ERROR - 2023-11-21 11:19:59 --> Query error: Column 'Description' cannot be null - Invalid query: INSERT INTO `question` (`Question`, `QuestionType`, `QuestionSubject`, `Description`, `Link`) VALUES ('কোন ম্যানুর ভিতর গ্রাফিক্সের জন্য বিভিন্ন Plate থাকে ?', '2', '21', NULL, NULL)
+ERROR - 2023-11-21 11:21:36 --> Severity: Notice --> Undefined property: stdClass::$Description /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 73
+ERROR - 2023-11-21 11:21:36 --> Severity: Notice --> Undefined property: stdClass::$Link /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 74
+ERROR - 2023-11-21 11:21:36 --> Query error: Column 'Description' cannot be null - Invalid query: INSERT INTO `question` (`Question`, `QuestionType`, `QuestionSubject`, `Description`, `Link`) VALUES ('নতুন আর্টবোর্ডের সর্টকাট কী-', '2', '21', NULL, NULL)
+ERROR - 2023-11-21 11:24:15 --> Severity: Notice --> Undefined property: stdClass::$Description /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 73
+ERROR - 2023-11-21 11:24:15 --> Severity: Notice --> Undefined property: stdClass::$Link /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 74
+ERROR - 2023-11-21 11:24:15 --> Query error: Column 'Description' cannot be null - Invalid query: INSERT INTO `question` (`Question`, `QuestionType`, `QuestionSubject`, `Description`, `Link`) VALUES ('কোন টুল ব্যবহার করে ছবি এক জায়গা থেকে অন্য জায়গায় স্থানান্তর করা যায়?', '2', '21', NULL, NULL)
+ERROR - 2023-11-21 11:25:45 --> Severity: Notice --> Undefined property: stdClass::$Description /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 73
+ERROR - 2023-11-21 11:25:45 --> Severity: Notice --> Undefined property: stdClass::$Link /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 74
+ERROR - 2023-11-21 11:25:45 --> Query error: Column 'Description' cannot be null - Invalid query: INSERT INTO `question` (`Question`, `QuestionType`, `QuestionSubject`, `Description`, `Link`) VALUES ('গ্রাফিক্সের ক্ষেত্রে Layer কি  ?', '2', '21', NULL, NULL)
+ERROR - 2023-11-21 11:27:31 --> Severity: Notice --> Undefined property: stdClass::$Description /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 73
+ERROR - 2023-11-21 11:27:31 --> Severity: Notice --> Undefined property: stdClass::$Link /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 74
+ERROR - 2023-11-21 11:27:31 --> Query error: Column 'Description' cannot be null - Invalid query: INSERT INTO `question` (`Question`, `QuestionType`, `QuestionSubject`, `Description`, `Link`) VALUES ('Feather এর কাজ কি?', '2', '21', NULL, NULL)
+ERROR - 2023-11-21 11:33:13 --> Severity: Notice --> Undefined property: stdClass::$Description /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 73
+ERROR - 2023-11-21 11:33:13 --> Severity: Notice --> Undefined property: stdClass::$Link /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 74
+ERROR - 2023-11-21 11:33:13 --> Query error: Column 'Description' cannot be null - Invalid query: INSERT INTO `question` (`Question`, `QuestionType`, `QuestionSubject`, `Description`, `Link`) VALUES ('Deselect এর শর্ট কাট কি?', '2', '21', NULL, NULL)
+ERROR - 2023-11-21 11:35:21 --> Severity: Notice --> Undefined property: stdClass::$Description /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 73
+ERROR - 2023-11-21 11:35:21 --> Severity: Notice --> Undefined property: stdClass::$Link /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 74
+ERROR - 2023-11-21 11:35:21 --> Query error: Column 'Description' cannot be null - Invalid query: INSERT INTO `question` (`Question`, `QuestionType`, `QuestionSubject`, `Description`, `Link`) VALUES ('Burn Tool এর কাজ কি?', '2', '21', NULL, NULL)
+ERROR - 2023-11-21 11:38:51 --> Severity: Notice --> Undefined property: stdClass::$Description /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 73
+ERROR - 2023-11-21 11:38:51 --> Severity: Notice --> Undefined property: stdClass::$Link /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 74
+ERROR - 2023-11-21 11:38:51 --> Query error: Column 'Description' cannot be null - Invalid query: INSERT INTO `question` (`Question`, `QuestionType`, `QuestionSubject`, `Description`, `Link`) VALUES ('Clone Stamp Tool এর কাজ কি?', '2', '21', NULL, NULL)
+ERROR - 2023-11-21 11:41:10 --> Severity: Notice --> Undefined property: stdClass::$Description /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 73
+ERROR - 2023-11-21 11:41:10 --> Severity: Notice --> Undefined property: stdClass::$Link /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 74
+ERROR - 2023-11-21 11:41:10 --> Query error: Column 'Description' cannot be null - Invalid query: INSERT INTO `question` (`Question`, `QuestionType`, `QuestionSubject`, `Description`, `Link`) VALUES ('Pen Tool এর ব্যবহার কোনটি?', '2', '21', NULL, NULL)
+ERROR - 2023-11-21 11:45:08 --> Severity: Notice --> Undefined property: stdClass::$Description /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 73
+ERROR - 2023-11-21 11:45:08 --> Severity: Notice --> Undefined property: stdClass::$Link /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 74
+ERROR - 2023-11-21 11:45:08 --> Query error: Column 'Description' cannot be null - Invalid query: INSERT INTO `question` (`Question`, `QuestionType`, `QuestionSubject`, `Description`, `Link`) VALUES ('Anchor Point Add করা হয় কেন?', '2', '21', NULL, NULL)
+ERROR - 2023-11-21 11:47:17 --> Severity: Notice --> Undefined property: stdClass::$Description /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 73
+ERROR - 2023-11-21 11:47:17 --> Severity: Notice --> Undefined property: stdClass::$Link /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 74
+ERROR - 2023-11-21 11:47:17 --> Query error: Column 'Description' cannot be null - Invalid query: INSERT INTO `question` (`Question`, `QuestionType`, `QuestionSubject`, `Description`, `Link`) VALUES ('Hand Tool এর কাজ কি?', '2', '21', NULL, NULL)
+ERROR - 2023-11-21 11:49:23 --> Severity: Notice --> Undefined property: stdClass::$Description /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 73
+ERROR - 2023-11-21 11:49:23 --> Severity: Notice --> Undefined property: stdClass::$Link /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 74
+ERROR - 2023-11-21 11:49:23 --> Query error: Column 'Description' cannot be null - Invalid query: INSERT INTO `question` (`Question`, `QuestionType`, `QuestionSubject`, `Description`, `Link`) VALUES ('Zoom In এর শর্ট কট কি?', '2', '21', NULL, NULL)
+ERROR - 2023-11-21 11:49:23 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 - Invalid query: Insert into mcqandans(MCQ,QId,Answer)values('Ctrl%',0,)
+ERROR - 2023-11-21 11:50:29 --> Severity: Notice --> Undefined property: stdClass::$Description /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 73
+ERROR - 2023-11-21 11:50:29 --> Severity: Notice --> Undefined property: stdClass::$Link /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 74
+ERROR - 2023-11-21 11:50:29 --> Query error: Column 'Description' cannot be null - Invalid query: INSERT INTO `question` (`Question`, `QuestionType`, `QuestionSubject`, `Description`, `Link`) VALUES ('Zoom Out এর শর্ট কাট কি?', '2', '21', NULL, NULL)
+ERROR - 2023-11-21 11:52:55 --> Severity: Notice --> Undefined property: stdClass::$Description /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 73
+ERROR - 2023-11-21 11:52:55 --> Severity: Notice --> Undefined property: stdClass::$Link /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 74
+ERROR - 2023-11-21 11:52:55 --> Query error: Column 'Description' cannot be null - Invalid query: INSERT INTO `question` (`Question`, `QuestionType`, `QuestionSubject`, `Description`, `Link`) VALUES ('Zoom কোন মেনুতে থাকে?', '2', '21', NULL, NULL)
+ERROR - 2023-11-21 11:59:43 --> Severity: Notice --> Undefined property: stdClass::$Description /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 73
+ERROR - 2023-11-21 11:59:43 --> Severity: Notice --> Undefined property: stdClass::$Link /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 74
+ERROR - 2023-11-21 11:59:43 --> Query error: Column 'Description' cannot be null - Invalid query: INSERT INTO `question` (`Question`, `QuestionType`, `QuestionSubject`, `Description`, `Link`) VALUES ('Fill Colour হল -', '2', '21', NULL, NULL)
+ERROR - 2023-11-21 12:01:24 --> Severity: Notice --> Undefined property: stdClass::$Description /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 73
+ERROR - 2023-11-21 12:01:24 --> Severity: Notice --> Undefined property: stdClass::$Link /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 74
+ERROR - 2023-11-21 12:01:24 --> Query error: Column 'Description' cannot be null - Invalid query: INSERT INTO `question` (`Question`, `QuestionType`, `QuestionSubject`, `Description`, `Link`) VALUES ('PhotoShop এ Background Colour শর্ট কাট কোনটি?', '2', '21', NULL, NULL)
+ERROR - 2023-11-21 12:04:03 --> Severity: Notice --> Undefined property: stdClass::$Description /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 73
+ERROR - 2023-11-21 12:04:03 --> Severity: Notice --> Undefined property: stdClass::$Link /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 74
+ERROR - 2023-11-21 12:04:03 --> Query error: Column 'Description' cannot be null - Invalid query: INSERT INTO `question` (`Question`, `QuestionType`, `QuestionSubject`, `Description`, `Link`) VALUES ('Eye Dropper Tool এর কাজ কি?', '2', '21', NULL, NULL)
+ERROR - 2023-11-21 12:06:17 --> Severity: Notice --> Undefined property: stdClass::$Description /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 73
+ERROR - 2023-11-21 12:06:17 --> Severity: Notice --> Undefined property: stdClass::$Link /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 74
+ERROR - 2023-11-21 12:06:17 --> Query error: Column 'Description' cannot be null - Invalid query: INSERT INTO `question` (`Question`, `QuestionType`, `QuestionSubject`, `Description`, `Link`) VALUES ('Patch Tool এর কাজ কি?', '2', '21', NULL, NULL)
+ERROR - 2023-11-21 12:08:19 --> Severity: Notice --> Undefined property: stdClass::$Description /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 73
+ERROR - 2023-11-21 12:08:19 --> Severity: Notice --> Undefined property: stdClass::$Link /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 74
+ERROR - 2023-11-21 12:08:19 --> Query error: Column 'Description' cannot be null - Invalid query: INSERT INTO `question` (`Question`, `QuestionType`, `QuestionSubject`, `Description`, `Link`) VALUES ('Curve দিয়ে ছবি কি করা হয়', '2', '21', NULL, NULL)
+ERROR - 2023-11-21 12:09:40 --> Severity: Notice --> Undefined property: stdClass::$Description /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 73
+ERROR - 2023-11-21 12:09:40 --> Severity: Notice --> Undefined property: stdClass::$Link /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 74
+ERROR - 2023-11-21 12:09:40 --> Query error: Column 'Description' cannot be null - Invalid query: INSERT INTO `question` (`Question`, `QuestionType`, `QuestionSubject`, `Description`, `Link`) VALUES ('Dodge Tool এর কাজ কি?', '2', '21', NULL, NULL)
+ERROR - 2023-11-21 12:10:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-21 12:10:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-21 12:11:20 --> Severity: Notice --> Undefined property: stdClass::$Description /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 73
+ERROR - 2023-11-21 12:11:20 --> Severity: Notice --> Undefined property: stdClass::$Link /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 74
+ERROR - 2023-11-21 12:11:20 --> Query error: Column 'Description' cannot be null - Invalid query: INSERT INTO `question` (`Question`, `QuestionType`, `QuestionSubject`, `Description`, `Link`) VALUES ('Adobe Illustrator এর কাজ কি?', '2', '21', NULL, NULL)
+ERROR - 2023-11-21 12:14:11 --> Severity: Notice --> Undefined property: stdClass::$Description /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 73
+ERROR - 2023-11-21 12:14:11 --> Severity: Notice --> Undefined property: stdClass::$Link /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 74
+ERROR - 2023-11-21 12:14:11 --> Query error: Column 'Description' cannot be null - Invalid query: INSERT INTO `question` (`Question`, `QuestionType`, `QuestionSubject`, `Description`, `Link`) VALUES ('Illustrator এ কোন Object Create করার পর কোন Tool এ Click করতে হয়?', '2', '21', NULL, NULL)
+ERROR - 2023-11-21 12:17:01 --> Severity: Notice --> Undefined property: stdClass::$Description /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 73
+ERROR - 2023-11-21 12:17:01 --> Severity: Notice --> Undefined property: stdClass::$Link /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 74
+ERROR - 2023-11-21 12:17:01 --> Query error: Column 'Description' cannot be null - Invalid query: INSERT INTO `question` (`Question`, `QuestionType`, `QuestionSubject`, `Description`, `Link`) VALUES ('Offset Path এর কাজ কি?', '2', '21', NULL, NULL)
+ERROR - 2023-11-21 12:19:41 --> Severity: Notice --> Undefined property: stdClass::$Description /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 73
+ERROR - 2023-11-21 12:19:41 --> Severity: Notice --> Undefined property: stdClass::$Link /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 74
+ERROR - 2023-11-21 12:19:41 --> Query error: Column 'Description' cannot be null - Invalid query: INSERT INTO `question` (`Question`, `QuestionType`, `QuestionSubject`, `Description`, `Link`) VALUES ('Create Outline এর কাজ কি?', '2', '21', NULL, NULL)
+ERROR - 2023-11-21 12:21:13 --> Severity: Notice --> Undefined property: stdClass::$Description /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 73
+ERROR - 2023-11-21 12:21:13 --> Severity: Notice --> Undefined property: stdClass::$Link /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 74
+ERROR - 2023-11-21 12:21:13 --> Query error: Column 'Description' cannot be null - Invalid query: INSERT INTO `question` (`Question`, `QuestionType`, `QuestionSubject`, `Description`, `Link`) VALUES ('Sent To Back এর কাজ কি?', '2', '21', NULL, NULL)
+ERROR - 2023-11-21 12:23:23 --> Severity: Notice --> Undefined property: stdClass::$Description /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 73
+ERROR - 2023-11-21 12:23:23 --> Severity: Notice --> Undefined property: stdClass::$Link /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 74
+ERROR - 2023-11-21 12:23:23 --> Query error: Column 'Description' cannot be null - Invalid query: INSERT INTO `question` (`Question`, `QuestionType`, `QuestionSubject`, `Description`, `Link`) VALUES ('Gradiant Tool এর কাজ কি?', '2', '21', NULL, NULL)
+ERROR - 2023-11-21 12:23:23 --> Severity: Notice --> Undefined property: stdClass::$MCQ4 /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 83
+ERROR - 2023-11-21 12:25:02 --> Severity: Notice --> Undefined property: stdClass::$Description /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 73
+ERROR - 2023-11-21 12:25:02 --> Severity: Notice --> Undefined property: stdClass::$Link /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 74
+ERROR - 2023-11-21 12:25:02 --> Query error: Column 'Description' cannot be null - Invalid query: INSERT INTO `question` (`Question`, `QuestionType`, `QuestionSubject`, `Description`, `Link`) VALUES ('Path Finder কোন মেনুতে আছে?', '2', '21', NULL, NULL)
+ERROR - 2023-11-21 12:26:37 --> Severity: Notice --> Undefined property: stdClass::$Description /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 73
+ERROR - 2023-11-21 12:26:37 --> Severity: Notice --> Undefined property: stdClass::$Link /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 74
+ERROR - 2023-11-21 12:26:37 --> Query error: Column 'Description' cannot be null - Invalid query: INSERT INTO `question` (`Question`, `QuestionType`, `QuestionSubject`, `Description`, `Link`) VALUES ('Visiting Card Standard Size কত?', '2', '21', NULL, NULL)
+ERROR - 2023-11-21 12:30:34 --> Severity: Notice --> Undefined property: stdClass::$Description /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 73
+ERROR - 2023-11-21 12:30:34 --> Severity: Notice --> Undefined property: stdClass::$Link /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 74
+ERROR - 2023-11-21 12:30:34 --> Query error: Column 'Description' cannot be null - Invalid query: INSERT INTO `question` (`Question`, `QuestionType`, `QuestionSubject`, `Description`, `Link`) VALUES ('Edit Menu Preferences এর কাজ কি?', '2', '21', NULL, NULL)
+ERROR - 2023-11-21 12:31:50 --> Severity: Notice --> Undefined property: stdClass::$Description /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 73
+ERROR - 2023-11-21 12:31:50 --> Severity: Notice --> Undefined property: stdClass::$Link /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 74
+ERROR - 2023-11-21 12:31:50 --> Query error: Column 'Description' cannot be null - Invalid query: INSERT INTO `question` (`Question`, `QuestionType`, `QuestionSubject`, `Description`, `Link`) VALUES ('Scale Tool এর কাজ কি?', '2', '21', NULL, NULL)
+ERROR - 2023-11-21 12:34:00 --> Severity: Notice --> Undefined property: stdClass::$Description /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 73
+ERROR - 2023-11-21 12:34:00 --> Severity: Notice --> Undefined property: stdClass::$Link /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 74
+ERROR - 2023-11-21 12:34:00 --> Query error: Column 'Description' cannot be null - Invalid query: INSERT INTO `question` (`Question`, `QuestionType`, `QuestionSubject`, `Description`, `Link`) VALUES ('Transparency Plate এর কাজ কি?', '2', '21', NULL, NULL)
+ERROR - 2023-11-21 12:38:53 --> Severity: Notice --> Undefined property: stdClass::$Description /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 73
+ERROR - 2023-11-21 12:38:53 --> Severity: Notice --> Undefined property: stdClass::$Link /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 74
+ERROR - 2023-11-21 12:38:53 --> Query error: Column 'Description' cannot be null - Invalid query: INSERT INTO `question` (`Question`, `QuestionType`, `QuestionSubject`, `Description`, `Link`) VALUES ('Transform Plate এর কাজ কি?', '2', '21', NULL, NULL)
+ERROR - 2023-11-21 12:40:53 --> Severity: Notice --> Undefined property: stdClass::$Description /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 73
+ERROR - 2023-11-21 12:40:53 --> Severity: Notice --> Undefined property: stdClass::$Link /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 74
+ERROR - 2023-11-21 12:40:53 --> Query error: Column 'Description' cannot be null - Invalid query: INSERT INTO `question` (`Question`, `QuestionType`, `QuestionSubject`, `Description`, `Link`) VALUES ('Divide এর কাজ কি?', '2', '21', NULL, NULL)
+ERROR - 2023-11-21 12:42:27 --> Severity: Notice --> Undefined property: stdClass::$Description /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 73
+ERROR - 2023-11-21 12:42:27 --> Severity: Notice --> Undefined property: stdClass::$Link /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 74
+ERROR - 2023-11-21 12:42:27 --> Query error: Column 'Description' cannot be null - Invalid query: INSERT INTO `question` (`Question`, `QuestionType`, `QuestionSubject`, `Description`, `Link`) VALUES ('Blend Tool এর কাজ কি?', '2', '21', NULL, NULL)
+ERROR - 2023-11-21 12:44:00 --> Severity: Notice --> Undefined property: stdClass::$Description /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 73
+ERROR - 2023-11-21 12:44:00 --> Severity: Notice --> Undefined property: stdClass::$Link /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 74
+ERROR - 2023-11-21 12:44:00 --> Query error: Column 'Description' cannot be null - Invalid query: INSERT INTO `question` (`Question`, `QuestionType`, `QuestionSubject`, `Description`, `Link`) VALUES ('MESH Toll এর কাজ কি?', '2', '21', NULL, NULL)
+ERROR - 2023-11-21 12:45:09 --> Severity: Notice --> Undefined property: stdClass::$Description /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 73
+ERROR - 2023-11-21 12:45:09 --> Severity: Notice --> Undefined property: stdClass::$Link /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 74
+ERROR - 2023-11-21 12:45:09 --> Query error: Column 'Description' cannot be null - Invalid query: INSERT INTO `question` (`Question`, `QuestionType`, `QuestionSubject`, `Description`, `Link`) VALUES ('Character Plate এর কাজ কি?', '2', '21', NULL, NULL)
+ERROR - 2023-11-21 12:45:59 --> Severity: Notice --> Undefined property: stdClass::$Description /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 73
+ERROR - 2023-11-21 12:45:59 --> Severity: Notice --> Undefined property: stdClass::$Link /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 74
+ERROR - 2023-11-21 12:45:59 --> Query error: Column 'Description' cannot be null - Invalid query: INSERT INTO `question` (`Question`, `QuestionType`, `QuestionSubject`, `Description`, `Link`) VALUES ('Round Cap এর কাজ কি?', '2', '21', NULL, NULL)
+ERROR - 2023-11-21 12:46:51 --> Severity: Notice --> Undefined property: stdClass::$Description /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 73
+ERROR - 2023-11-21 12:46:51 --> Severity: Notice --> Undefined property: stdClass::$Link /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 74
+ERROR - 2023-11-21 12:46:51 --> Query error: Column 'Description' cannot be null - Invalid query: INSERT INTO `question` (`Question`, `QuestionType`, `QuestionSubject`, `Description`, `Link`) VALUES ('Mask করা হয় কেন?', '2', '21', NULL, NULL)
+ERROR - 2023-11-21 12:48:14 --> Severity: Notice --> Undefined property: stdClass::$Description /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 73
+ERROR - 2023-11-21 12:48:14 --> Severity: Notice --> Undefined property: stdClass::$Link /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 74
+ERROR - 2023-11-21 12:48:14 --> Query error: Column 'Description' cannot be null - Invalid query: INSERT INTO `question` (`Question`, `QuestionType`, `QuestionSubject`, `Description`, `Link`) VALUES ('Clipping Mask এর কাজ কি?', '2', '21', NULL, NULL)
+ERROR - 2023-11-21 12:50:21 --> Severity: Notice --> Undefined property: stdClass::$Description /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 73
+ERROR - 2023-11-21 12:50:21 --> Severity: Notice --> Undefined property: stdClass::$Link /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 74
+ERROR - 2023-11-21 12:50:21 --> Query error: Column 'Description' cannot be null - Invalid query: INSERT INTO `question` (`Question`, `QuestionType`, `QuestionSubject`, `Description`, `Link`) VALUES ('Illustrator এ সেভ করা ফাইল এর  extension কি?', '2', '21', NULL, NULL)
+ERROR - 2023-11-21 13:00:33 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-11-21 13:00:47 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-11-21 13:01:03 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-11-21 13:02:28 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-11-21 13:04:38 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-11-21 13:05:23 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-11-21 13:08:06 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-11-21 13:08:22 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-11-21 13:11:20 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-11-21 13:21:37 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-11-21 13:24:51 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-11-21 13:34:46 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-11-21 13:51:17 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-11-21 13:51:52 --> Severity: Notice --> Undefined property: stdClass::$Description /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 73
+ERROR - 2023-11-21 13:51:52 --> Severity: Notice --> Undefined property: stdClass::$Link /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 74
+ERROR - 2023-11-21 13:51:52 --> Query error: Column 'Description' cannot be null - Invalid query: INSERT INTO `question` (`Question`, `QuestionType`, `QuestionSubject`, `Description`, `Link`) VALUES ('dfsdfs', '2', '21', NULL, NULL)
+ERROR - 2023-11-21 13:55:03 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-11-21 13:56:13 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-11-21 13:56:30 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-11-21 13:57:55 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-11-21 13:58:20 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-11-21 14:00:30 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-11-21 14:01:58 --> Severity: Notice --> Undefined property: stdClass::$Description /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 73
+ERROR - 2023-11-21 14:01:58 --> Severity: Notice --> Undefined property: stdClass::$Link /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 74
+ERROR - 2023-11-21 14:01:58 --> Query error: Column 'Description' cannot be null - Invalid query: INSERT INTO `question` (`Question`, `QuestionType`, `QuestionSubject`, `Description`, `Link`) VALUES ('dsd', '2', '21', NULL, NULL)
+ERROR - 2023-11-21 14:08:52 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-11-21 14:56:17 --> 404 Page Not Found: Dist/js
+ERROR - 2023-11-21 15:09:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-21 15:09:32 --> Query error: Unknown column 'link' in 'where clause' - Invalid query: SELECT * FROM breakingnews WHERE BrId=link order by BrId DESC limit 10
+ERROR - 2023-11-21 15:09:32 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/News_model.php 52
+ERROR - 2023-11-21 15:37:46 --> 404 Page Not Found: StudentOpen/%7B%7BContent.Tutorials%20%7C%20trustAsResourceUrl%7D%7D
+ERROR - 2023-11-21 15:37:48 --> 404 Page Not Found: StudentOpen/index.html
+ERROR - 2023-11-21 15:56:58 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 - Invalid query: Insert into mcqandans(MCQ,QId,Answer)values('Image কে text করা',654,)
+ERROR - 2023-11-21 16:02:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-21 17:00:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-21 17:22:15 --> 404 Page Not Found: Webview/dist
+ERROR - 2023-11-21 17:23:04 --> 404 Page Not Found: Webview/dist
+ERROR - 2023-11-21 18:34:16 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-11-21 18:35:12 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-11-21 18:35:24 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-11-21 18:35:48 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-11-21 18:50:29 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-11-21 19:34:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-21 20:10:03 --> 404 Page Not Found: AdmissionReg/index
+ERROR - 2023-11-21 21:34:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-21 21:34:15 --> 404 Page Not Found: Adstxt/index

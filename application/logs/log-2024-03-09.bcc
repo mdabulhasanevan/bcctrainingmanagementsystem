@@ -1,0 +1,21 @@
+ERROR - 2024-03-09 00:06:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-09 04:57:54 --> Query error: Unknown column 'img' in 'where clause' - Invalid query: SELECT * FROM breakingnews WHERE BrId=img order by BrId DESC limit 10
+ERROR - 2024-03-09 04:57:54 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/News_model.php 52
+ERROR - 2024-03-09 04:57:57 --> Query error: Unknown column 'img' in 'where clause' - Invalid query: SELECT * FROM breakingnews WHERE BrId=img order by BrId DESC limit 10
+ERROR - 2024-03-09 04:57:57 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/News_model.php 52
+ERROR - 2024-03-09 06:38:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-09 07:11:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-09 07:40:59 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-03-09 09:41:00 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-03-09 15:51:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-09 16:51:42 --> 404 Page Not Found: Webview/dist
+ERROR - 2024-03-09 17:25:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-09 19:11:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-09 19:11:15 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-03-09 20:11:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-09 20:11:11 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-03-09 20:17:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-09 23:27:14 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-03-09 23:27:32 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-03-09 23:30:46 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-03-09 23:38:06 --> 404 Page Not Found: Robotstxt/index

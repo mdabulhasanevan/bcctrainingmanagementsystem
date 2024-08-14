@@ -1,0 +1,22 @@
+ERROR - 2024-03-22 01:27:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-22 02:08:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-22 02:22:24 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-03-22 03:49:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-22 03:52:32 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-03-22 06:56:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-22 10:15:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-22 13:31:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-22 13:52:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-22 14:23:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-22 14:23:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-22 14:23:28 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-03-22 14:23:30 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-03-22 16:51:42 --> Query error: Unknown column 'img' in 'where clause' - Invalid query: SELECT * FROM breakingnews WHERE BrId=img order by BrId DESC limit 10
+ERROR - 2024-03-22 16:51:42 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/News_model.php 52
+ERROR - 2024-03-22 16:54:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-22 16:55:03 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2024-03-22 17:11:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-22 20:13:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-22 20:13:21 --> Severity: Notice --> Trying to get property 'Headline' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 9
+ERROR - 2024-03-22 20:13:21 --> Severity: Notice --> Trying to get property 'Date' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 10
+ERROR - 2024-03-22 20:13:21 --> Severity: Notice --> Trying to get property 'Detail' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 12

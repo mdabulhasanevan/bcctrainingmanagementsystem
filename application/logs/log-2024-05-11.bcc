@@ -1,0 +1,29 @@
+ERROR - 2024-05-11 00:38:30 --> Query error: Unknown column 'link' in 'where clause' - Invalid query: SELECT * FROM breakingnews WHERE BrId=link order by BrId DESC limit 10
+ERROR - 2024-05-11 00:38:30 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/News_model.php 52
+ERROR - 2024-05-11 01:48:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-11 01:52:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-11 01:52:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-11 04:23:32 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-05-11 04:23:33 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-05-11 13:49:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-11 15:12:10 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-05-11 15:12:10 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-05-11 15:12:10 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-05-11 15:12:10 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-05-11 15:12:10 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-05-11 15:12:10 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-05-11 15:12:12 --> 404 Page Not Found: Home/images
+ERROR - 2024-05-11 15:13:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-11 15:13:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-11 15:16:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-11 15:20:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-11 15:24:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-11 15:28:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-11 15:47:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-11 16:21:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-11 17:00:13 --> Query error: Unknown column 'link' in 'where clause' - Invalid query: SELECT * FROM breakingnews WHERE BrId=link order by BrId DESC limit 10
+ERROR - 2024-05-11 17:00:13 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/News_model.php 52
+ERROR - 2024-05-11 20:23:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-11 20:24:01 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-05-11 20:24:06 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-05-11 23:08:26 --> 404 Page Not Found: Robotstxt/index

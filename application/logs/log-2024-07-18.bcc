@@ -1,0 +1,37 @@
+ERROR - 2024-07-18 00:44:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-18 00:55:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-18 01:25:04 --> Severity: Notice --> Trying to get property 'Headline' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/WebView/NoticeOpen.php 25
+ERROR - 2024-07-18 01:25:04 --> Severity: Notice --> Trying to get property 'Date' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/WebView/NoticeOpen.php 26
+ERROR - 2024-07-18 01:25:04 --> Severity: Notice --> Trying to get property 'Detail' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/WebView/NoticeOpen.php 28
+ERROR - 2024-07-18 02:24:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-18 02:24:11 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-07-18 02:24:11 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-07-18 02:24:11 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-07-18 02:24:11 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-07-18 02:24:11 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-07-18 02:24:11 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-07-18 02:50:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-18 02:50:05 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-07-18 02:50:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-18 02:50:07 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-07-18 04:03:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-18 04:03:23 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-07-18 04:03:23 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-07-18 04:03:23 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-07-18 04:03:23 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-07-18 04:03:23 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-07-18 04:03:23 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-07-18 06:47:54 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-07-18 06:47:54 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-07-18 07:39:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-18 07:39:01 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-07-18 07:39:01 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-07-18 07:39:01 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-07-18 07:39:01 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-07-18 07:39:01 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-07-18 07:39:01 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-07-18 09:30:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-18 11:36:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-18 14:03:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-18 17:56:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-18 21:22:12 --> 404 Page Not Found: Robotstxt/index

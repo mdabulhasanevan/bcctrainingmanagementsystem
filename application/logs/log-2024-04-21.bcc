@@ -1,0 +1,41 @@
+ERROR - 2024-04-21 01:23:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-21 01:56:59 --> Severity: Notice --> Trying to get property 'Headline' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 9
+ERROR - 2024-04-21 01:56:59 --> Severity: Notice --> Trying to get property 'Date' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 10
+ERROR - 2024-04-21 01:56:59 --> Severity: Notice --> Trying to get property 'Detail' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 12
+ERROR - 2024-04-21 02:29:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-21 02:29:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-21 03:24:20 --> Severity: Notice --> Trying to get property 'Headline' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 9
+ERROR - 2024-04-21 03:24:20 --> Severity: Notice --> Trying to get property 'Date' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 10
+ERROR - 2024-04-21 03:24:20 --> Severity: Notice --> Trying to get property 'Detail' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 12
+ERROR - 2024-04-21 03:39:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-21 03:39:09 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-04-21 04:09:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-21 04:09:04 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-04-21 04:43:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-21 07:07:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-21 07:43:15 --> 404 Page Not Found: AdmissionReg/index
+ERROR - 2024-04-21 09:43:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-21 11:43:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-21 12:09:09 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-04-21 12:59:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-21 13:03:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-21 13:07:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-21 13:09:06 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-04-21 14:09:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-21 15:16:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-21 15:16:49 --> Query error: Unknown column 'images' in 'where clause' - Invalid query: SELECT * FROM breakingnews WHERE BrId=images order by BrId DESC limit 10
+ERROR - 2024-04-21 15:16:49 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/News_model.php 52
+ERROR - 2024-04-21 15:16:51 --> Query error: Unknown column 'images' in 'where clause' - Invalid query: SELECT * FROM breakingnews WHERE BrId=images order by BrId DESC limit 10
+ERROR - 2024-04-21 15:16:51 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/News_model.php 52
+ERROR - 2024-04-21 15:19:24 --> Query error: Unknown column 'img' in 'where clause' - Invalid query: SELECT * FROM breakingnews WHERE BrId=img order by BrId DESC limit 10
+ERROR - 2024-04-21 15:19:24 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/News_model.php 52
+ERROR - 2024-04-21 15:19:26 --> Query error: Unknown column 'img' in 'where clause' - Invalid query: SELECT * FROM breakingnews WHERE BrId=img order by BrId DESC limit 10
+ERROR - 2024-04-21 15:19:26 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/News_model.php 52
+ERROR - 2024-04-21 15:24:25 --> Query error: Unknown column 'img' in 'where clause' - Invalid query: SELECT * FROM breakingnews WHERE BrId=img order by BrId DESC limit 10
+ERROR - 2024-04-21 15:24:25 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/News_model.php 52
+ERROR - 2024-04-21 15:24:26 --> Query error: Unknown column 'img' in 'where clause' - Invalid query: SELECT * FROM breakingnews WHERE BrId=img order by BrId DESC limit 10
+ERROR - 2024-04-21 15:24:26 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/News_model.php 52
+ERROR - 2024-04-21 15:46:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-21 18:14:18 --> Severity: Notice --> Trying to get property 'Headline' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 9
+ERROR - 2024-04-21 18:14:18 --> Severity: Notice --> Trying to get property 'Date' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 10
+ERROR - 2024-04-21 18:14:18 --> Severity: Notice --> Trying to get property 'Detail' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 12

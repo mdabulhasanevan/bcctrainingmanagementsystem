@@ -1,0 +1,28 @@
+ERROR - 2023-08-16 10:19:50 --> 404 Page Not Found: Webview/dist
+ERROR - 2023-08-16 10:22:24 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-08-16 11:39:28 --> 404 Page Not Found: Dashboard/index
+ERROR - 2023-08-16 11:58:05 --> 404 Page Not Found: Webview/dist
+ERROR - 2023-08-16 14:00:31 --> 404 Page Not Found: Wordpress/index
+ERROR - 2023-08-16 14:00:33 --> 404 Page Not Found: Wp/index
+ERROR - 2023-08-16 14:00:33 --> 404 Page Not Found: Bc/index
+ERROR - 2023-08-16 14:00:33 --> 404 Page Not Found: Bk/index
+ERROR - 2023-08-16 14:00:33 --> 404 Page Not Found: Backup/index
+ERROR - 2023-08-16 14:00:33 --> 404 Page Not Found: Old/index
+ERROR - 2023-08-16 14:00:33 --> 404 Page Not Found: New/index
+ERROR - 2023-08-16 14:00:34 --> 404 Page Not Found: Main/index
+ERROR - 2023-08-16 16:21:37 --> 404 Page Not Found: Acunetix_wvs_test_for_some_inexistent_file/index
+ERROR - 2023-08-16 20:27:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-16 20:27:04 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-08-16 20:56:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-16 20:56:59 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-08-16 22:44:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-16 22:44:12 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-08-16 22:44:12 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-08-16 22:44:12 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-08-16 22:44:12 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-08-16 22:44:12 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-08-16 22:44:12 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-08-16 22:57:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-16 22:57:08 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-08-16 23:26:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-16 23:27:00 --> 404 Page Not Found: Adstxt/index

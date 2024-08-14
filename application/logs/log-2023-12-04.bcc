@@ -1,0 +1,87 @@
+ERROR - 2023-12-04 00:35:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-12-04 02:47:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-12-04 02:47:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-12-04 03:39:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-12-04 03:39:07 --> 404 Page Not Found: AdmissionReg/index
+ERROR - 2023-12-04 04:19:03 --> 404 Page Not Found: Wp_content/plugins
+ERROR - 2023-12-04 04:19:03 --> 404 Page Not Found: Cgi_bin/class_api.php
+ERROR - 2023-12-04 04:19:03 --> 404 Page Not Found: Class_apiphp/index
+ERROR - 2023-12-04 04:19:04 --> 404 Page Not Found: Well_known/acme_challenge
+ERROR - 2023-12-04 04:19:04 --> 404 Page Not Found: Well_known/pki_validation
+ERROR - 2023-12-04 04:19:04 --> 404 Page Not Found: Wp_content/languages
+ERROR - 2023-12-04 04:19:04 --> 404 Page Not Found: Wp_admin/includes
+ERROR - 2023-12-04 04:19:05 --> 404 Page Not Found: Wp_admin/js
+ERROR - 2023-12-04 04:19:05 --> 404 Page Not Found: Wp_admin/network
+ERROR - 2023-12-04 04:19:05 --> 404 Page Not Found: Tmb/class_api.php
+ERROR - 2023-12-04 04:19:05 --> 404 Page Not Found: Assets/class_api.php
+ERROR - 2023-12-04 04:19:05 --> 404 Page Not Found: Common/css
+ERROR - 2023-12-04 04:19:06 --> 404 Page Not Found: Common/img
+ERROR - 2023-12-04 04:19:06 --> 404 Page Not Found: Css/class_api.php
+ERROR - 2023-12-04 04:19:06 --> 404 Page Not Found: Wp_admin/user
+ERROR - 2023-12-04 04:19:06 --> 404 Page Not Found: Wp_content/languages
+ERROR - 2023-12-04 04:19:07 --> 404 Page Not Found: Wp_content/upgrade
+ERROR - 2023-12-04 04:19:07 --> 404 Page Not Found: Wp_includes/IXR
+ERROR - 2023-12-04 04:19:07 --> 404 Page Not Found: Wp_includes/Requests
+ERROR - 2023-12-04 04:19:07 --> 404 Page Not Found: Wp_includes/random_compat
+ERROR - 2023-12-04 04:19:07 --> 404 Page Not Found: Wp_content/plugins
+ERROR - 2023-12-04 04:19:08 --> 404 Page Not Found: Wp_admin/css
+ERROR - 2023-12-04 04:19:08 --> 404 Page Not Found: Css/license.php
+ERROR - 2023-12-04 04:19:08 --> 404 Page Not Found: Wp_content/languages
+ERROR - 2023-12-04 04:19:08 --> 404 Page Not Found: Cgi_bin/license.php
+ERROR - 2023-12-04 04:19:08 --> 404 Page Not Found: Wp_admin/images
+ERROR - 2023-12-04 04:19:09 --> 404 Page Not Found: Wp_admin/js
+ERROR - 2023-12-04 04:19:09 --> 404 Page Not Found: Millionphp/index
+ERROR - 2023-12-04 04:19:09 --> 404 Page Not Found: Wp_admin/js
+ERROR - 2023-12-04 04:19:09 --> 404 Page Not Found: Wp_atomphp/index
+ERROR - 2023-12-04 04:19:09 --> 404 Page Not Found: Delpathsphp/index
+ERROR - 2023-12-04 04:19:09 --> 404 Page Not Found: Wp_includes/js
+ERROR - 2023-12-04 04:19:10 --> 404 Page Not Found: Wp_includes/js
+ERROR - 2023-12-04 04:19:10 --> 404 Page Not Found: Classsmtpsphp/index
+ERROR - 2023-12-04 04:19:10 --> 404 Page Not Found: Wp_content/themes
+ERROR - 2023-12-04 04:19:10 --> 404 Page Not Found: Wp_content/plugins
+ERROR - 2023-12-04 04:19:10 --> 404 Page Not Found: Wp_includes/images
+ERROR - 2023-12-04 04:19:11 --> 404 Page Not Found: Wp_content/themes
+ERROR - 2023-12-04 04:19:11 --> 404 Page Not Found: Wp_content/include.php
+ERROR - 2023-12-04 04:19:11 --> 404 Page Not Found: Wp_content/themes
+ERROR - 2023-12-04 04:19:11 --> 404 Page Not Found: Wp_content/plugins
+ERROR - 2023-12-04 04:19:11 --> 404 Page Not Found: Wp_admin/css
+ERROR - 2023-12-04 04:19:12 --> 404 Page Not Found: Fm1php/index
+ERROR - 2023-12-04 04:19:12 --> 404 Page Not Found: M1php/index
+ERROR - 2023-12-04 04:19:12 --> 404 Page Not Found: Defaul1php/index
+ERROR - 2023-12-04 04:19:12 --> 404 Page Not Found: Wp_content/plugins
+ERROR - 2023-12-04 04:19:12 --> 404 Page Not Found: Wp_includes/SimplePie
+ERROR - 2023-12-04 08:06:53 --> Severity: Warning --> mysqli::real_connect(): (08004/1040): Too many connections /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2023-12-04 08:06:53 --> Unable to connect to the database
+ERROR - 2023-12-04 08:06:53 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/Session.php 282
+ERROR - 2023-12-04 08:06:53 --> Severity: Warning --> session_set_cookie_params(): Cannot change session cookie parameters when headers already sent /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/Session.php 294
+ERROR - 2023-12-04 08:06:53 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/Session.php 304
+ERROR - 2023-12-04 08:06:53 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/Session.php 314
+ERROR - 2023-12-04 08:06:53 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/Session.php 315
+ERROR - 2023-12-04 08:06:53 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/Session.php 316
+ERROR - 2023-12-04 08:06:53 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/Session.php 317
+ERROR - 2023-12-04 08:06:53 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/Session.php 375
+ERROR - 2023-12-04 08:06:53 --> Severity: Warning --> session_set_save_handler(): Cannot change save handler when headers already sent /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/Session.php 110
+ERROR - 2023-12-04 08:06:53 --> Severity: Warning --> session_start(): Cannot start session when headers already sent /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/Session.php 143
+ERROR - 2023-12-04 08:06:53 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/helpers/url_helper.php 564
+ERROR - 2023-12-04 08:22:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-12-04 08:22:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-12-04 09:23:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-12-04 10:09:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-12-04 14:06:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-12-04 14:09:17 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-12-04 16:17:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-12-04 16:38:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-12-04 16:38:44 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-12-04 18:50:46 --> 404 Page Not Found: AdmissionReg/index
+ERROR - 2023-12-04 19:00:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-12-04 20:07:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-12-04 21:30:56 --> 404 Page Not Found: Env/index
+ERROR - 2023-12-04 21:31:05 --> 404 Page Not Found: Core/.env
+ERROR - 2023-12-04 21:31:09 --> 404 Page Not Found: Core/.env
+ERROR - 2023-12-04 21:31:27 --> 404 Page Not Found: Core/.env
+ERROR - 2023-12-04 22:08:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-12-04 22:08:45 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-12-04 22:38:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-12-04 22:38:41 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-12-04 23:54:18 --> 404 Page Not Found: Wp_loginphp/index
+ERROR - 2023-12-04 23:55:25 --> 404 Page Not Found: Robotstxt/index

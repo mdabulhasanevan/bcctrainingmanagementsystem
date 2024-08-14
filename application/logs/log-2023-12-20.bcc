@@ -1,0 +1,125 @@
+ERROR - 2023-12-20 00:50:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-12-20 01:44:20 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-12-20 01:44:20 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-12-20 01:44:20 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-12-20 01:44:20 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-12-20 01:44:20 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-12-20 01:44:20 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-12-20 02:02:08 --> 404 Page Not Found: Public/home
+ERROR - 2023-12-20 02:02:08 --> 404 Page Not Found: Static/admin
+ERROR - 2023-12-20 02:05:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-12-20 02:05:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-12-20 03:24:08 --> 404 Page Not Found: Wp_loginphp/index
+ERROR - 2023-12-20 03:41:05 --> Query error: Unknown column 'img' in 'where clause' - Invalid query: SELECT * FROM breakingnews WHERE BrId=img order by BrId DESC limit 10
+ERROR - 2023-12-20 03:41:05 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/News_model.php 52
+ERROR - 2023-12-20 03:41:06 --> Query error: Unknown column 'img' in 'where clause' - Invalid query: SELECT * FROM breakingnews WHERE BrId=img order by BrId DESC limit 10
+ERROR - 2023-12-20 03:41:06 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/News_model.php 52
+ERROR - 2023-12-20 03:41:07 --> Query error: Unknown column 'images' in 'where clause' - Invalid query: SELECT * FROM breakingnews WHERE BrId=images order by BrId DESC limit 10
+ERROR - 2023-12-20 03:41:07 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/News_model.php 52
+ERROR - 2023-12-20 03:41:08 --> Query error: Unknown column 'img' in 'where clause' - Invalid query: SELECT * FROM breakingnews WHERE BrId=img order by BrId DESC limit 10
+ERROR - 2023-12-20 03:41:08 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/News_model.php 52
+ERROR - 2023-12-20 03:41:10 --> Query error: Unknown column 'images' in 'where clause' - Invalid query: SELECT * FROM breakingnews WHERE BrId=images order by BrId DESC limit 10
+ERROR - 2023-12-20 03:41:10 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/News_model.php 52
+ERROR - 2023-12-20 03:41:11 --> Query error: Unknown column 'img' in 'where clause' - Invalid query: SELECT * FROM breakingnews WHERE BrId=img order by BrId DESC limit 10
+ERROR - 2023-12-20 03:41:11 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/News_model.php 52
+ERROR - 2023-12-20 05:40:20 --> 404 Page Not Found: Api/index.php
+ERROR - 2023-12-20 08:10:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-12-20 09:16:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-12-20 09:16:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-12-20 09:19:20 --> 404 Page Not Found: Wp_content/plugins
+ERROR - 2023-12-20 10:17:01 --> 404 Page Not Found: Cdnjs/index
+ERROR - 2023-12-20 10:17:01 --> 404 Page Not Found: Wwwbccexpresstechbdcom/dist
+ERROR - 2023-12-20 10:17:01 --> 404 Page Not Found: Wwwbccexpresstechbdcom/dist
+ERROR - 2023-12-20 10:17:01 --> 404 Page Not Found: Dist/js
+ERROR - 2023-12-20 10:17:02 --> 404 Page Not Found: Wwwbccexpresstechbdcom/assets
+ERROR - 2023-12-20 10:17:02 --> 404 Page Not Found: Cdnjscloudflarecom/ajax
+ERROR - 2023-12-20 10:17:02 --> 404 Page Not Found: Pagead2googlesyndicationcom/pagead
+ERROR - 2023-12-20 10:17:02 --> 404 Page Not Found: Wwwbccexpresstechbdcom/assets
+ERROR - 2023-12-20 10:17:02 --> 404 Page Not Found: Wwwbccexpresstechbdcom/assets
+ERROR - 2023-12-20 10:17:02 --> 404 Page Not Found: Wwwbccexpresstechbdcom/assets
+ERROR - 2023-12-20 10:17:02 --> 404 Page Not Found: Wwwbccexpresstechbdcom/assets
+ERROR - 2023-12-20 10:17:02 --> 404 Page Not Found: Wwwbccexpresstechbdcom/dist
+ERROR - 2023-12-20 10:17:02 --> 404 Page Not Found: Wwwbccexpresstechbdcom/dist
+ERROR - 2023-12-20 10:17:02 --> 404 Page Not Found: Cdnjscloudflarecom/ajax
+ERROR - 2023-12-20 10:17:02 --> 404 Page Not Found: Cdnjscloudflarecom/ajax
+ERROR - 2023-12-20 10:17:02 --> 404 Page Not Found: Codejquerycom/jquery_1.12.4.js
+ERROR - 2023-12-20 10:17:02 --> 404 Page Not Found: Wwwbccexpresstechbdcom/assets
+ERROR - 2023-12-20 10:17:02 --> 404 Page Not Found: Wwwbccexpresstechbdcom/assets
+ERROR - 2023-12-20 10:17:02 --> 404 Page Not Found: Wwwbccexpresstechbdcom/assets
+ERROR - 2023-12-20 10:17:02 --> 404 Page Not Found: Wwwbccexpresstechbdcom/assets
+ERROR - 2023-12-20 10:17:02 --> 404 Page Not Found: Wwwbccexpresstechbdcom/assets
+ERROR - 2023-12-20 10:17:02 --> 404 Page Not Found: Wwwbccexpresstechbdcom/assets
+ERROR - 2023-12-20 10:17:02 --> 404 Page Not Found: Wwwbccexpresstechbdcom/dist
+ERROR - 2023-12-20 10:17:03 --> 404 Page Not Found: Codejquerycom/jquery_migrate_1.0.0.js
+ERROR - 2023-12-20 10:17:03 --> 404 Page Not Found: Wwwbccexpresstechbdcom/assets
+ERROR - 2023-12-20 10:17:03 --> 404 Page Not Found: Wwwbccexpresstechbdcom/assets
+ERROR - 2023-12-20 10:17:04 --> 404 Page Not Found: Cdnjscloudflarecom/ajax
+ERROR - 2023-12-20 10:17:04 --> 404 Page Not Found: Wwwbccexpresstechbdcom/dist
+ERROR - 2023-12-20 10:17:04 --> 404 Page Not Found: Wwwbccexpresstechbdcom/assets
+ERROR - 2023-12-20 10:17:04 --> 404 Page Not Found: Wwwbccexpresstechbdcom/dist
+ERROR - 2023-12-20 10:17:04 --> 404 Page Not Found: Wwwbccexpresstechbdcom/assets
+ERROR - 2023-12-20 10:17:05 --> 404 Page Not Found: Codejquerycom/ui
+ERROR - 2023-12-20 10:17:06 --> 404 Page Not Found: Wwwbccexpresstechbdcom/assets
+ERROR - 2023-12-20 10:17:48 --> 404 Page Not Found: Wwwbccexpresstechbdcom/assets
+ERROR - 2023-12-20 10:17:48 --> 404 Page Not Found: Cdnjscloudflarecom/ajax
+ERROR - 2023-12-20 10:17:48 --> 404 Page Not Found: Wwwbccexpresstechbdcom/assets
+ERROR - 2023-12-20 10:17:48 --> 404 Page Not Found: Wwwbccexpresstechbdcom/assets
+ERROR - 2023-12-20 10:17:48 --> 404 Page Not Found: Wwwbccexpresstechbdcom/assets
+ERROR - 2023-12-20 10:17:48 --> 404 Page Not Found: Wwwbccexpresstechbdcom/assets
+ERROR - 2023-12-20 10:17:48 --> 404 Page Not Found: Wwwbccexpresstechbdcom/assets
+ERROR - 2023-12-20 10:17:48 --> 404 Page Not Found: Wwwbccexpresstechbdcom/assets
+ERROR - 2023-12-20 10:17:48 --> 404 Page Not Found: Wwwbccexpresstechbdcom/assets
+ERROR - 2023-12-20 10:17:48 --> 404 Page Not Found: Wwwbccexpresstechbdcom/assets
+ERROR - 2023-12-20 10:17:48 --> 404 Page Not Found: Wwwbccexpresstechbdcom/assets
+ERROR - 2023-12-20 10:17:48 --> 404 Page Not Found: Wwwbccexpresstechbdcom/assets
+ERROR - 2023-12-20 10:17:48 --> 404 Page Not Found: Wwwbccexpresstechbdcom/assets
+ERROR - 2023-12-20 10:17:48 --> 404 Page Not Found: Wwwbccexpresstechbdcom/assets
+ERROR - 2023-12-20 10:17:48 --> 404 Page Not Found: Wwwbccexpresstechbdcom/assets
+ERROR - 2023-12-20 10:17:48 --> 404 Page Not Found: Wwwbccexpresstechbdcom/assets
+ERROR - 2023-12-20 10:17:48 --> 404 Page Not Found: Wwwbccexpresstechbdcom/assets
+ERROR - 2023-12-20 10:17:48 --> 404 Page Not Found: Wwwbccexpresstechbdcom/dist
+ERROR - 2023-12-20 10:17:48 --> 404 Page Not Found: Wwwbccexpresstechbdcom/dist
+ERROR - 2023-12-20 10:17:48 --> 404 Page Not Found: Wwwbccexpresstechbdcom/dist
+ERROR - 2023-12-20 10:17:48 --> 404 Page Not Found: Wwwbccexpresstechbdcom/dist
+ERROR - 2023-12-20 10:17:48 --> 404 Page Not Found: Wwwbccexpresstechbdcom/dist
+ERROR - 2023-12-20 10:17:48 --> 404 Page Not Found: Wwwbccexpresstechbdcom/dist
+ERROR - 2023-12-20 10:17:48 --> 404 Page Not Found: Wwwbccexpresstechbdcom/dist
+ERROR - 2023-12-20 10:17:48 --> 404 Page Not Found: Dist/js
+ERROR - 2023-12-20 10:17:48 --> 404 Page Not Found: Codejquerycom/ui
+ERROR - 2023-12-20 10:17:48 --> 404 Page Not Found: Codejquerycom/jquery_migrate_1.0.0.js
+ERROR - 2023-12-20 10:17:50 --> 404 Page Not Found: Cdnjs/index
+ERROR - 2023-12-20 10:17:50 --> 404 Page Not Found: Cdnjscloudflarecom/ajax
+ERROR - 2023-12-20 10:17:50 --> 404 Page Not Found: Cdnjscloudflarecom/ajax
+ERROR - 2023-12-20 10:17:50 --> 404 Page Not Found: Cdnjscloudflarecom/ajax
+ERROR - 2023-12-20 10:17:50 --> 404 Page Not Found: Pagead2googlesyndicationcom/pagead
+ERROR - 2023-12-20 10:17:52 --> 404 Page Not Found: Codejquerycom/jquery_1.12.4.js
+ERROR - 2023-12-20 11:58:53 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-12-20 12:15:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-12-20 12:15:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-12-20 12:19:48 --> 404 Page Not Found: Dist/images
+ERROR - 2023-12-20 12:45:13 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-12-20 12:55:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-12-20 13:12:20 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-12-20 13:35:00 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-12-20 13:35:06 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-12-20 13:40:04 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-12-20 13:48:52 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-12-20 14:40:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-12-20 14:40:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-12-20 14:47:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-12-20 15:43:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-12-20 20:04:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-12-20 20:07:42 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-12-20 20:07:48 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-12-20 20:12:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-12-20 20:12:40 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-12-20 20:12:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-12-20 20:12:41 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-12-20 21:32:34 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-12-20 21:57:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-12-20 22:02:46 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-12-20 22:02:46 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-12-20 22:02:46 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-12-20 22:02:46 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-12-20 22:02:46 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-12-20 22:02:46 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34

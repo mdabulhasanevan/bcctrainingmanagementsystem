@@ -1,0 +1,256 @@
+<?php
+
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+/**
+ * Description of Exam_Model
+ *
+ * @author Evan DU
+ */
+class Exam_Model extends CI_Model {
+
+    public function __construct() {
+        parent::__construct();
+    }
+
+    public function GetAllExamTypeField() {
+        $questiontype = $this->db->get("questiontype")->result();
+        $questionsubject = $this->db->get("questionsubject")->result();
+        $examcollection = $this->db->query("SELECT * from setexam se left join examcollection ec on ec.Id =se.ExamCollectionID")->result();
+        $batch = $this->db->get("batch")->result();
+        $Status = $this->db->get("examactive")->result();
+
+        $data = array(
+            "questiontype" => $questiontype,
+            "questionsubject" => $questionsubject,
+            "examcollection" => $examcollection,
+            "batch" => $batch,
+            "status" => $Status
+        );
+        return $data;
+    }
+
+    public function SaveCreateQuestion($Question) {
+        $Questiondata = array(
+            "Question" => $Question->QuestionName,
+            "QuestionType" => $Question->QuestionType,
+            "QuestionSubject" => $Question->QuestionSubject
+        );
+        $this->db->insert("question", $Questiondata);
+        $QuestionId = $this->db->insert_id();
+
+        $this->db->query("Insert into mcqandans(MCQ,QId,Answer)values('$Question->MCQ1',$QuestionId,$Question->MCQ1Ans)");
+        $this->db->query("Insert into mcqandans(MCQ,QId,Answer)values('$Question->MCQ2',$QuestionId,$Question->MCQ2Ans)");
+        $this->db->query("Insert into mcqandans(MCQ,QId,Answer)values('$Question->MCQ3',$QuestionId,$Question->MCQ3Ans)");
+        $this->db->query("Insert into mcqandans(MCQ,QId,Answer)values('$Question->MCQ4',$QuestionId,$Question->MCQ4Ans)");
+    }
+
+    //Search Question for Show List only 
+    public function GetSearchQuestionForShowOnly($search) {
+
+        $data = array();
+        if ($search->QuestionType != null) {
+            $data['QuestionType'] = $search->QuestionType;
+        }
+        if ($search->QuestionSubject != null) {
+            $data['QuestionSubject'] = $search->QuestionSubject;
+        }
+        //Get Limit of Question from setting db
+        //$setting = $this->db->get('setting')->row();
+
+        $this->db->where($data);
+        //$this->db->order_by('rand()');
+        //$this->db->limit($search->Limit,$search->StartFrom);
+        $OnlyQuestion = $this->db->get("question")->result();
+
+        $this->db->select('q.QId,q.Question,mcq.MCQId,mcq.MCQ,mcq.Answer,0 as Selected');
+        $this->db->from('question as q');
+        $this->db->where($data);
+        $this->db->join('mcqandans as mcq', 'mcq on mcq.QId=q.QId', 'left');
+        $this->db->order_by('rand()');
+
+        $AllQuestion = $this->db->get()->result();
+
+
+        $Result = array(
+            "OnlyQuestion" => $OnlyQuestion,
+            "AllQuestion" => $AllQuestion,
+        );
+        return $Result;
+    }
+
+//Search Question for Exam
+    public function GetSearchQuestion() {
+
+        $BatchID = $_SESSION['BatchID'];
+        //Get Limit of Question from setting db
+        $setting = $this->db->query("SELECT Time FROM `setexam` WHERE BatchID=$BatchID and  Status=1")->row();
+
+
+        //$this->db->order_by('rand()');
+        //$this->db->limit($setting->NumberofQuestion);
+        $OnlyQuestion = $this->db->query("select * from setquestionforexamcollection as setqcol
+left JOIN question q on q.QId=setqcol.QuestionID 
+LEFT join setexam setex on setex.ExamCollectionID=setqcol.ExamCollectionID
+left join examcollection ecol on ecol.Id =setex.ExamCollectionID
+where setex.BatchID= $BatchID and  setex.Status=1 ORDER BY RAND()")->result();
+
+        $AllQuestion = $this->db->query("select * from setquestionforexamcollection as setqcol "
+                        . "left JOIN question q on q.QId=setqcol.QuestionID  "
+                        . "LEFT join setexam setex on setex.ExamCollectionID=setqcol.ExamCollectionID "
+                        . "left join examcollection ecol on ecol.Id =setex.ExamCollectionID "
+                        . "left join mcqandans mcqA on mcqA.QId= setqcol.QuestionID "
+                        . "where setex.BatchID = $BatchID and  setex.Status=1 ORDER BY RAND()")->result();
+
+
+        $Result = array(
+            "OnlyQuestion" => $OnlyQuestion,
+            "AllQuestion" => $AllQuestion,
+            "setting" => $setting
+        );
+        return $Result;
+    }
+
+    //Save Result
+    public function SaveExamResult($result) {
+        $BatchID = $_SESSION['BatchID'];
+
+        //find active exam id
+        $ExamCollectionID = $this->db->query("SELECT excol.Id FROM setexam as setxm
+left JOIN examcollection excol on excol.Id=setxm.ExamCollectionID
+where setxm.BatchID= $BatchID and  setxm.Status=1 ")->row();
+
+        $date = date('Y-m-d H:i:s');
+        $data = array(
+            "UserID" => $_SESSION['StudentID'],
+            "ExamDate" => $date,
+            "TotalQuestion" => $result->TotalQuestion,
+            "Selected" => $result->Selected,
+            "Correct" => $result->Correct,
+            "ExamCollectionID" => $ExamCollectionID->Id
+        );
+        
+        // search. is this exam already attend this student.
+        $duplicateSearch = array(
+            "UserID" => $_SESSION['StudentID'],
+            "ExamCollectionID" => $ExamCollectionID->Id
+        );
+
+        $this->db->where($duplicateSearch);
+        $IsExist = $this->db->count_all_results("examresult");
+      
+        if ($IsExist < 1) {
+            $this->db->Insert("examresult", $data);
+
+            return "Exam Saved successfully.";
+        } else {
+             return "Exam not Saved. you already attend this exam before. contact with examiner";
+        }
+    }
+
+    //Exam History
+    public function GetAllExamHistory($batch) {
+//        $Result = $this->db->query("SELECT * , (er.Correct+er.Theory+er.Practical)as totalAmount FROM examresult  as er 
+//LEFT JOIN student st on st.SID=er.UserID LEFT JOIN setexam se on se.BatchID=st.BatchID 
+//LEFT JOIN examcollection ec on ec.Id=se.ExamCollectionID left JOIN batch b on b.Id=st.BatchID
+//WHERE st.BatchID=$batch and se.Status=3  ORDER BY st.RegNO asc")->result();
+        
+        $Result = $this->db->query("SELECT * , (er.Correct+er.Theory+er.Practical)as totalAmount FROM examresult as er LEFT JOIN setexam se on se.ExamCollectionID=er.ExamCollectionID LEFT JOIN student st on st.SID=er.UserID LEFT JOIN batch b on b.Id=se.BatchID left JOIN examcollection exc on exc.Id=er.ExamCollectionID WHERE se.BatchID=$batch and se.Status=3  ORDER BY st.RegNO asc")->result();
+        return $Result;
+    }
+
+    public function UpdateResult($data) {
+
+        $data2 = array(
+            "Correct" => $data->Correct,
+            "Theory" => $data->Theory,
+            "Practical" => $data->Practical
+        );
+        $this->db->where(array('ERId' => $data->ERId));
+        $result = $this->db->update("examresult", $data2);
+
+        //$result = $this->db->get("batch")->result();
+        return $result;
+    }
+
+    //Delete History
+    public function DeleteExamHistory($id) {
+        $this->db->where(array('ERId' => $id));
+        $result = $this->db->delete('examresult');
+        return $result;
+    }
+
+    //Delete Question
+    public function DeleteQuestion($id) {
+        //$this->db->where(array('QId'=>$id));
+        $result = $this->db->delete('question', array('QId' => $id));
+
+        //$this->db->where(array('QId'=>$id));
+        $result2 = $this->db->delete('mcqandans', array('QId' => $id));
+        return $result;
+    }
+
+    //Search Question for Show List only 
+    public function GetSearchQuestionForSetCollection($search) {
+
+        $data = array();
+        if ($search->QuestionType != null) {
+            $data['QuestionType'] = $search->QuestionType;
+        }
+        if ($search->QuestionSubject != null) {
+            $data['QuestionSubject'] = $search->QuestionSubject;
+        }
+        //Get Limit of Question from setting db
+        //$setting = $this->db->get('setting')->row();
+
+        $this->db->where($data);
+        //$this->db->order_by('rand()');
+        //$this->db->limit($search->Limit,$search->StartFrom);
+        $OnlyQuestion = $this->db->get("question")->result();
+
+
+
+
+        $Result = array(
+            "OnlyQuestion" => $OnlyQuestion
+        );
+        return $Result;
+    }
+
+    public function GetSetQuestionForExamCollection($id) {
+
+        $result = $this->db->query("SELECT sec.*, q.Question, qt.Type as QType, qs.Name as QSubject from setquestionforexamcollection sec"
+                        . " left join question q on q.QId=sec.QuestionID left join questiontype qt on qt.Id=q.QuestionType "
+                        . "left join questionsubject qs on qs.Id=q.QuestionSubject WHERE sec.ExamCollectionID=$id order by q.Question")->result();
+        return $result;
+    }
+
+    public function SaveQuestionForExamCollection($question) {
+
+        foreach ($question as $Q) {
+            $data = array();
+            if ($Q->Selected == true) {
+                $data = array(
+                    "ExamCollectionID" => $Q->ExamCollectionID,
+                    "QuestionID" => $Q->QId
+                );
+
+                $this->db->where($data);
+                $countSub = $this->db->count_all_results('setquestionforexamcollection');
+
+                if ($countSub == 0) {
+                    $this->db->Insert("setquestionforexamcollection", $data);
+                }
+            }
+        }
+    }
+
+    //Delete Question
+    public function DeleteSetQuestion($id) {
+        //$this->db->where(array('QId'=>$id));
+        $result = $this->db->delete('setquestionforexamcollection', array('SetQID' => $id));
+
+        return $result;
+    }
+
+}

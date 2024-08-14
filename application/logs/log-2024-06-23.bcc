@@ -1,0 +1,23 @@
+ERROR - 2024-06-23 03:01:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-06-23 03:21:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-06-23 03:21:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-06-23 04:13:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-06-23 04:48:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-06-23 04:48:41 --> Severity: Notice --> Trying to get property 'Headline' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 9
+ERROR - 2024-06-23 04:48:41 --> Severity: Notice --> Trying to get property 'Date' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 10
+ERROR - 2024-06-23 04:48:41 --> Severity: Notice --> Trying to get property 'Detail' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 12
+ERROR - 2024-06-23 05:09:46 --> 404 Page Not Found: Admphp/index
+ERROR - 2024-06-23 05:09:46 --> 404 Page Not Found: Sqlphp/index
+ERROR - 2024-06-23 05:10:07 --> 404 Page Not Found: Adminer_php/index
+ERROR - 2024-06-23 11:37:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-06-23 11:37:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-06-23 11:37:49 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-06-23 11:37:49 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-06-23 13:42:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-06-23 14:00:56 --> 404 Page Not Found: Plus/img
+ERROR - 2024-06-23 14:28:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-06-23 15:07:49 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-06-23 15:07:50 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-06-23 15:47:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-06-23 16:09:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-06-23 18:55:53 --> 404 Page Not Found: Robotstxt/index

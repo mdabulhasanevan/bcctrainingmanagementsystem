@@ -1,0 +1,63 @@
+ERROR - 2023-10-27 01:04:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-27 01:14:16 --> 404 Page Not Found: Env/index
+ERROR - 2023-10-27 02:38:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-27 02:39:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-27 02:42:29 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /home/expresstechbd/public_html/bcc/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2023-10-27 02:42:29 --> Unable to connect to the database
+ERROR - 2023-10-27 02:42:29 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time /home/expresstechbd/public_html/bcc/system/libraries/Session/Session.php 282
+ERROR - 2023-10-27 02:42:29 --> Severity: Warning --> session_set_cookie_params(): Cannot change session cookie parameters when headers already sent /home/expresstechbd/public_html/bcc/system/libraries/Session/Session.php 294
+ERROR - 2023-10-27 02:42:29 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time /home/expresstechbd/public_html/bcc/system/libraries/Session/Session.php 304
+ERROR - 2023-10-27 02:42:29 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time /home/expresstechbd/public_html/bcc/system/libraries/Session/Session.php 314
+ERROR - 2023-10-27 02:42:29 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time /home/expresstechbd/public_html/bcc/system/libraries/Session/Session.php 315
+ERROR - 2023-10-27 02:42:29 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time /home/expresstechbd/public_html/bcc/system/libraries/Session/Session.php 316
+ERROR - 2023-10-27 02:42:29 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time /home/expresstechbd/public_html/bcc/system/libraries/Session/Session.php 317
+ERROR - 2023-10-27 02:42:29 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time /home/expresstechbd/public_html/bcc/system/libraries/Session/Session.php 375
+ERROR - 2023-10-27 02:42:29 --> Severity: Warning --> session_set_save_handler(): Cannot change save handler when headers already sent /home/expresstechbd/public_html/bcc/system/libraries/Session/Session.php 110
+ERROR - 2023-10-27 02:42:29 --> Severity: Warning --> session_start(): Cannot start session when headers already sent /home/expresstechbd/public_html/bcc/system/libraries/Session/Session.php 143
+ERROR - 2023-10-27 02:42:29 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /home/expresstechbd/public_html/bcc/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2023-10-27 02:42:29 --> Unable to connect to the database
+ERROR - 2023-10-27 02:42:29 --> Query error: Connection refused - Invalid query: SELECT COUNT(*) AS `numrows`
+FROM `student`
+ERROR - 2023-10-27 02:42:29 --> Severity: error --> Exception: Call to a member function num_rows() on bool /home/expresstechbd/public_html/bcc/system/database/DB_query_builder.php 1429
+ERROR - 2023-10-27 02:42:29 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/bcc/system/core/Common.php 570
+ERROR - 2023-10-27 04:07:41 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /home/expresstechbd/public_html/bcc/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2023-10-27 04:07:41 --> Unable to connect to the database
+ERROR - 2023-10-27 04:07:41 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time /home/expresstechbd/public_html/bcc/system/libraries/Session/Session.php 282
+ERROR - 2023-10-27 04:07:41 --> Severity: Warning --> session_set_cookie_params(): Cannot change session cookie parameters when headers already sent /home/expresstechbd/public_html/bcc/system/libraries/Session/Session.php 294
+ERROR - 2023-10-27 04:07:41 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time /home/expresstechbd/public_html/bcc/system/libraries/Session/Session.php 304
+ERROR - 2023-10-27 04:07:41 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time /home/expresstechbd/public_html/bcc/system/libraries/Session/Session.php 314
+ERROR - 2023-10-27 04:07:41 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time /home/expresstechbd/public_html/bcc/system/libraries/Session/Session.php 315
+ERROR - 2023-10-27 04:07:41 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time /home/expresstechbd/public_html/bcc/system/libraries/Session/Session.php 316
+ERROR - 2023-10-27 04:07:41 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time /home/expresstechbd/public_html/bcc/system/libraries/Session/Session.php 317
+ERROR - 2023-10-27 04:07:41 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time /home/expresstechbd/public_html/bcc/system/libraries/Session/Session.php 375
+ERROR - 2023-10-27 04:07:41 --> Severity: Warning --> session_set_save_handler(): Cannot change save handler when headers already sent /home/expresstechbd/public_html/bcc/system/libraries/Session/Session.php 110
+ERROR - 2023-10-27 04:07:41 --> Severity: Warning --> session_start(): Cannot start session when headers already sent /home/expresstechbd/public_html/bcc/system/libraries/Session/Session.php 143
+ERROR - 2023-10-27 04:07:41 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/bcc/system/helpers/url_helper.php 564
+ERROR - 2023-10-27 05:53:36 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /home/expresstechbd/public_html/bcc/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2023-10-27 05:53:36 --> Unable to connect to the database
+ERROR - 2023-10-27 05:53:36 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time /home/expresstechbd/public_html/bcc/system/libraries/Session/Session.php 282
+ERROR - 2023-10-27 05:53:36 --> Severity: Warning --> session_set_cookie_params(): Cannot change session cookie parameters when headers already sent /home/expresstechbd/public_html/bcc/system/libraries/Session/Session.php 294
+ERROR - 2023-10-27 05:53:36 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time /home/expresstechbd/public_html/bcc/system/libraries/Session/Session.php 304
+ERROR - 2023-10-27 05:53:36 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time /home/expresstechbd/public_html/bcc/system/libraries/Session/Session.php 314
+ERROR - 2023-10-27 05:53:36 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time /home/expresstechbd/public_html/bcc/system/libraries/Session/Session.php 315
+ERROR - 2023-10-27 05:53:36 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time /home/expresstechbd/public_html/bcc/system/libraries/Session/Session.php 316
+ERROR - 2023-10-27 05:53:36 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time /home/expresstechbd/pubERROR - 2023-10-27 08:12:46 --> 404 Page Not Found: Wp_loginphp/index
+ERROR - 2023-10-27 08:32:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-27 08:32:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-27 11:37:00 --> 404 Page Not Found: Wp_admin/index
+ERROR - 2023-10-27 11:37:08 --> 404 Page Not Found: Wp_content/index
+ERROR - 2023-10-27 11:37:12 --> 404 Page Not Found: Wp_content/index
+ERROR - 2023-10-27 12:50:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-27 13:42:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-27 14:39:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-27 15:27:49 --> 404 Page Not Found: Sitemap_indexxml/index
+ERROR - 2023-10-27 16:26:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-27 16:27:30 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-10-27 16:28:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-27 16:28:25 --> 404 Page Not Found: Sitemap_indexxml/index
+ERROR - 2023-10-27 16:28:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-27 16:31:30 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-10-27 18:38:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-27 19:26:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-27 19:27:21 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-10-27 19:30:31 --> 404 Page Not Found: Adstxt/index

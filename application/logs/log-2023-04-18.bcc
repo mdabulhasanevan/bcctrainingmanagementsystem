@@ -1,0 +1,28 @@
+ERROR - 2023-04-18 00:06:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-18 00:36:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-18 00:36:29 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-04-18 01:08:57 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-04-18 01:09:07 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-04-18 03:06:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-18 03:07:37 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-04-18 03:36:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-18 03:36:36 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-04-18 03:37:45 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-04-18 05:28:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-18 07:20:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-18 07:56:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-18 15:52:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-18 15:52:18 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-04-18 15:52:18 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-04-18 15:52:18 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-04-18 15:52:18 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-04-18 15:52:18 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-04-18 15:52:18 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-04-18 18:37:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-18 22:50:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-18 22:50:09 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-04-18 22:50:09 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-04-18 22:50:09 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-04-18 22:50:09 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-04-18 22:50:09 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-04-18 22:50:09 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 34

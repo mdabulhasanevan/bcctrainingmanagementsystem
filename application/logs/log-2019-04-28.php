@@ -1,0 +1,57 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-04-28 22:05:18 --> Severity: Notice --> Undefined index: id /home/expresstechbd/public_html/bcc/application/models/User_Model.php 218
+ERROR - 2019-04-28 22:05:18 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/bcc/system/helpers/url_helper.php 564
+ERROR - 2019-04-28 22:05:31 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-04-28 22:05:45 --> Severity: Notice --> Undefined index: id /home/expresstechbd/public_html/bcc/application/models/User_Model.php 218
+ERROR - 2019-04-28 22:05:45 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/bcc/system/helpers/url_helper.php 564
+ERROR - 2019-04-28 22:06:06 --> Severity: Notice --> Undefined index: id /home/expresstechbd/public_html/bcc/application/models/User_Model.php 218
+ERROR - 2019-04-28 22:06:06 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/bcc/system/helpers/url_helper.php 564
+ERROR - 2019-04-28 22:06:09 --> Severity: Notice --> Undefined index: id /home/expresstechbd/public_html/bcc/application/models/User_Model.php 218
+ERROR - 2019-04-28 22:06:09 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/bcc/system/helpers/url_helper.php 564
+ERROR - 2019-04-28 22:06:17 --> Severity: Notice --> Undefined index: id /home/expresstechbd/public_html/bcc/application/models/User_Model.php 218
+ERROR - 2019-04-28 22:06:17 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/bcc/system/core/Exceptions.php:271) /home/expresstechbd/public_html/bcc/system/helpers/url_helper.php 564
+ERROR - 2019-04-28 22:20:04 --> Severity: error --> Exception: /home/expresstechbd/public_html/bcc/application/models/PhotoSlideGallery_Model.php exists, but doesn't declare class PhotoSlideGallery_Model /home/expresstechbd/public_html/bcc/system/core/Loader.php 340
+ERROR - 2019-04-28 22:20:50 --> Severity: error --> Exception: /home/expresstechbd/public_html/bcc/application/models/PhotoSlideGallery_Model.php exists, but doesn't declare class PhotoSlideGallery_Model /home/expresstechbd/public_html/bcc/system/core/Loader.php 340
+ERROR - 2019-04-28 22:22:28 --> Query error: Table 'expresstechbd_bcc.photo_and_slide' doesn't exist - Invalid query: SELECT * FROM photo_and_slide where Type=1 order by PID DESC
+ERROR - 2019-04-28 22:22:28 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/bcc/application/models/PhotoSlideGallery_Model.php:24) /home/expresstechbd/public_html/bcc/system/core/Common.php 570
+ERROR - 2019-04-28 22:22:28 --> Severity: Error --> Call to a member function result() on boolean /home/expresstechbd/public_html/bcc/application/models/PhotoSlideGallery_Model.php 24
+ERROR - 2019-04-28 22:22:41 --> Query error: Table 'expresstechbd_bcc.photo_and_slide' doesn't exist - Invalid query: SELECT * FROM photo_and_slide where Type=1 order by PID DESC
+ERROR - 2019-04-28 22:22:41 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/bcc/application/models/PhotoSlideGallery_Model.php:24) /home/expresstechbd/public_html/bcc/system/core/Common.php 570
+ERROR - 2019-04-28 22:22:41 --> Severity: Error --> Call to a member function result() on boolean /home/expresstechbd/public_html/bcc/application/models/PhotoSlideGallery_Model.php 24
+ERROR - 2019-04-28 22:22:44 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-04-28 22:22:45 --> Query error: Table 'expresstechbd_bcc.photo_and_slide' doesn't exist - Invalid query: SELECT * FROM photo_and_slide where Type=1 order by PID DESC
+ERROR - 2019-04-28 22:22:45 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/bcc/application/models/PhotoSlideGallery_Model.php:24) /home/expresstechbd/public_html/bcc/system/core/Common.php 570
+ERROR - 2019-04-28 22:22:45 --> Severity: Error --> Call to a member function result() on boolean /home/expresstechbd/public_html/bcc/application/models/PhotoSlideGallery_Model.php 24
+ERROR - 2019-04-28 22:22:52 --> Query error: Table 'expresstechbd_bcc.photo_and_slide' doesn't exist - Invalid query: SELECT * FROM photo_and_slide where Type=1 and IsHide=0 order by PID DESC
+ERROR - 2019-04-28 22:22:52 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/bcc/application/models/PhotoSlideGallery_Model.php:32) /home/expresstechbd/public_html/bcc/system/core/Common.php 570
+ERROR - 2019-04-28 22:22:52 --> Severity: Error --> Call to a member function result() on boolean /home/expresstechbd/public_html/bcc/application/models/PhotoSlideGallery_Model.php 32
+ERROR - 2019-04-28 23:18:02 --> Query error: Table 'expresstechbd_bcc.photo_and_slide' doesn't exist - Invalid query: SELECT * FROM photo_and_slide where Type=1 and IsHide=0 order by PID DESC
+ERROR - 2019-04-28 23:18:02 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/bcc/application/models/PhotoSlideGallery_Model.php:32) /home/expresstechbd/public_html/bcc/system/core/Common.php 570
+ERROR - 2019-04-28 23:18:02 --> Severity: Error --> Call to a member function result() on boolean /home/expresstechbd/public_html/bcc/application/models/PhotoSlideGallery_Model.php 32
+ERROR - 2019-04-28 23:18:20 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-04-28 23:19:06 --> Query error: Table 'expresstechbd_bcc.photo_and_slide' doesn't exist - Invalid query: SELECT * FROM photo_and_slide where Type=1 and IsHide=0 order by PID DESC
+ERROR - 2019-04-28 23:19:06 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/bcc/application/models/PhotoSlideGallery_Model.php:32) /home/expresstechbd/public_html/bcc/system/core/Common.php 570
+ERROR - 2019-04-28 23:19:06 --> Severity: Error --> Call to a member function result() on boolean /home/expresstechbd/public_html/bcc/application/models/PhotoSlideGallery_Model.php 32
+ERROR - 2019-04-28 23:25:14 --> Query error: Table 'expresstechbd_bcc.photo_and_slide' doesn't exist - Invalid query: SELECT * FROM photo_and_slide where Type=1 and IsHide=0 order by PID DESC
+ERROR - 2019-04-28 23:25:14 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/bcc/application/models/PhotoSlideGallery_Model.php:32) /home/expresstechbd/public_html/bcc/system/core/Common.php 570
+ERROR - 2019-04-28 23:25:14 --> Severity: Error --> Call to a member function result() on boolean /home/expresstechbd/public_html/bcc/application/models/PhotoSlideGallery_Model.php 32
+ERROR - 2019-04-28 23:25:18 --> Query error: Table 'expresstechbd_bcc.photo_and_slide' doesn't exist - Invalid query: SELECT * FROM photo_and_slide where Type=1 and IsHide=0 order by PID DESC
+ERROR - 2019-04-28 23:25:18 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/bcc/application/models/PhotoSlideGallery_Model.php:32) /home/expresstechbd/public_html/bcc/system/core/Common.php 570
+ERROR - 2019-04-28 23:25:18 --> Severity: Error --> Call to a member function result() on boolean /home/expresstechbd/public_html/bcc/application/models/PhotoSlideGallery_Model.php 32
+ERROR - 2019-04-28 23:27:06 --> Query error: Table 'expresstechbd_bcc.photo_and_slide' doesn't exist - Invalid query: SELECT * FROM photo_and_slide where Type=1 and IsHide=0 order by PID DESC
+ERROR - 2019-04-28 23:27:06 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/bcc/application/models/PhotoSlideGallery_Model.php:32) /home/expresstechbd/public_html/bcc/system/core/Common.php 570
+ERROR - 2019-04-28 23:27:06 --> Severity: Error --> Call to a member function result() on boolean /home/expresstechbd/public_html/bcc/application/models/PhotoSlideGallery_Model.php 32
+ERROR - 2019-04-28 23:27:08 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-04-28 23:29:44 --> Query error: Table 'expresstechbd_bcc.photo_and_slide' doesn't exist - Invalid query: SELECT * FROM photo_and_slide where Type=1 and IsHide=0 order by PID DESC
+ERROR - 2019-04-28 23:29:44 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/bcc/application/models/PhotoSlideGallery_Model.php:32) /home/expresstechbd/public_html/bcc/system/core/Common.php 570
+ERROR - 2019-04-28 23:29:44 --> Severity: Error --> Call to a member function result() on boolean /home/expresstechbd/public_html/bcc/application/models/PhotoSlideGallery_Model.php 32
+ERROR - 2019-04-28 23:32:35 --> Query error: Table 'expresstechbd_bcc.photo_and_slide' doesn't exist - Invalid query: SELECT * FROM photo_and_slide where Type=1 and IsHide=0 order by PID DESC
+ERROR - 2019-04-28 23:32:35 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/bcc/application/models/PhotoSlideGallery_Model.php:32) /home/expresstechbd/public_html/bcc/system/core/Common.php 570
+ERROR - 2019-04-28 23:32:35 --> Severity: Error --> Call to a member function result() on boolean /home/expresstechbd/public_html/bcc/application/models/PhotoSlideGallery_Model.php 32
+ERROR - 2019-04-28 23:35:16 --> Query error: Table 'expresstechbd_bcc.photo_and_slide' doesn't exist - Invalid query: SELECT * FROM photo_and_slide where Type=1 and IsHide=0 order by PID DESC
+ERROR - 2019-04-28 23:35:17 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/bcc/application/models/PhotoSlideGallery_Model.php:32) /home/expresstechbd/public_html/bcc/system/core/Common.php 570
+ERROR - 2019-04-28 23:35:17 --> Severity: Error --> Call to a member function result() on boolean /home/expresstechbd/public_html/bcc/application/models/PhotoSlideGallery_Model.php 32
+ERROR - 2019-04-28 23:41:09 --> Query error: Table 'expresstechbd_bcc.photo_and_slide' doesn't exist - Invalid query: SELECT * FROM photo_and_slide where Type=1 order by PID DESC
+ERROR - 2019-04-28 23:41:09 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/bcc/application/models/PhotoSlideGallery_Model.php:24) /home/expresstechbd/public_html/bcc/system/core/Common.php 570
+ERROR - 2019-04-28 23:41:09 --> Severity: Error --> Call to a member function result() on boolean /home/expresstechbd/public_html/bcc/application/models/PhotoSlideGallery_Model.php 24

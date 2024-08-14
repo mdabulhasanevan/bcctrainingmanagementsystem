@@ -1,0 +1,14 @@
+ERROR - 2023-05-04 00:08:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-04 00:08:26 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-05-04 01:54:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-04 02:08:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-04 02:08:05 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-05-04 02:08:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-04 02:08:07 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-05-04 03:08:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-04 03:08:07 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-05-04 09:07:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-04 12:38:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-04 12:45:09 --> Severity: error --> Exception: Too few arguments to function Home::NoticeOpen(), 0 passed in /home/expresstechbd/public_html/bcc/system/core/CodeIgniter.php on line 532 and exactly 1 expected /home/expresstechbd/public_html/bcc/application/controllers/Home.php 78
+ERROR - 2023-05-04 13:44:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-04 17:53:27 --> 404 Page Not Found: Robotstxt/index

@@ -1,0 +1,26 @@
+ERROR - 2024-02-04 00:29:27 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-02-04 01:41:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-04 01:52:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-04 01:52:32 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-02-04 01:52:32 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-02-04 01:52:32 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-02-04 01:52:32 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-02-04 01:52:32 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-02-04 01:52:32 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-02-04 05:47:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-04 07:21:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-04 07:29:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-04 07:29:37 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-02-04 07:59:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-04 08:00:14 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-02-04 12:27:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-04 14:37:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-04 17:57:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-04 18:18:13 --> 404 Page Not Found: StudentOpen/%7B%7BContent.Tutorials%20%7C%20trustAsResourceUrl%7D%7D
+ERROR - 2024-02-04 18:20:49 --> Query error: Unknown column 'undefined' in 'where clause' - Invalid query: SELECT sxa.*, s.Name, b.Batch, s.RegNO,s.Photo, ex.ExamName, ISNULL(er.ERId) as Status2, if(ISNULL(er.ERId)>0,'Running','Completed') as Status, er.Selected,er.Correct , sxa.PauseStatus, sxa.StopStatus FROM StudentExamAttendHistory as sxa LEFT JOIN student s on s.SID=sxa.SID left join setexam sx on sx.SetID=sxa.ExamID LEFT JOIN ExamName ex on ex.ExNId=sx.ExamNameID LEFT JOIN batch b on b.Id=s.BatchID LEFT JOIN examresult er on er.UserID=s.SID and er.ExamCollectionID=sx.ExamCollectionID WHERE sxa.ExamID=undefined ORDER BY ISNULL(er.ERId) DESC, s.RegNO ASC
+ERROR - 2024-02-04 18:20:49 --> Severity: error --> Exception: Call to a member function result() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/Exam_Model.php 524
+ERROR - 2024-02-04 19:10:42 --> 404 Page Not Found: StudentOpen/index.html
+ERROR - 2024-02-04 20:41:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-04 20:41:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-04 21:59:43 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-02-04 23:59:50 --> 404 Page Not Found: Adstxt/index

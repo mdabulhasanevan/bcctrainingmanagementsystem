@@ -1,0 +1,20 @@
+ERROR - 2024-04-29 00:30:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-29 00:43:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-29 00:43:54 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-04-29 01:44:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-29 01:44:15 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-04-29 03:33:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-29 04:42:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-29 08:49:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-29 08:58:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-29 09:14:39 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-04-29 09:14:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-29 09:14:40 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-04-29 11:26:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-29 11:26:46 --> Query error: Unknown column 'link' in 'where clause' - Invalid query: SELECT * FROM breakingnews WHERE BrId=link order by BrId DESC limit 10
+ERROR - 2024-04-29 11:26:46 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/News_model.php 52
+ERROR - 2024-04-29 15:10:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-29 15:52:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-04-29 18:18:24 --> Query error: Unknown column 'link' in 'where clause' - Invalid query: SELECT * FROM breakingnews WHERE BrId=link order by BrId DESC limit 10
+ERROR - 2024-04-29 18:18:24 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/News_model.php 52
+ERROR - 2024-04-29 23:57:04 --> 404 Page Not Found: Robotstxt/index

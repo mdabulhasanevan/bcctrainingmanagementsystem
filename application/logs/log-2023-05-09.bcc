@@ -1,0 +1,35 @@
+ERROR - 2023-05-09 00:09:29 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-05-09 01:38:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-09 01:38:56 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-05-09 01:38:58 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-05-09 02:08:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-09 02:08:55 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-05-09 05:16:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-09 10:43:15 --> 404 Page Not Found: StudentOpen/index.html
+ERROR - 2023-05-09 10:43:15 --> 404 Page Not Found: StudentOpen/index.html
+ERROR - 2023-05-09 10:46:55 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/bcc/system/libraries/Session/drivers/Session_files_driver.php:212) /home/expresstechbd/public_html/bcc/system/core/Common.php 570
+ERROR - 2023-05-09 10:46:55 --> Severity: Error --> Maximum execution time of 300 seconds exceeded /home/expresstechbd/public_html/bcc/system/libraries/Session/drivers/Session_files_driver.php 212
+ERROR - 2023-05-09 10:46:55 --> Severity: Warning --> Unknown: Cannot call session save handler in a recursive manner Unknown 0
+ERROR - 2023-05-09 10:46:55 --> Severity: Warning --> Unknown: Failed to write session data using user defined save handler. (session.save_path: /var/cpanel/php/sessions/ea-php73) Unknown 0
+ERROR - 2023-05-09 13:18:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-09 18:17:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-09 19:21:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-09 19:21:13 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-05-09 19:21:13 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-05-09 19:21:13 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-05-09 19:21:13 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-05-09 19:21:13 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-05-09 19:21:13 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-05-09 20:51:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-09 20:51:12 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-05-09 20:51:12 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-05-09 20:51:12 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-05-09 20:51:12 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-05-09 20:51:12 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-05-09 20:51:12 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-05-09 20:57:17 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-05-09 20:57:17 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 6
+ERROR - 2023-05-09 20:57:17 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-05-09 20:57:17 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 20
+ERROR - 2023-05-09 20:57:17 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 34
+ERROR - 2023-05-09 20:57:17 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/bcc/application/views/Include/Footer.php 34

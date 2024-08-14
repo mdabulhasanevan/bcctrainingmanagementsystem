@@ -1,0 +1,29 @@
+ERROR - 2024-07-20 01:20:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-20 01:24:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-20 01:28:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-20 02:18:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-20 02:18:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-20 02:18:41 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-07-20 02:18:42 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-07-20 04:49:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-20 06:11:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-20 06:18:48 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-07-20 06:18:49 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-07-20 07:11:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-20 08:36:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-20 08:36:43 --> Query error: Unknown column 'link' in 'where clause' - Invalid query: SELECT * FROM breakingnews WHERE BrId=link order by BrId DESC limit 10
+ERROR - 2024-07-20 08:36:43 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/News_model.php 52
+ERROR - 2024-07-20 11:54:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-20 11:54:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-20 11:54:20 --> Severity: Notice --> Trying to get property 'Headline' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 9
+ERROR - 2024-07-20 11:54:20 --> Severity: Notice --> Trying to get property 'Date' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 10
+ERROR - 2024-07-20 11:54:20 --> Severity: Notice --> Trying to get property 'Detail' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Home/NoticeOpen.php 12
+ERROR - 2024-07-20 12:22:47 --> Severity: Notice --> Trying to get property 'Headline' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/WebView/NoticeOpen.php 25
+ERROR - 2024-07-20 12:22:47 --> Severity: Notice --> Trying to get property 'Date' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/WebView/NoticeOpen.php 26
+ERROR - 2024-07-20 12:22:47 --> Severity: Notice --> Trying to get property 'Detail' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/WebView/NoticeOpen.php 28
+ERROR - 2024-07-20 12:31:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-20 13:23:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-20 21:21:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-20 21:21:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-20 21:48:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-20 22:50:14 --> 404 Page Not Found: Robotstxt/index

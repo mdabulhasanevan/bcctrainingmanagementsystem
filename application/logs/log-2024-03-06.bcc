@@ -1,0 +1,26 @@
+ERROR - 2024-03-06 00:02:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-06 00:02:11 --> 404 Page Not Found: Uploads/anual_plan_ap_2022_23_pirojpur_sadar_2_for_merge.pdf
+ERROR - 2024-03-06 07:08:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-06 08:40:46 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-03-06 11:01:23 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-03-06 11:01:29 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-03-06 11:10:33 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-03-06 14:17:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-06 14:32:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-06 15:19:07 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-03-06 15:19:16 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-03-06 15:20:24 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-03-06 16:41:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-06 19:34:39 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-03-06 19:34:49 --> 404 Page Not Found: Uploads/users
+ERROR - 2024-03-06 20:09:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-06 20:40:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-06 20:40:40 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-03-06 21:10:38 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-03-06 21:27:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-06 21:58:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-06 22:02:10 --> 404 Page Not Found: Student/UserProfile
+ERROR - 2024-03-06 22:22:51 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php:212) /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/core/Common.php 570
+ERROR - 2024-03-06 22:22:51 --> Severity: Error --> Maximum execution time of 300 seconds exceeded /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/libraries/Session/drivers/Session_files_driver.php 212
+ERROR - 2024-03-06 22:22:51 --> Severity: Warning --> Unknown: Cannot call session save handler in a recursive manner Unknown 0
+ERROR - 2024-03-06 22:22:51 --> Severity: Warning --> Unknown: Failed to write session data using user defined save handler. (session.save_path: /var/cpanel/php/sessions/ea-php73) Unknown 0

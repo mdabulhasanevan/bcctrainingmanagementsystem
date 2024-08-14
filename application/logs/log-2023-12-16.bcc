@@ -1,0 +1,20 @@
+ERROR - 2023-12-16 03:34:49 --> 404 Page Not Found: Wp_loginphp/index
+ERROR - 2023-12-16 05:36:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-12-16 08:53:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-12-16 08:53:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-12-16 09:29:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-12-16 12:10:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-12-16 13:11:52 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-12-16 13:11:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-12-16 13:11:52 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-12-16 17:21:59 --> Query error: Unknown column 'images' in 'where clause' - Invalid query: SELECT * FROM breakingnews WHERE BrId=images order by BrId DESC limit 10
+ERROR - 2023-12-16 17:21:59 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/News_model.php 52
+ERROR - 2023-12-16 17:26:09 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-12-16 17:26:15 --> 404 Page Not Found: Uploads/users
+ERROR - 2023-12-16 17:26:49 --> Query error: Unknown column 'images' in 'where clause' - Invalid query: SELECT * FROM breakingnews WHERE BrId=images order by BrId DESC limit 10
+ERROR - 2023-12-16 17:26:49 --> Severity: error --> Exception: Call to a member function row() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/models/News_model.php 52
+ERROR - 2023-12-16 20:11:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-12-16 20:11:57 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-12-16 20:41:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-12-16 20:41:55 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-12-16 21:40:09 --> 404 Page Not Found: Robotstxt/index

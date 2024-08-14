@@ -1,0 +1,109 @@
+ERROR - 2024-08-02 01:06:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-08-02 01:19:11 --> Query error: Table 'expresstechbd_bcc.student' doesn't exist - Invalid query: SELECT COUNT(*) AS `numrows`
+FROM `student`
+ERROR - 2024-08-02 01:19:11 --> Severity: error --> Exception: Call to a member function num_rows() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/database/DB_query_builder.php 1429
+ERROR - 2024-08-02 01:49:34 --> Query error: Table 'expresstechbd_bcc.student' doesn't exist - Invalid query: SELECT COUNT(*) AS `numrows`
+FROM `student`
+ERROR - 2024-08-02 01:49:34 --> Severity: error --> Exception: Call to a member function num_rows() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/database/DB_query_builder.php 1429
+ERROR - 2024-08-02 01:51:12 --> Severity: Notice --> Trying to get property 'Headline' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/WebView/NoticeOpen.php 25
+ERROR - 2024-08-02 01:51:12 --> Severity: Notice --> Trying to get property 'Date' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/WebView/NoticeOpen.php 26
+ERROR - 2024-08-02 01:51:12 --> Severity: Notice --> Trying to get property 'Detail' of non-object /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/WebView/NoticeOpen.php 28
+ERROR - 2024-08-02 02:26:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-08-02 02:26:46 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-08-02 02:26:47 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-08-02 02:38:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-08-02 02:58:50 --> Query error: Table 'expresstechbd_bcc.student' doesn't exist - Invalid query: SELECT COUNT(*) AS `numrows`
+FROM `student`
+ERROR - 2024-08-02 02:58:50 --> Severity: error --> Exception: Call to a member function num_rows() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/database/DB_query_builder.php 1429
+ERROR - 2024-08-02 03:04:12 --> Query error: Table 'expresstechbd_bcc.student' doesn't exist - Invalid query: SELECT COUNT(*) AS `numrows`
+FROM `student`
+ERROR - 2024-08-02 03:04:12 --> Severity: error --> Exception: Call to a member function num_rows() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/database/DB_query_builder.php 1429
+ERROR - 2024-08-02 03:15:26 --> Query error: Table 'expresstechbd_bcc.student' doesn't exist - Invalid query: SELECT COUNT(*) AS `numrows`
+FROM `student`
+ERROR - 2024-08-02 03:15:26 --> Severity: error --> Exception: Call to a member function num_rows() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/database/DB_query_builder.php 1429
+ERROR - 2024-08-02 03:26:54 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-08-02 03:26:54 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-08-02 03:26:54 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-08-02 03:26:54 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-08-02 03:26:54 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-08-02 03:26:54 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-08-02 03:48:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-08-02 04:04:58 --> Query error: Table 'expresstechbd_bcc.student' doesn't exist - Invalid query: SELECT COUNT(*) AS `numrows`
+FROM `student`
+ERROR - 2024-08-02 04:04:58 --> Severity: error --> Exception: Call to a member function num_rows() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/database/DB_query_builder.php 1429
+ERROR - 2024-08-02 04:05:35 --> Query error: Table 'expresstechbd_bcc.student' doesn't exist - Invalid query: SELECT COUNT(*) AS `numrows`
+FROM `student`
+ERROR - 2024-08-02 04:05:35 --> Severity: error --> Exception: Call to a member function num_rows() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/database/DB_query_builder.php 1429
+ERROR - 2024-08-02 05:04:35 --> Query error: Table 'expresstechbd_bcc.student' doesn't exist - Invalid query: SELECT COUNT(*) AS `numrows`
+FROM `student`
+ERROR - 2024-08-02 05:04:35 --> Severity: error --> Exception: Call to a member function num_rows() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/database/DB_query_builder.php 1429
+ERROR - 2024-08-02 05:31:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-08-02 10:49:26 --> Query error: Table 'expresstechbd_bcc.student' doesn't exist - Invalid query: SELECT COUNT(*) AS `numrows`
+FROM `student`
+ERROR - 2024-08-02 10:49:26 --> Severity: error --> Exception: Call to a member function num_rows() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/database/DB_query_builder.php 1429
+ERROR - 2024-08-02 10:49:32 --> Query error: Table 'expresstechbd_bcc.student' doesn't exist - Invalid query: SELECT COUNT(*) AS `numrows`
+FROM `student`
+ERROR - 2024-08-02 10:49:32 --> Severity: error --> Exception: Call to a member function num_rows() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/database/DB_query_builder.php 1429
+ERROR - 2024-08-02 12:36:13 --> Query error: Table 'expresstechbd_bcc.student' doesn't exist - Invalid query: SELECT COUNT(*) AS `numrows`
+FROM `student`
+ERROR - 2024-08-02 12:36:13 --> Severity: error --> Exception: Call to a member function num_rows() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/database/DB_query_builder.php 1429
+ERROR - 2024-08-02 12:58:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-08-02 13:34:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-08-02 13:34:57 --> Query error: Table 'expresstechbd_bcc.student' doesn't exist - Invalid query: SELECT COUNT(*) AS `numrows`
+FROM `student`
+ERROR - 2024-08-02 13:34:57 --> Severity: error --> Exception: Call to a member function num_rows() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/database/DB_query_builder.php 1429
+ERROR - 2024-08-02 13:43:35 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-08-02 13:43:35 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-08-02 13:43:35 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-08-02 13:43:35 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-08-02 13:43:35 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-08-02 13:43:35 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-08-02 14:51:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-08-02 14:51:15 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-08-02 14:51:15 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-08-02 14:51:15 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-08-02 14:51:15 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-08-02 14:51:15 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-08-02 14:51:15 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-08-02 15:25:47 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-08-02 15:25:47 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-08-02 15:25:47 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-08-02 15:25:47 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-08-02 15:25:47 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-08-02 15:25:47 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-08-02 16:10:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-08-02 16:39:24 --> Query error: Table 'expresstechbd_bcc.student' doesn't exist - Invalid query: SELECT COUNT(*) AS `numrows`
+FROM `student`
+ERROR - 2024-08-02 16:39:24 --> Severity: error --> Exception: Call to a member function num_rows() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/database/DB_query_builder.php 1429
+ERROR - 2024-08-02 16:56:58 --> Query error: Table 'expresstechbd_bcc.student' doesn't exist - Invalid query: SELECT COUNT(*) AS `numrows`
+FROM `student`
+ERROR - 2024-08-02 16:56:58 --> Severity: error --> Exception: Call to a member function num_rows() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/database/DB_query_builder.php 1429
+ERROR - 2024-08-02 16:59:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-08-02 17:08:54 --> Query error: Table 'expresstechbd_bcc.student' doesn't exist - Invalid query: SELECT COUNT(*) AS `numrows`
+FROM `student`
+ERROR - 2024-08-02 17:08:54 --> Severity: error --> Exception: Call to a member function num_rows() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/database/DB_query_builder.php 1429
+ERROR - 2024-08-02 17:40:51 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-08-02 17:40:51 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-08-02 17:40:51 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-08-02 17:40:51 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-08-02 17:40:51 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-08-02 17:40:51 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-08-02 17:53:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-08-02 18:02:42 --> Query error: Table 'expresstechbd_bcc.student' doesn't exist - Invalid query: SELECT COUNT(*) AS `numrows`
+FROM `student`
+ERROR - 2024-08-02 18:02:42 --> Severity: error --> Exception: Call to a member function num_rows() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/database/DB_query_builder.php 1429
+ERROR - 2024-08-02 20:01:51 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-08-02 20:01:51 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 6
+ERROR - 2024-08-02 20:01:51 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-08-02 20:01:51 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 20
+ERROR - 2024-08-02 20:01:51 --> Severity: Notice --> Undefined variable: Office /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-08-02 20:01:51 --> Severity: Warning --> Invalid argument supplied for foreach() /home/expresstechbd/public_html/AllTrainingManagement/bcc/application/views/Include/Footer.php 34
+ERROR - 2024-08-02 20:13:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-08-02 20:32:18 --> 404 Page Not Found: Home/link
+ERROR - 2024-08-02 20:39:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-08-02 20:39:51 --> Query error: Table 'expresstechbd_bcc.student' doesn't exist - Invalid query: SELECT COUNT(*) AS `numrows`
+FROM `student`
+ERROR - 2024-08-02 20:39:51 --> Severity: error --> Exception: Call to a member function num_rows() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/database/DB_query_builder.php 1429
+ERROR - 2024-08-02 20:40:12 --> Query error: Table 'expresstechbd_bcc.student' doesn't exist - Invalid query: SELECT COUNT(*) AS `numrows`
+FROM `student`
+ERROR - 2024-08-02 20:40:12 --> Severity: error --> Exception: Call to a member function num_rows() on bool /home/expresstechbd/public_html/AllTrainingManagement/bcc/system/database/DB_query_builder.php 1429
